@@ -23,13 +23,20 @@ Directly related: 0.70 to 1.00 <br>
 Indirectly related: 0.30 to 0.69 <br>
 Neutral: 0.00 to 0.29
 </p>
-<h3> Dimension 1: Directional Sentiment (a.k.a. Sentiment Popularity)</h3>
-<p>It determines whether each news article implies a positive, negative, or neutral impact on &lt;Company Ticker&gt;'s stock over the next week.</p>
-<p>Scoring Ranges: <br>
-Bullish: 0.60 to 1.00 <br>
-Neutral: -0.59 to 0.59 <br>
-Bearish: -0.60 to -1.00
-</p>
+
+<div>
+<h3> Dimension 1: Directional Sentiment (a.k.a. Sentiment Popularity) </h3>
+  <p>
+  <b>Definition:</b> Directional Sentiment = the expected near-term stock price direction implied solely by the     article’s content.
+  </p>
+  <p>**It is direction, not importance.</p>
+  <p>Scoring Ranges: <br>
+     Bullish: 0.60 to 1.00 <br>
+     Neutral: -0.59 to 0.59 <br>
+     Bearish: -0.60 to -1.00
+  </p>
+</div>
+
 <h2>Task2: Intergation into the Fama-French three-factor model</h2>
 
 <h2>Task3: Implementing real-life long-short investment strategies</h2>
