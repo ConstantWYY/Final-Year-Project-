@@ -15,7 +15,7 @@
 <div>
 <h1>Tasks</h1>
 <h2>Task1: Deciding the dimensions</h2>
-<p> We need to decide on dimensions and the number of dimensions.</p>
+<p> We need to decide on the number of dimensions for the sentiment score.</p>
 <h3>Dimension 0: Relevance Score</h3>
 <p>It determines how relevant each news item is to &lt;Company Ticker&gt; for predicing next week's stock return</p>
 <p>Scoring Ranges: <br>
