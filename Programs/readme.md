@@ -16,7 +16,7 @@ It performs the following tasks:
 3. Group news entries into clusters with cosine similarity greater than 0.7
 4. Retain only one news entry with the longest headline + summary from each cluster
 
-## deduplicate_TFIDF.py
+## deduplicate_Transformer.py
 This program is based on the [deduplicate-prompt](../Prompts) and is designed to remove semantically similar news entries from the cleaned datasets using a transformer.  
 ** In general, the transformer is better than using TF-IDF.
 It performs the following tasks:
