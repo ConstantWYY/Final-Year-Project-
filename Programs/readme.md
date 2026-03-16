@@ -1,7 +1,6 @@
 <h1>Programs</h1>
 
-<div>
-<h2>data_cleaning.py</h2>
+## data_cleaning.py</h2>
 This is a program based on the [data-cleaning-prompt](../Prompts/cleaning_prompt.docx).
 <p>It performs the following task:
 <ol>
@@ -10,7 +9,7 @@ This is a program based on the [data-cleaning-prompt](../Prompts/cleaning_prompt
 <li>Remove identical news entries</li> 
 <li>Formatting</li> 
 <ol></p>
-</div>
+
 
 <div>
 <h2>relevance.py</h2>
