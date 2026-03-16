@@ -11,16 +11,15 @@ This is a program based on the [data-cleaning-prompt](../Prompts/cleaning_prompt
 <ol></p>
 
 
-<div>
-<h2>relevance.py</h2>
-<p>This is a program based on the relevance prompt.</p>
-<p>It requires a config file and a CSV file as input.</p>
-<p>It uses keyword matching to assign labels and scores to each financial news data.</p>
-<p>We did not choose to use any Machine learning model because we do not have time for labeling the dataset manually.</p>
+## relevance.py
+This is a program based on the relevance prompt.
+It requires a config file and a CSV file as input.
+It uses keyword matching to assign labels and scores to each financial news data.
+We did not choose to use any Machine learning model because we do not have time for labeling the dataset manually.
 <p>It ranges from [0,1], where:
 <ol>
 <li>Directly Related: 0.70 - 1.00</li> 
 <li>Indirectly Related: 0.30 - 0.69</li> 
 <li>Unrelated: 0.00 - 0.29</li> 
 <ol></p>
-</div>
+
