@@ -13,7 +13,7 @@
 </div>
 
 <div>
-<h2>relevance.py.py</h2>
+<h2>relevance.py</h2>
 <p>This is a program based on the relevance prompt.</p>
 <p>It requires a config file and a CSV file as input.</p>
 <p>It uses keyword matching to assign labels and scores to each financial news data.</p>
