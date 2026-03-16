@@ -6,7 +6,7 @@
 <p>It performs the following task:
 <ol>
 <li>Remove rows with missing values</li> 
-<li>Remove all the Zacks.com promotion content</li> 
+<li>Remove all the Zacks.com promotion content from the Finhub API</li> 
 <li>Remove identical news entries</li> 
 <li>Formatting</li> 
 <ol></p>
