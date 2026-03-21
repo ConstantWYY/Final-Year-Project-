@@ -18,7 +18,23 @@
     "leica biosystems",
     "genedata",
     "laboratory instruments",
-    "research tools"
+    "research tools",
+    "immunoassay",
+    "flow cytometry",
+    "liquid handling",
+    "automation",
+    "cell analysis",
+    "protein analysis",
+    "genomics",
+    "digital pathology",
+    "HER2 assay",
+    "virtual cell",
+    "4D cell",
+    "pathology",
+    "biopharma",
+    "bioprocess",
+    "respiratory diagnostics",
+    "sustainability solutions"
   ],
 
   "direct_keywords": [
@@ -44,7 +60,30 @@
     "capital allocation",
     "share buyback",
     "CEO",
-    "CFO"
+    "CFO",
+    "immunoassay",
+    "flow cytometry",
+    "automation",
+    "digital pathology",
+    "HER2",
+    "virtual cell",
+    "4D cell",
+    "sustainability report",
+    "sustainability",
+    "ESG",
+    "bioprocess",
+    "respiratory revenue",
+    "diagnostics sales",
+    "earnings call",
+    "guidance update",
+    "analyst rating",
+    "price target",
+    "stock rating",
+    "Q3",
+    "Q4",
+    "quarterly report",
+    "Form 10-Q",
+    "Form 8-K"
   ],
 
   "indirect_keywords": [
@@ -58,7 +97,20 @@
     "instrument replacement cycle",
     "healthcare regulation",
     "tariffs",
-    "supply chain"
+    "supply chain",
+    "biopharma",
+    "pharma",
+    "healthcare trends",
+    "market outlook",
+    "research funding",
+    "AI in healthcare",
+    "machine learning",
+    "data analytics",
+    "supply chain resilience",
+    "global health",
+    "sustainability",
+    "environmental impact",
+    "corporate responsibility"
   ],
 
   "low_signal_phrases": [
@@ -83,6 +135,17 @@
     "podcast",
     "technical analysis",
     "chart analysis",
-    "price prediction"
+    "price prediction",
+    "earnings preview",
+    "earnings snapshot",
+    "stock falls",
+    "stock rises",
+    "outperforms market",
+    "underperforms market",
+    "fund commentary",
+    "investment thesis",
+    "bullish thesis",
+    "bearish thesis",
+    "portfolio commentary"
   ]
 }

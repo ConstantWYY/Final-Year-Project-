@@ -25,7 +25,18 @@
     "meta ai",
     "llama",
     "ray-ban meta",
-    "quest"
+    "quest",
+    "Meta Quest",
+    "Quest 3",
+    "Meta Connect",
+    "Meta Horizon",
+    "Meta Verified",
+    "Meta Pay",
+    "Meta Reality",
+    "Meta Threads",
+    "Ray-Ban Meta Smart Glasses",
+    "Meta AI Studio",
+    "Meta Llama 3"
   ],
 
   "direct_keywords": [
@@ -64,7 +75,33 @@
     "EU fine",
     "privacy",
     "appeal",
-    "court ruling"
+    "court ruling",
+    "AI model",
+    "AI partnership",
+    "AI infrastructure",
+    "AI investment",
+    "AI research",
+    "AI safety",
+    "AI regulation",
+    "AI monetization",
+    "facial recognition",
+    "privacy lawsuit",
+    "content moderation",
+    "platform ban",
+    "account suspension",
+    "user growth",
+    "monthly active users",
+    "daily active users",
+    "engagement",
+    "ad revenue",
+    "ad impressions",
+    "ad targeting",
+    "algorithm change",
+    "data privacy",
+    "deepfake",
+    "scam ads",
+    "celebrity scam",
+    "network partnership"
   ],
 
   "indirect_keywords": [
@@ -93,7 +130,24 @@
     "nasdaq",
     "s&p 500",
     "ETF",
-    "esg"
+    "esg",
+    "AI race",
+    "AI competition",
+    "AI ethics",
+    "AI transparency",
+    "AI bias",
+    "AI-generated content",
+    "AI-powered",
+    "cloud partnership",
+    "data center expansion",
+    "influencer marketing",
+    "digital creator",
+    "social commerce",
+    "election misinformation",
+    "regulatory scrutiny",
+    "youth protection",
+    "child safety",
+    "digital wellbeing"
   ],
 
   "low_signal_phrases": [
@@ -115,6 +169,20 @@
     "technical analysis",
     "is it a buy",
     "could hit",
-    "might be next"
+    "might be next",
+    "stock forecast",
+    "analyst price target",
+    "bull case",
+    "bear case",
+    "market sentiment",
+    "portfolio update",
+    "fund letter",
+    "investment ideas",
+    "hedge fund",
+    "mutual fund",
+    "ETF flows",
+    "market cap milestone",
+    "quarterly preview",
+    "earnings preview"
   ]
 }

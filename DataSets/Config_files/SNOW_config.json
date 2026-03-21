@@ -21,7 +21,12 @@
     "unistore",
     "openflow",
     "zero copy integration",
-    "iceberg tables"
+    "iceberg tables",
+    "anthropic partnership",
+    "claude models",
+    "power platform connector",
+    "datavolo acquisition",
+    "open data integration platform"
   ],
 
   "direct_keywords": [
@@ -60,7 +65,19 @@
 
     "ceo",
     "cfo",
-    "management commentary"
+    "management commentary",
+
+    "guidance raise",
+    "revenue beat",
+    "q3 earnings",
+    "build conference",
+    "claude 3.5",
+    "cross-cloud collaboration",
+    "data sharing",
+    "ai-driven insights",
+    "private preview",
+    "bronze layer",
+    "multimodal data pipelines"
   ],
 
   "indirect_keywords": [
@@ -89,7 +106,25 @@
     "it budgets",
 
     "sustainability",
-    "esg"
+    "esg",
+
+    "generative ai",
+    "ai adoption",
+    "ai product initiatives",
+    "data mesh",
+    "data lakehouse",
+    "data warehouse",
+    "predictive analytics",
+    "enterprise ai",
+    "sovereign ai",
+    "ai safety",
+    "ai models",
+    "ai ecosystem",
+    "ai conference",
+    "ai news",
+    "ai headlines",
+    "ai-driven growth",
+    "ai-driven business solutions"
   ],
 
   "low_signal_phrases": [
@@ -98,6 +133,20 @@
     "top stocks",
     "stocks to buy",
     "week ahead",
+    "price target",
+    "analyst rating",
+    "stock pops",
+    "shares surge",
+    "wall street",
+    "earnings preview",
+    "investor conference",
+    "market action",
+    "buy/sell/hold",
+    "q3 call",
+    "transcript",
+    "presentation",
+    "results",
+    "financial results",
     "technical analysis",
     "chart pattern",
     "price action only",

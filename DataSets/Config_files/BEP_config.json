@@ -19,7 +19,13 @@
     "clean power",
     "power purchase agreement",
     "PPA",
-    "utility-scale renewables"
+    "utility-scale renewables",
+    "hydrogen",
+    "carbon capture",
+    "distributed generation",
+    "virtual power plant",
+    "grid modernization",
+    "energy arbitrage"
   ],
 
   "direct_keywords": [
@@ -42,7 +48,10 @@
     "financing",
     "green bonds",
     "CEO",
-    "CFO"
+    "CFO",
+    "virtual power plant",
+    "grid modernization",
+    "energy arbitrage"
   ],
 
   "indirect_keywords": [
@@ -57,7 +66,10 @@
     "ESG",
     "decarbonization",
     "regulation",
-    "energy policy"
+    "energy policy",
+    "hydrogen",
+    "carbon capture",
+    "distributed generation"
   ],
 
   "low_signal_phrases": [
