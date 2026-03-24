@@ -147,5 +147,18 @@
     "bullish thesis",
     "bearish thesis",
     "portfolio commentary"
+  ],
+    "positive_keywords": [
+    "beats expectations","eps beats","beats on","beat estimates","beats estimates","raises guidance","raised guidance","in line annual profit","forecast annual profit in line","profit jumps","surpass expectations",
+    "approval","approved","clears","receives ce mark","receives ce-mark","ce mark","ce-mark","authorized","authorization","reimbursed","wins","win","verdict","not liable","not responsible","lawsuit win",
+    "partnership","collaborat","integrat","price target raised","overweight rating","outperform rating","buy rating","upgraded","upgrade","initiates trial","initiated trial","new trial","data shows","positive data","strong growth","margin expansion","expands","expansion","first-in-world",
+    "dividend increase","increases dividend","raised dividend","declares dividend","quarterly dividend","strong demand","launch","launches","invest","investment","investing","host conference call for earnings","guidance met","maintains guidance","maintained guidance","maintains outlook","reaffirms guidance",
+    "first patient procedures","first-of-its-kind","first in the world","wins fda nod","wins fda approval","fda approves","fda cleared","fda clears","health canada","cms coverage","coverage"
+  ],
+  "negative_keywords": [
+    "misses","miss","declines","cuts","cut guidance","guidance cut","downgraded","downgrade","lawsuit","penalty","penalties","probe","investigation","retrial","new trial could be heard","judge ordered a new trial","overturned verdict","recall","halt","block","short seller","pricing pressure","margin declines","inventory issues","restatement","under investigation","tariff","tariffs","costs","hit from china","weaker-than-expected","sinks","plummeted","falls","fell","drops","dropped","declines while market gains","stock sinks","stock drops","profit falls","revenue falls","forecasts below","below expectations","outlook cut","narrows outlook","lowers outlook","lowered outlook","ban","banned"
+  ],
+  "price_move_keywords": [
+    "stock underperforms","stock outperforms","stock rises","stock falls","trading day","marketwatch","roundup","premarket movers","health care roundup","gains and losses today","trending tickers","market minute"
   ]
 }
