@@ -3,7 +3,6 @@ import re
 import json
 import argparse
 
-
 # Parse command-line arguments
 parser = argparse.ArgumentParser(description='Directional sentiment classification with config keywords.')
 parser.add_argument('--input', required=True, help='Input CSV file (processed)')
@@ -19,7 +18,6 @@ df = pd.read_csv(input_file)
 expected_cols = ['date','headline','source','summary']
 assert all(c in df.columns for c in expected_cols), f"Missing expected columns. Found: {df.columns.tolist()}"
 
-
 # Load keywords from config file
 with open(args.config, 'r', encoding='utf-8') as f:
     config = json.load(f)
@@ -34,7 +32,7 @@ def classify_row(headline, summary, source):
     text = ' '.join([str(headline).lower(), str(summary).lower(), str(source).lower()])
     text_norm = re.sub(r'\s+', ' ', text)
 
-    # Option 1: Use -1, 0, 1 for sentiment
+    # Use -1, 0, 1 for sentiment
     if any(kw in text_norm for kw in positive_kw):
         return 1, 'Bullish', 'Positive keyword(s) detected.'
     if any(kw in text_norm for kw in negative_kw):
