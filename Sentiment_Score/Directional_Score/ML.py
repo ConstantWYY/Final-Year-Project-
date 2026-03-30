@@ -1,4 +1,4 @@
-import argparse
+import numpy as np
 import os
 import pandas as pd
 from sklearn.linear_model import Ridge
@@ -19,6 +19,21 @@ REQUIRED_PREDICT_COLS = [
     "source",
     "summary",
 ]
+
+def calculate_daily_sentiment(df):
+    # 1. ENFORCE BOUNDARIES (Clip directional score to -1.0 and 1.0)
+    df['directional_score'] = np.clip(df['directional_score'], -1.0, 1.0)
+    # 2. CALCULATE PER-ARTICLE SCORE
+    if all(col in df.columns for col in ['relevance', 'reliability']):
+        df['article_score'] = df['directional_score'] * df['relevance'] * df['reliability']
+    else:
+        df['article_score'] = df['directional_score']
+    # 3. AGGREGATE BY DATE (Using Mean/Average)
+    daily_scores = df.groupby('date')['article_score'].mean().reset_index()
+    # Rename column for clarity
+    daily_scores.rename(columns={'article_score': 'daily_sentiment_signal'}, inplace=True)
+    return daily_scores
+import argparse
 
 def check_output_row_count(input_csv_path: str, output_csv_path: str) -> None:
     """
@@ -98,6 +113,9 @@ def predict_for_file(
         "directional_score": predicted_scores,
     })
 
+    # Clip directional_score between -1 and 1
+    result_df["directional_score"] = np.clip(result_df["directional_score"], -1.0, 1.0)
+
     # 3) Override predictions with training scores where available
     if train_csv_path and os.path.exists(train_csv_path):
         train_df = pd.read_csv(train_csv_path)
@@ -127,6 +145,9 @@ def predict_for_file(
         )
 
         result_df.drop(columns=["directional_score_train"], inplace=True)
+
+        # Clip again after merging
+        result_df["directional_score"] = np.clip(result_df["directional_score"], -1.0, 1.0)
 
     # 4) Convert scores to categories
     result_df["category"] = result_df["directional_score"].apply(score_to_category)
