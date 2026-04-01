@@ -1,3 +1,8 @@
+"""
+Usage:
+Default: python Sentiment_Score/Directional_Score/combine.py
+Custom: python Sentiment_Score/Directional_Score/combine.py --ticker ABT
+"""
 import argparse
 import pandas as pd
 import os
@@ -12,20 +17,20 @@ def combine_sample_and_output(output_csv_name, sample_csv_name):
     output_csv = os.path.join(outputs_dir, output_csv_name)
     sample_csv = os.path.join(sample_dir, sample_csv_name)
 
-    # Read the sampled_full and output CSVs, skipping the header row
+
+    # Read the sampled_full CSV, skipping the header row
     sample_df = pd.read_csv(sample_csv, skiprows=1, header=None)
-    output_df = pd.read_csv(output_csv, skiprows=1, header=None, names=["date", "category", "directional_score"])
+    # Read the output CSV (index, score), skip no header
+    output_df = pd.read_csv(output_csv, header=None, names=["idx", "directional_score"])
 
     # Check that the number of rows match
     if len(sample_df) != len(output_df):
         raise ValueError(f"Row count mismatch: {len(sample_df)} in sample, {len(output_df)} in output.")
 
-    # Combine columns as specified
-    combined_df = pd.concat([
-        sample_df.reset_index(drop=True),
-        output_df[["category", "directional_score"]].reset_index(drop=True)
-    ], axis=1)
-    combined_df.columns = ["date", "headline", "source", "summary", "category", "directional_score"]
+    # Combine: add the score as a new column
+    combined_df = sample_df.copy()
+    combined_df[4] = output_df["directional_score"].values
+    combined_df.columns = ["date", "headline", "source", "summary", "directional_sentiment"]
 
     # Determine ticker from output file name
     ticker = output_csv_name.split('_')[0]
@@ -38,13 +43,26 @@ def combine_sample_and_output(output_csv_name, sample_csv_name):
 
 def main():
     parser = argparse.ArgumentParser(description="Combine sampled_full and output CSVs and save as <Ticker>_train.csv in Directional_Train.")
-    parser.add_argument("--sample", required=True, help="Name of the sampled_full CSV file in Directional_Sample (e.g., ABT_sample_full.csv)")
+    parser.add_argument("--ticker", help="Ticker symbol (e.g. ABT)")
     args = parser.parse_args()
 
-    # Always infer output file name from sample
-    ticker = args.sample.split('_')[0]
-    output_name = f"{ticker}_output.csv"
-    combine_sample_and_output(output_name, args.sample)
+    # Hardcoded array of tickers
+    preset_ticker = [
+        "ABT", "AMZN", "AVGO", "BEP", "DHR", "ENPH", "FSLR", "ISRG", "LLY", "META", "NEE", "NVO", "PLUG", "SNOW", "TSLA"
+    ]
+
+    if args.ticker:
+        ticker_list = [args.ticker]
+    else:
+        ticker_list = preset_ticker
+
+    for ticker in ticker_list:
+        sample_name = f"{ticker}_sample_full.csv"
+        output_name = f"{ticker}_output.csv"
+        try:
+            combine_sample_and_output(output_name, sample_name)
+        except Exception as e:
+            print(f"Error combining for {ticker}: {e}")
 
 if __name__ == "__main__":
     main()
