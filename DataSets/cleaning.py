@@ -103,12 +103,6 @@ def remove_missing_and_placeholders(df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.
 
 
 def remove_zacks_promotions(df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.DataFrame]:
-    """
-    Remove rows where summary contains (case-insensitive):
-      - Full text:
-        'Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.'
-      - Or keywords: 'Zacks.com', 'proven results'
-    """
     full_text = (
         "Looking for stock market analysis and research with proves results? "
         "Zacks.com offers in-depth financial research with over 30years of proven results."

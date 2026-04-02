@@ -8,7 +8,7 @@ import argparse
 import os
 import pandas as pd
 
-def split_csv(input_csv, chunk_size=50):
+def split_csv(input_csv, chunk_size=100):
     # Derive ticker from filename
     base = os.path.basename(input_csv)
     ticker = base.split('_')[0]
@@ -42,7 +42,7 @@ def split_csv(input_csv, chunk_size=50):
 def main():
     parser = argparse.ArgumentParser(description="Split a CSV file into multiple files of N rows each for a ticker, or use a preset array.")
     parser.add_argument("--ticker", help="Ticker symbol (e.g. ABT)")
-    parser.add_argument("--chunk_size", type=int, help="Number of rows per output file (default: 50)")
+    parser.add_argument("--chunk_size", type=int, help="Number of rows per output file (default: 100)")
     args = parser.parse_args()
 
     # Default directory for input files
@@ -70,9 +70,9 @@ def main():
     if args.ticker and args.chunk_size:
         ticker_chunk_list = [(args.ticker, args.chunk_size)]
     elif args.ticker:
-        ticker_chunk_list = [(args.ticker, 50)]
+        ticker_chunk_list = [(args.ticker, 100)]
     else:
-        ticker_chunk_list = [(ticker, 50) for ticker in preset_ticker]
+        ticker_chunk_list = [(ticker, 100) for ticker in preset_ticker]
 
     for ticker, chunk_size in ticker_chunk_list:
         input_path = os.path.join(default_dir, f"{ticker}_sample_full.csv")

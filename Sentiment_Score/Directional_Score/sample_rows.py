@@ -15,49 +15,52 @@ def sample_stratified(input_path, output_path, n_total, random_seed=42):
     df['date'] = pd.to_datetime(df['date'])
     df['temp_month'] = df['date'].dt.to_period('M')
 
+    # ✅ Handle small dataset case
+    if n_total >= len(df):
+        print(f"Requested {n_total}, but dataset has only {len(df)} rows.")
+        df.drop(columns=['temp_month']).to_csv(output_path, index=False)
+        return
+
+    rng = np.random.RandomState(random_seed)
+
     unique_months = df['temp_month'].unique()
     n_months = len(unique_months)
 
-    # 1. Initial Target per month
     target_per_month = n_total // n_months
     remainder = n_total % n_months
 
     sampled_indices = []
 
-    # 2. First Pass: Take what we can from each month up to the target
+    # First pass
     for i, month in enumerate(unique_months):
         month_indices = df[df['temp_month'] == month].index.tolist()
         month_target = target_per_month + (1 if i < remainder else 0)
 
-        # Take either the target or the whole month if it's smaller
         n_to_take = min(len(month_indices), month_target)
-        if n_to_take > 0:
-            sampled_indices.extend(np.random.RandomState(42).choice(
-                month_indices, n_to_take, replace=False
-            ))
 
-    # 3. Second Pass: If we are still short (because some months were tiny)
-    # Fill the gap by sampling from the REMAINING pool of all other months
-    if len(sampled_indices) < n_total:
-        gap = n_total - len(sampled_indices)
+        if n_to_take > 0:
+            sampled_indices.extend(
+                rng.choice(month_indices, n_to_take, replace=False)
+            )
+
+    # Second pass (fill gap)
+    gap = n_total - len(sampled_indices)
+
+    if gap > 0:
         remaining_pool = df.drop(sampled_indices).index.tolist()
 
-        if len(remaining_pool) >= gap:
-            extra_indices = np.random.RandomState(42).choice(
-                remaining_pool, gap, replace=False
+        extra = min(gap, len(remaining_pool))
+        if extra > 0:
+            sampled_indices.extend(
+                rng.choice(remaining_pool, extra, replace=False)
             )
-            sampled_indices.extend(extra_indices)
 
-    # 4. Finalize
     final_sample = df.loc[sampled_indices].sort_values('date')
     final_sample = final_sample.drop(columns=['temp_month'])
 
-    # Absolute Safety Check: Final Truncation
-    if len(final_sample) > n_total:
-        final_sample = final_sample.head(n_total)
+    print(f"Final sample size: {len(final_sample)}")
 
     final_sample.to_csv(output_path, index=False)
-    print(f"Successfully saved {len(final_sample)} stratified rows to {output_path}")
 
 
 def main():
@@ -75,21 +78,21 @@ def main():
 
     # Hardcoded array of (ticker, n) pairs
     preset_ticker_n = [
-        ("ABT", 250),
-        ("AMZN", 750),
-        ("AVGO", 350),
-        ("BEP", 100),
-        ("DHR", 150),
-        ("ENPH", 200),
-        ("FSLR", 200),
-        ("ISRG", 150),
-        ("LLY", 300),
-        ("META", 650),
-        ("NEE", 200),
-        ("NVO", 250),
-        ("PLUG", 120),
-        ("SNOW", 200),
-        ("TSLA",800)
+        ("ABT", 1000),
+        ("AMZN", 1000),
+        ("AVGO", 1000),
+        ("BEP", 1000),
+        ("DHR", 1000),
+        ("ENPH", 1000),
+        ("FSLR", 1000),
+        ("ISRG", 1000),
+        ("LLY", 1000),
+        ("META", 1000),
+        ("NEE", 1000),
+        ("NVO", 1000),
+        ("PLUG", 1000),
+        ("SNOW", 1000),
+        ("TSLA", 1000)
     ]
 
     if args.ticker and args.n:
