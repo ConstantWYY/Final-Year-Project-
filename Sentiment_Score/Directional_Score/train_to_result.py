@@ -30,9 +30,9 @@ def main():
 		raise ValueError(f'Missing columns {missing} in {input_file}')
 	result_df = df[keep_cols]
 
-	# Save without header and index
+	# Save with header and without index
 	temp_output = output_file + '.tmp'
-	result_df.to_csv(temp_output, index=False, header=False)
+	result_df.to_csv(temp_output, index=False, header=True)
 	os.replace(temp_output, output_file)
 	print(f'Saved: {output_file}')
 
