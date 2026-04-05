@@ -1,3 +1,7 @@
+"""
+python .\Porfolio\Portfolio_Rebalance_Result.py
+"""
+
 import pandas as pd
 import numpy as np
 import yfinance as yf
@@ -40,7 +44,7 @@ class PortfolioStrategy:
 
             df['Date'] = pd.to_datetime(df['Date'], format='%Y%m%d')
 
-            # 🔴 Align FF3 dates to Friday
+            # Align FF3 dates to Friday
             df['Date'] = df['Date'] + pd.offsets.Week(weekday=4)
 
             df.set_index('Date', inplace=True)
@@ -117,8 +121,10 @@ class PortfolioStrategy:
             # ==========================================
             # LOAD & FIX SENTIMENT DATA
             # ==========================================
+            # Use absolute path for sentiment file
             senti_filename = os.path.join(
-                '..', 'Sentiment_Score', 'Final_Sentiment_Score',
+                os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                'Sentiment_Score', 'Final_Sentiment_Score',
                 f"{ticker}_weekly_final_sentiment.csv"
             )
 
@@ -282,6 +288,8 @@ class PortfolioStrategy:
             # Smooth the signal
             pred = pred.rolling(3).mean()
 
+            # Ensure no duplicate indices in forecast series
+            pred = pred[~pred.index.duplicated(keep='first')]
             all_forecasts[ticker] = pred
 
         self.forecasts = pd.DataFrame(all_forecasts)
@@ -316,6 +324,10 @@ class PortfolioStrategy:
             row = self.forecasts.loc[date]
             rf_rate = row['RF'] / 100.0 if 'RF' in row else 0
 
+            # Diagnostic print for RF rate
+            if pd.isna(rf_rate):
+                print(f"[DEBUG] NaN rf_rate at {date}")
+
             # -----------------------------
             # 1. GET RAW SIGNALS
             # -----------------------------
@@ -331,11 +343,13 @@ class PortfolioStrategy:
 
             signals = signals_series.to_dict()
 
+
             # -----------------------------
-            # 3. APPLY THRESHOLD (Fix #4)
+            # 3. SELECT TOP/BOTTOM 4 FOR LONG/SHORT
             # -----------------------------
-            long_signals = {t: s for t, s in signals.items() if s > THRESHOLD}
-            short_signals = {t: s for t, s in signals.items() if s < -THRESHOLD}
+            sorted_signals = sorted(signals.items(), key=lambda x: x[1], reverse=True)
+            long_signals = dict(sorted_signals[:3])
+            short_signals = dict(sorted_signals[-3:])
 
             sum_long = sum(long_signals.values())
             sum_short = -sum(short_signals.values())
@@ -369,12 +383,21 @@ class PortfolioStrategy:
             for t in current_weights:
                 current_weights[t] = np.clip(current_weights[t], -MAX_WEIGHT, MAX_WEIGHT)
 
+            # Diagnostic print for weights
+            if any(pd.isna(list(current_weights.values()))):
+                print(f"[DEBUG] NaN in weights at {date}: {current_weights}")
+
             # -----------------------------
             # 7. CALCULATE RETURNS
             # -----------------------------
             for t, w in current_weights.items():
                 if t in self.stock_data and date in self.stock_data[t].index:
-                    r = self.stock_data[t].loc[date, 'Weekly_Return'] / 100.0
+                    r_val = self.stock_data[t].loc[date, 'Weekly_Return']
+                    if isinstance(r_val, pd.Series):
+                        r_val = r_val.iloc[0]  # Take the first if duplicate
+                    r = r_val / 100.0
+                    if pd.isna(r):
+                        print(f"[DEBUG] NaN return for {t} at {date}")
                     period_pnl += w * r
 
             # -----------------------------
@@ -383,6 +406,10 @@ class PortfolioStrategy:
             turnover = len(long_signals) + len(short_signals)
             cost = 0.001 * turnover
             period_pnl -= cost
+
+            # Diagnostic print for period_pnl
+            if pd.isna(period_pnl):
+                print(f"[DEBUG] NaN period_pnl at {date}")
 
             # -----------------------------
             # 9. UPDATE CAPITAL
@@ -393,6 +420,10 @@ class PortfolioStrategy:
             else:
                 cash = cash * (1 + rf_rate)
                 current_weights['Cash'] = 1.0
+
+            # Diagnostic print for cash
+            if pd.isna(cash):
+                print(f"[DEBUG] NaN cash at {date}")
 
             history.append({'Date': date, 'Strategy': cash})
             current_weights['Date'] = date
