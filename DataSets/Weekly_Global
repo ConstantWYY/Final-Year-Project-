@@ -1,0 +1,64 @@
+import pandas as pd
+import numpy as np
+import yfinance as yf
+
+# ==============================
+# CONFIGURATION
+# ==============================
+START_DATE = "2024-10-14"
+END_DATE   = "2025-10-12"
+BENCHMARK_TICKER = "^GSPC"
+
+# ==============================
+# 1. Download S&P 500 (returns MultiIndex)
+# ==============================
+print("Downloading S&P 500 data...")
+sp500 = yf.download(BENCHMARK_TICKER, start=START_DATE, end=END_DATE, progress=False)
+
+print("Original columns:")
+print(sp500.columns)
+
+# 1.1 If you have MultiIndex, keep only one level (e.g., "Close", "High", ...) for ticker "^GSPC"
+if isinstance(sp500.columns, pd.MultiIndex):
+    # Get the inner level (ticker names)
+    tickers = sp500.columns.get_level_values(1).unique()
+    assert tickers.size == 1 and tickers[0] == BENCHMARK_TICKER, "Expected only 1 ticker."
+
+    # Move to single‑index: ["Open", "High", "Low", "Close", "Volume", ...]
+    sp500.columns = sp500.columns.droplevel(1)
+    # or equivalently:
+    # sp500.columns = sp500.columns.droplevel(0)  # depending on which level is the ticker
+
+# 1.2 Now these columns actually exist
+print("Single‑level columns:")
+print(sp500.columns.tolist())
+
+# 1.3 Keep only the core columns
+sp500 = sp500[["Open", "High", "Low", "Close", "Volume"]].copy()
+
+# 1.4 Compute return and volatility (daily)
+sp500["Close"] = pd.to_numeric(sp500["Close"], errors="coerce")
+sp500["ret_d"] = sp500["Close"].pct_change() * 100.0
+sp500["vol_d"] = sp500["ret_d"].rolling(5).std().fillna(0)
+
+# 1.5 Weekly (Friday‑aligned)
+sp500.index = pd.to_datetime(sp500.index)
+weekly_global = sp500.resample("W-FRI").agg({
+    "Close": "last",
+    "Volume": "mean",
+    "vol_d": "mean"
+})
+
+# 1.6 Final weekly S&P proxies
+weekly_global["sp500_ret"]  = weekly_global["Close"].pct_change() * 100.0
+weekly_global["sp500_vol"]  = weekly_global["vol_d"].fillna(0)
+weekly_global["sp500_vol"]  = np.where(
+    weekly_global["sp500_vol"].isna(), 0, weekly_global["sp500_vol"]
+)
+
+weekly_global = weekly_global[["sp500_ret", "sp500_vol", "Volume"]].copy()
+weekly_global = weekly_global.rename(columns={"Volume": "sp500_volume"})
+
+print("Weekly_global columns:")
+print(weekly_global.columns.tolist())
+print(weekly_global.head())
