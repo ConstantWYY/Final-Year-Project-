@@ -1,0 +1,91 @@
+def build_stock_proxy(ticker, sp500_weekly, sentiment_dir):
+    """
+    For one ticker, return a DataFrame:
+    - index: weekly (W‑FRI) dates
+    - cols: sp500_ret, sp500_vol, sp500_volume, ret_stock, vol_stock, num_news, sentiment
+    """
+    # 3.1 Download stock daily data
+    df = yf.download(
+        ticker,
+        start=START_DATE,
+        end=END_DATE,
+        progress=False
+    )
+    df = df[["Close", "Volume"]].copy()
+    df["ret_d"] = df["Close"].pct_change() * 100.0
+    df["vol_d"] = df["ret_d"].rolling(5).std().fillna(0)
+
+    # 3.2 Weekly (Friday‑aligned)
+    df.index = pd.to_datetime(df.index)
+    weekly = df.resample("W-FRI").agg({
+        "Close": "last",
+        "Volume": "mean",
+        "vol_d": "mean"
+    })
+
+    weekly["ticker_ret"]  = weekly["Close"].pct_change() * 100.0
+    weekly["ticker_vol"]  = weekly["vol_d"].fillna(0)
+
+    weekly = weekly[["ticker_ret", "ticker_vol", "Volume"]].copy()
+    weekly = weekly.rename(columns={"Volume": "ticker_volume"})
+    weekly = weekly.dropna()
+
+    # 3.3 Join global S&P proxies
+    df_out = sp500_weekly.copy()
+    df_out = df_out.join(weekly, how="left")  # keep only S&P dates
+
+    # 3.4 Load your weekly sentiment file (for num_news and sentiment)
+    senti_path = os.path.join(
+        sentiment_dir,
+        f"{ticker}_weekly_final_sentiment.csv"
+    )
+
+    if os.path.exists(senti_path):
+        senti_df = pd.read_csv(senti_path)
+        senti_df["Date"] = pd.to_datetime(senti_df["End_Date"])
+        senti_df["Date"] = senti_df["Date"] + pd.offsets.Week(weekday=4)  # Friday
+        senti_df = senti_df.set_index("Date")[["Num_News", "Final_Sentiment"]].copy()
+        senti_df = senti_df.rename(columns={
+            "Num_News": "num_news",
+            "Final_Sentiment": "sentiment"
+        })
+        df_out = df_out.join(senti_df, how="left")
+    else:
+        print(f"  No sentiment file for {ticker}; using zeros.")
+        df_out["num_news"]    = 0
+        df_out["sentiment"]   = 0
+
+    # 3.5 Fill and clean
+    df_out["num_news"]    = df_out["num_news"].fillna(0).clip(0, None)
+    df_out["ticker_ret"]  = df_out["ticker_ret"].fillna(0)
+    df_out["ticker_vol"]  = df_out["ticker_vol"].fillna(0)
+
+    # 3.6 Keep only the proxies we want
+    cols = [
+        "sp500_ret", "sp500_vol", "sp500_volume",
+        "ticker_ret", "ticker_vol",
+        "num_news",
+        "sentiment"
+    ]
+    df_out = df_out[cols].copy()
+
+    return df_out
+
+
+# ==============================
+# 3. Run for all 15 tickers
+# ==============================
+all_proxies = {}
+
+for ticker in TICKERS:
+    print(f"Building proxies for {ticker}...")
+    try:
+        df_ticker = build_stock_proxy(ticker, weekly_global, SENTIMENT_DIR)
+        all_proxies[ticker] = df_ticker
+
+        # Save to CSV (optional; you can later feed this into the forecaster)
+        out_path = os.path.join(OUTPUT_DIR, f"{ticker}_proxies.csv")
+        df_ticker.to_csv(out_path)
+        print(f"  Saved {out_path}")
+    except Exception as e:
+        print(f"  Failed for {ticker}: {e}")
