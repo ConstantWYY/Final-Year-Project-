@@ -1,485 +1,426 @@
-date,relevance_score,category,rationale,evidence_spans
-2024-10-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Gears Up to Report Q3 Earnings: Whats in the Cards?"", ""DHRs Q3 results are likely to be affected by we""]"
-2024-10-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Baron Health Care Fund Q3 2024 Shareholder Letter""]"
-2024-10-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Spectris plc: Its A Great Time To Buy""]"
-2024-10-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Stocks to watch next week: Tesla, Lloyds, LOréal, Coca-Cola and Unilever""]"
-2024-10-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : Quarterly Report for Quarter Ending September 27, 2024 (""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher 3Q EPS, Sales Top Views on Strong Cepheid Test"", ""rran Danaher Corp. posted third-quarter earnings and sales ahead of Wall Street expectat""]"
-2024-10-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Reports Third Quarter 2024 Results"", ""Danaher Corporation (NYSE: DHR) (the Company) t""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher: Q3 Earnings Snapshot""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation 2024 Q3 - Results - Earnings Call Presentation"", ""poration in conjunction with their 2024 Q3 earnings call.""]"
-2024-10-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : Reports Third Quarter 2024 Results Fo"", ""Danaher Reports Third Quarter 2024 Results WASH""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation (DHR) Q3 2024 Earnings Call Transcript"", ""Danaher Corporation (NYSE:DHR) Q3 2024 Earnings Call Transcript October 2""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Life Science Giant Danaher Q3 Earnings: Revenue And EPS Beat, Sticks"", ""he consensus of $5.59 billion. Non-GAAP core revenue increased by 0.5%, compared to the expe""]"
-2024-10-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""lts Top Street Views; Affirms Full-Year Core Revenue Outlook"", ""lts Top Street Views; Affirms Full-Year Core Revenue Outlook""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Q3 Earnings: How Key Metrics Compare to Wa""]"
-2024-10-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Stock Markets Taper on High Valuations, Upcoming Election""]"
-2024-10-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Tops Q3 Earnings and Revenue Estimates"", ""Danaher (DHR) delivered earnings and revenue surprises of 9.62% and 3.65""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Q3 Earnings Surpass Estimates, Diagnostics"", ""DHRs third-quarter earnings and sales surpass estimates, benefiting""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danahers Q3 Earnings Boosted By Bioprocessing Order"", ""beating the consensus of $5.59 billion. Guidance: Danaher reaffirms that in fiscal year""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Q3 2024 Danaher Corp Earnings Call"", ""Q3 2024 Danaher Corp Earnings Call""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""As Wall Street dives into the heart of earnings season, Jim Cramer has provided insight""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corp (DHR) Q3 2024 Earnings Call Highlights: Resilien"", ""Danaher Corp (DHR) reports steady revenue and strategic acquisitions, while navig""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Third Quarter 2024 Earnings: Revenues Beat Expectations, EPS In Lin"", ""rter 2024 Results Key Financial Results Revenue: US$5.80b (down 16% from 3Q 2023). Net.""]"
-2024-10-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Decoding Danaher Corp (DHR): A Strategic SWOT Insight"", ""Insightful Analysis of Danaher Corps Market Position and Future Prospe""]"
-2024-10-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher price target raised to $265 from $250 at Stifel"", ""analyst Daniel Arias raised the firm’s price target on Danaher (DHR) to $265 from $250 and""]"
-2024-10-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Understanding Danahers Cautiousness""]"
-2024-10-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Want to Grow a Passive Income Snowball? Buy These 7 Elite Dividend Growth Stocks.""]"
-2024-10-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Examine Danahers (DHR) international revenue patterns and their implications on Wall""]"
-2024-10-29,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Parnassus Growth Equity Fund Q3 2024 Commentary""]"
-2024-10-29,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Tuesday, underperform"", ""Danaher Corp. stock falls Tuesday, underperform""]"
-2024-10-30,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Wednesday, still outp"", ""Danaher Corp. stock falls Wednesday, still outp""]"
-2024-10-31,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Thursday, outperforms"", ""Danaher Corp. stock rises Thursday, outperforms""]"
-2024-11-01,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Here’s Why Baron Health Care Fund Added Danaher Corporation (DHR) to its Portfolio""]"
-2024-11-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : Powering a new paradigm for pathology"", ""s lab developed a new, high sensitivity HER2 assay in 2022. Our solution doesnt forc""]"
-2024-11-04,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Monday, still outperf"", ""Danaher Corp. stock falls Monday, still outperf""]"
-2024-11-05,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Tuesday, still underp"", ""Danaher Corp. stock rises Tuesday, still underp""]"
-2024-11-07,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Wednesday, underperfo"", ""Danaher Corp. stock falls Wednesday, underperfo""]"
-2024-11-08,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Thursday, underperfor"", ""Danaher Corp. stock falls Thursday, underperfor""]"
-2024-11-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : Building a virtual 4D cell"", ""gy in place At the core of creating the virtual cell is understanding not just how proteins""]"
-2024-11-12,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock falls Monday, underperforms"", ""Danaher Corp. stock falls Monday, underperforms""]"
-2024-11-13,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Conservative Allocation Fund Q3 2024 Commentary""]"
-2024-11-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Thermo Fisher Scientific: Near The Bottom And Attractively Valued""]"
-2024-11-14,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Wednesday, outperform"", ""Danaher Corp. stock rises Wednesday, outperform""]"
-2024-11-15,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Global health advocates have written to the makers of""]"
-2024-11-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ting to challenges. Find out why CP and DHR offer solid returns and potential for a""]"
-2024-11-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Fidelity Select Health Care Portfolio Q3 2024 Fund Review""]"
-2024-11-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ighted Milestones in its 2024 Corporate Sustainability Report""]"
-2024-11-20,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""BlackRock Event Driven Equity Fund Q3 2024 Commentary""]"
-2024-11-21,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Franklin DynaTech SMA Q3 2024 Commentary""]"
-2024-11-21,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Franklin DynaTech Fund Q3 2024 Commentary""]"
-2024-11-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Akre Capital Management Portfolio - Q3 2024 Update""]"
-2024-11-22,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Genedata: Powering Biopharma AI"", ""In the age of AI and machine learning, data is more valuable than ever before""]"
-2024-11-23,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp (NYSE:DHR): A Bullish Investment P"", ""We came across a bullish thesis on Danaher Corp (DHR) on ValueInvestorsClub by val""]"
-2024-11-23,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Friday, still underpe"", ""Danaher Corp. stock rises Friday, still underpe""]"
-2024-11-24,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Franklin U.S. Focused Growth SMA Q3 2024 Commentary""]"
-2024-11-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Al Gores Generation Investment Management Portfolio - Q3 2024 Update""]"
-2024-11-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Invesco Health Care Fund Q3 2024 Commentary""]"
-2024-11-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Veralto: Premium Multiples For A Premium Business""]"
-2024-11-26,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Monday, outperforms m"", ""Danaher Corp. stock rises Monday, outperforms m""]"
-2024-11-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Invesco Main Street Fund Q3 2024 Commentary""]"
-2024-11-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Illinois Tool Works: Customer-Back Innovation And Improving Macros To Drive Upside""]"
-2024-11-27,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher to Present at Evercore ISI HealthCONx C"", ""Danaher Corporation (NYSE: DHR) announced that""]"
-2024-11-29,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Harding Loevner Global Equity ADR Q3 2024 Report""]"
-2024-11-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""ESAB Can Continue To Outperform""]"
-2024-12-03,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Harding Loevner Global Developed Markets Equity Q3 2024 Report""]"
-2024-12-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Dan Loebs Third Point Portfolio - Q3 2024 Update""]"
-2024-12-04,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : How we’re supporting the Human Immuno""]"
-2024-12-05,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""BNY Mellon Dynamic Value Fund Q3 2024 Commentary""]"
-2024-12-05,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR) Annual Evercore ISI H"", ""Danaher Corporation (NYSE:DHR) Annual Evercore""]"
-2024-12-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Unicorn AIM VCT cautiously optimistic despite some headwinds""]"
-2024-12-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Heres Why You Should Avoid Investing in Danaher Stock Right Now"", ""DHR experiences weakness in its operations""]"
-2024-12-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Thermo Fisher Scientific: Renewed Growth Momentum After The Pandemic""]"
-2024-12-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : Top five takeaways from the 2024 Dana""]"
-2024-12-10,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher thrives on strategic growth acquisitions, boasting high earnings margins and lo""]"
-2024-12-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""s Why Parnassus Growth Equity Fund Sold Danaher Corp. (DHR)""]"
-2024-12-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Announces Quarterly Dividend"", ""Danaher Corporation (NYSE: DHR) announced today""]"
-2024-12-12,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Wednesday, still unde"", ""Danaher Corp. stock rises Wednesday, still unde""]"
-2024-12-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Thermo Fisher: The Cycle Has Already Turned Around""]"
-2024-12-14,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""uggled in fiscal year 2024. Spending by pharmaceutical and biotech companies dropped a""]"
-2024-12-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Best Way To Invest $100,000: Build An 8-Stock Portfolio For Growth And Value""]"
-2024-12-16,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Danaher Corporation (DHR) Is the Best Stock to"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2024-12-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Hartford Global Impact Fund Q3 2024 Commentary""]"
-2024-12-19,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock outperforms market despite"", ""Danaher Corp. stock outperforms market despite""]"
-2024-12-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Lackluster Performance and Unimpressive Guidance""]"
-2024-12-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of December 22""]"
-2024-12-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Hartford Healthcare Fund Q3 2024 Commentary""]"
-2024-12-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""That Danaher Corporation (DHR)’s China Core Revenue Dropped By A ‘High-single-digit’ Percen""]"
-2024-12-24,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Monday, still underpe"", ""Danaher Corp. stock rises Monday, still underpe""]"
-2024-12-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Keepin It Contrarian: Moat Index Adds Health Care, Reduces Tech""]"
-2024-12-29,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer on Danaher Corporation (DHR): ‘We Stuck With Danah"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against t""]"
-2025-01-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher price target lowered to $268 from $278 at Evercore I"", ""Evercore ISI lowered the firm’s price target on Danaher (DHR) to $268 from $278 and""]"
-2025-01-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Schedules Fourth Quarter 2024 Earnings Conference Call"", ""nced that it will webcast its quarterly earnings conference call for the fourth quarter""]"
-2025-01-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""(DHR) Beat Estimates Again in Its Next Earnings Report?"", ""Danaher (DHR) has an impressive earnings surprise history and currently possesse""]"
-2025-01-06,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher: A Wide-Moat Gem I Cannot Buy Enough Of"", ""Discover why Danaher is a strong investment choice with its""]"
-2025-01-07,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher to Present at J.P. Morgan Healthcare Co"", ""Danaher Corporation (NYSE: DHR) announced that""]"
-2025-01-07,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher price target lowered to $285 from $305 at Citi"", ""yst Patrick Donnelly lowered the firm’s price target on Danaher (DHR) to $285 from $305 and""]"
-2025-01-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""CURE: Analyst Estimates Point To Significant Gains In 2025""]"
-2025-01-08,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock rises Tuesday, outperforms"", ""Danaher Corp. stock rises Tuesday, outperforms""]"
-2025-01-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Diagnostics LLC and Danaher Ventures LLC, two subsi""]"
-2025-01-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Invests in AI Healthcare Company"", ""By Connor Hart Two Danaher subsidiaries have formed what the compa""]"
-2025-01-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Using SAs Stock Screener: Sell 6 Overvalued Blue Chips, With Stagnating Growth""]"
-2025-01-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Growth Investing: The Strategy That Always Wins""]"
-2025-01-14,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Franklin DynaTech Fund Q4 2024 Commentary""]"
-2025-01-14,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Mawer Investment Management Q4 2024 Quarterly Update""]"
-2025-01-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Update on the 4th Quarter 2024 Q4 core revenue expected to be essentially""]"
-2025-01-14,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher CEO to Comment on Financial Performance""]"
-2025-01-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Beckman Coulter Introduces Cutting-Edge Research Use Only Assays for Neurodegenerative Disease Research""]"
-2025-01-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation: Question Mark Behind The M"", ""Financial writer analyzes Danaher Corporations mixed performance, growth""]"
-2025-01-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR) 43rd Annual J.P. Morg"", ""Danaher Corporation (NYSE:DHR) 43rd Annual J.P.""]"
-2025-01-16,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Akre Focus Fund Q4 2024 Commentary""]"
-2025-01-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher executed a $4.5 billion share buyback, with an additional 20 million shares a""]"
-2025-01-20,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""IYH: Healthcare Dashboard For January""]"
-2025-01-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Baron Health Care Fund Q4 2024 Shareholder Letter""]"
-2025-01-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Aldevron Unveils Next-Generation Alchemy Cell-Free DNA Technology for Research Grade Applications""]"
-2025-01-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""This Healthcare Stock Might Just Be RFK Jr. Proof""]"
-2025-01-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""NZS Capital Q4 2024 Shareholder Letter""]"
-2025-01-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of January 26""]"
-2025-01-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Abbott Laboratories: Strong Q4 Results And Bullish Outlook""]"
-2025-01-29,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : 2024 Q1 Press Release"", ""Danaher Corporation Investors Danaher Reports F""]"
-2025-01-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Microsoft, Meta and Tesla kick off Big Tech earnings season""]"
-2025-01-29,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Reports Fourth Quarter and Full Year 20"", ""SHINGTON, Jan. 29, 2025 /PRNewswire/ -- Danaher Corporation today announced results for""]"
-2025-01-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : 2024 Q4 Non GAAP RecsNon GAAP RecsNon GAAP Recs""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : 2024 Q4 PresentationPresentationPresentationPre"", ""Danaher Corporation Fourth Quarter 2024 Earnings Release January 29, 2025 ...""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher: Q4 Earnings Snapshot"", ""said it had profit of $1.49 per share. Earnings,...""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation (DHR) Q4 2024 Earnings Call Transcript"", ""Danaher Corporation (NYSE:DHR) Q4 2024 Earnings Conference Call January 2""]"
-2025-01-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""ASML stock pops, and other movers""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""er Stock Falls the Most Since 2023. Why Earnings Were Such a Disappointment."", ""The company reported fourth-quarter earnings per share of $2.14, while Wall Street w""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Fourth-Quarter Earnings Miss Estimates; Expects Decline in Core"", ""R) on Wednesday reported fourth-quarter earnings that fell short of market estimates, wh""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Lags Q4 Earnings Estimates"", ""Danaher (DHR) delivered earnings and revenue surprises of -1.38% and 1.2""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher 4Q Revenue Rises on Gains in Life Sciences, Biotec"", ""By Dean Seal Danaher reported higher earnings and revenue in the fourth quarter from""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation 2024 Q4 - Results - Earnings Call Presentation"", ""poration in conjunction with their 2024 Q4 earnings call.""]"
-2025-01-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Q4: EPS Miss Expectations Amid Diagnostics"", ""ompany reported fourth-quarter adjusted earnings per share of $2.14 missing the street v""]"
-2025-01-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Zacks Earnings Trends Highlights: Royal Caribbean and"", ""bbean and Danaher are part of the Zacks Earnings Trends article.""]"
-2025-01-30,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Danaher Corp. (DHR) Crashed on Wednesday?"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands among Wed""]"
-2025-01-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Q4 2024 Danaher Corp Earnings Call"", ""Q4 2024 Danaher Corp Earnings Call""]"
-2025-01-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Broad-Based Sector Growth Expected for 2025""]"
-2025-01-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Stock Tanks 8.6% After Rare Earnings Miss--Is the Growth Story Cracking?"", ""expected another Danaher beat, but weak margins and a gloomy forecast sent investors r""]"
-2025-01-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Q4 Earnings Miss Estimates, Life Sciences""]"
-2025-01-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Reports Q4 Earnings: What Key Metrics Have to Say""]"
-2025-01-31,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corp (DHR) Q4 2024 Earnings Call Highlights: Strategi"", ""Danaher Corp (DHR) reports robust cash flow and strategic acquisitions, despite fac""]"
-2025-01-31,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher price target lowered to $260 from $265 at Stifel"", ""Stifel lowered the firm’s price target on Danaher (DHR) to $260 from $265 and""]"
-2025-01-31,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation Just Missed EPS By 5.5%: Heres What Analysts Think Will""]"
-2025-02-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher’s (NYSE:DHR) Q4 Sales Beat Estimates"", ""y Danaher (NYSE:DHR) beat Wall Street’s revenue expectations in Q4 CY2024, with sales u""]"
-2025-02-01,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""r Says He’s ‘Extremely Disappointed’ In Danaher Corporation (DHR)"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against t""]"
-2025-02-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""her long term low risk stocks. As the DeepSeek craze ignites a sell-off in the tech""]"
-2025-02-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Baron Durable Advantage Fund Q4 2024 Shareholder Letter""]"
-2025-02-04,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR) the Best Cancer Stock"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ames downgrades Danaher on murky growth outlook"", ""ollowing its fourth-quarter results and guidance that lagged peers.""]"
-2025-02-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Johnson Controls lifts 2025 profit forecast, names new CEO""]"
-2025-02-05,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Johnson Controls Names Weidemanis CEO, Logs 1Q Income Growth""]"
-2025-02-06,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Wednesday whe"", ""Danaher Corp. stock underperforms Wednesday whe""]"
-2025-02-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Third Point Q4 2024 Investor Letter""]"
-2025-02-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Johnson Controls Stock Leads S&P Gainers on New CEO, Solid Q1 Results""]"
-2025-02-07,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Johnson Controls price target raised to $93 from $86 at RBC Capital"", ""RBC Capital raised the firm’s price target on Johnson Controls (JCI) to $93 from $""]"
-2025-02-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Franklin U.S. Focused Growth SMA Q4 2024 Commentary""]"
-2025-02-09,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): ‘Sharp as a Tack Peo"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Where Id Put $10,000 Right Now - My Best Dividend Picks For Income And Growth""]"
-2025-02-10,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer Slams Danaher (DHR): “Bad Quarter, Smug Management”"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock outperforms competitors des"", ""Danaher Corp. stock outperforms competitors des""]"
-2025-02-12,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Danaher Corporation (DHR) is the Best Medical D"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-12,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Invesco Main Street Fund Q4 2024 Commentary""]"
-2025-02-13,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR) The Best Manufacturin"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""3 Healthcare Stocks Skating on Thin Ice""]"
-2025-02-14,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""All-In: The 23-Stock Six-Figure Dividend Portfolio Im Betting My Future On""]"
-2025-02-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock outperforms competitors on"", ""Danaher Corp. stock outperforms competitors on""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Mar Vista U.S. Quality Select Q4 2024 Commentary""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Mar Vista Global Quality Q4 2024 Commentary""]"
-2025-02-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""aher Corp. shows resilience with strong margins and FCF despite challenges. Learn why""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Large Cap Equity Fund Q4 2024 Commentary""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Multi Cap Equity Fund Q4 2024 Commentary""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Partners III Opportunity Fund Q4 2024 Commentary""]"
-2025-02-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Conservative Allocation Fund Q4 2024 Commentary""]"
-2025-02-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""BNY Mellon Dynamic Value Fund Q4 2024 Commentary""]"
-2025-02-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Artisan Global Opportunities Fund Q4 2024 Commentary""]"
-2025-02-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Madison Sustainable Equity Fund Q4 2024 Investment Strategy Letter""]"
-2025-02-21,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Announces Appointment of Charles Lamann"", ""Danaher Corporation (NYSE: DHR) announced today""]"
-2025-02-21,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Increases Quarterly Dividend"", ""Danaher Corporation (NYSE: DHR) announced today""]"
-2025-02-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Madison Investors Fund Q4 2024 Investment Strategy Letter""]"
-2025-02-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of February 23""]"
-2025-02-23,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR)  the Best Scientific"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-02-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Full Year 2024 Earnings: EPS Misses Expectations"", ""Year 2024 Results Key Financial Results Revenue: US$23.9b (flat on FY 2023). Net income""]"
-2025-02-24,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Here’s What Will Drive Danaher Corporation’s (DHR) Above-Average Growt""]"
-2025-02-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""The Buffett Blueprint - How Im Building My Own Berkshire Hathaway""]"
-2025-02-25,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Hartford Healthcare Fund Q4 2024 Commentary""]"
-2025-02-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Al Gores Generation Investment Management Portfolio - Q4 2024 Update""]"
-2025-02-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ward shareholders through dividends and share buybacks hold promise.""]"
-2025-02-26,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher to Present at TD Cowen Health Care Conf"", ""Danaher Corporation (NYSE: DHR) announced that""]"
-2025-02-26,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Bourgeon Capit"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against t""]"
-2025-02-27,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer to Danaher (DHR) Management: ‘We Are Getting Restl"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-03-01,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Down 7.8% Since Last Earnings Report: Can It Rebound?"", ""Danaher (DHR) reported earnings 30 days ago. Whats next for the stock?""]"
-2025-03-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Unpacking Q4 Earnings: Danaher (NYSE:DHR) In The Con"", ""Quarterly earnings results are a good time to check in on""]"
-2025-03-05,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR) TD Cowen 45th Annual"", ""Danaher Corporation (NYSE:DHR) TD Cowen 45th An""]"
-2025-03-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Dan Loebs Third Point Portfolio - Q4 2024 Update""]"
-2025-03-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""ClearBridge Large Cap Value ESG Strategy Q4 2024 Commentary""]"
-2025-03-07,0.36,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ClearBridge Sustainability Leaders Strategy Q4 2024 Commentary"", ""The ClearBridge Sustainability Leaders Strategy underperformed its Rus""]"
-2025-03-08,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Danaher Corporation (DHR) Is Plunging So Far in"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-03-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Beckman Coulter Announces FDA clearance of DxC 500i Clinical Analyzer, an integrated Clinical Chemistry and Immunoassay System""]"
-2025-03-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Heres Why You Should Avoid Betting on Danaher Stock Right Now"", ""in the Life Sciences segment weighs on DHRs performance. An increase in operating""]"
-2025-03-11,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Invesco Global Core Equity Fund Q4 2024 Commentary""]"
-2025-03-11,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR): Buy, Sell, or Hold Post Q4 Earnings?""]"
-2025-03-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""GE Vernova: A Good Buy Post The Recent Correction""]"
-2025-03-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation Corp (DHR) Fell in Q4""]"
-2025-03-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Fidelity Select Health Care Portfolio Q4 2024 Review""]"
-2025-03-13,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : Scaling innovation through investment"", ""in addition to capital, the company and Danaher form a partnership. These...""]"
-2025-03-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Honeywells Planned Spinoff And What It Means Amid Macro Volatility""]"
-2025-03-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Chipotle upgraded, Charter initiated: Wall Street’s top analyst calls""]"
-2025-03-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Veralto: Adding To Its Reputation""]"
-2025-03-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Stock Has Fallen Far Enough. Buy It Now"", ""FEATURE   Danaher stock gained after picking up a bullish""]"
-2025-03-20,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Lazard US Equity Focus Portfolio Q4 2024 Commentary""]"
-2025-03-20,0.36,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ction in life science tools & services, pharmaceuticals and distributors detracted fro""]"
-2025-03-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Schedules First Quarter 2025 Earnings Conference Call"", ""nced that it will webcast its quarterly earnings conference call for the first quarter 2""]"
-2025-03-21,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Lazard US Sustainable Equity Portfolio Q4 2024 Commentary""]"
-2025-03-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""plore its strong fundamentals & 10%-13% EPS growth forecast.""]"
-2025-03-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of March 23""]"
-2025-03-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Stocks Wall St"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-03-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""her Corporation (DHR) is Among the Best Diagnostics Stocks to Invest in Right Now"", ""ecently published a list of the 12 Best Diagnostics Stocks to Invest In Right Now. In this""]"
-2025-03-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""8 Upcoming Dividend Increases, Including A King""]"
-2025-03-26,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher : 2025 Proxy Statement""]"
-2025-03-27,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Trump auto tariffs: Wall Street reacts as stocks slide"", ""Automakers get walloped by new Trump tariffs.""]"
-2025-03-30,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR) the Top Stock to Buy"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-03-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Putnam Large Cap Growth Fund Q4 2024 Commentary""]"
-2025-03-31,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation: A Mixed Bag Of Strength An"", ""Danaher Corporation incorporates science and te""]"
-2025-03-31,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher has good medium to long-term revenue and margin growth prospects, and the va""]"
-2025-04-02,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): One of the Best Heal"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Top Analyst Reports for Amazon, Oracle & Merck""]"
-2025-04-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Lord Abbett Dividend Growth Fund Q4 2024 Commentary""]"
-2025-04-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""uities experienced significant gains in Q4, showcasing a strong year. The portfoli""]"
-2025-04-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Gains From Strength in the Diagnostics Unit Amid Headwinds"", ""is poised to gain from strength in the clinical diagnostics business, the Abcam buyout and sharehol""]"
-2025-04-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Andvari Associates Q1 2025 Letter""]"
-2025-04-06,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher (NYSE:DHR) Faces 12% Weekly Drop Amid T"", ""ng fears of a global economic downturn. Danaher (NYSE:DHR) experienced an 11% decline o""]"
-2025-04-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""nopore teams up with Danaher subsidiary Cepheid""]"
-2025-04-09,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Stocks with Bu"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-10,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Here’s How Danaher Corporation (DHR) Benefits from Switchi""]"
-2025-04-11,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Jim Cramer Calls Out Danaher (DHR) CEO: “Time to Step Up or Step Aside”""]"
-2025-04-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Thursday when"", ""Danaher Corp. stock underperforms Thursday when""]"
-2025-04-14,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR) the Best Medical Stoc"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Rel"", ""of the two key ingredients for a likely earnings beat in its upcoming report. Get prepar""]"
-2025-04-15,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Monday when c"", ""Danaher Corp. stock underperforms Monday when c""]"
-2025-04-16,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Analyst Estimates for Danaher (DHR) Q1 Earnings, Beyond Revenue and EPS""]"
-2025-04-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""2 of Wall Street’s Favorite Stocks with Competitive Advantages and 1 to Be Wary Of""]"
-2025-04-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) To Report Earnings Tomorrow: Here Is What To Expect"", ""y Danaher (NYSE:DHR) will be announcing earnings results tomorrow morning. Here’s what t""]"
-2025-04-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Gears Up to Post Q1 Earnings: Is a Beat in Store?"", ""DHRs first-quarter earnings are likely to have been aided by streng""]"
-2025-04-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""st-Quarter Results Top Views; Forecasts Core Revenue Growth""]"
-2025-04-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Q1 Earnings: Taking a Look at Key Metrics Versus Es""]"
-2025-04-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Surpasses Q1 Earnings and Revenue Estimates"", ""Danaher (DHR) delivered earnings and revenue surprises of 16.05% and 3.3""]"
-2025-04-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ses With Q1 Sales, Next Quarter’s Sales Guidance is Optimistic"", ""Q1 CY2025 results beating Wall Street’s revenue expectations, but sales were flat year""]"
-2025-04-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher: Q1 Earnings Snapshot""]"
-2025-04-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Reports First Quarter 2025 Results"", ""Danaher Corporation (NYSE: DHR) (the Company) t""]"
-2025-04-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Earnings season is off to a lackluster start: DataTrek""]"
-2025-04-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""which it attributed to momentum in its bioprocessing unit and demand above expectations i""]"
-2025-04-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tesla kicks off Mag 7 results as earnings season picks up speed""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Q1 Earnings Beat Estimates, Life Sciences Sales Dow""]"
-2025-04-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""first-quarter report and maintained its outlook for the year.""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""25 results, which beat analysts organic revenue and EPS expectations. Revenue was flat""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corp (DHR) Q1 2025 Earnings Call Highlights: Strong Bioprocessing G"", ""Danaher Corp (DHR) reports robust bioprocessing growth and improved profitability, d""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher First Quarter 2025 Earnings: Beats Expectations"", ""rter 2025 Results Key Financial Results Revenue: US$5.74b (flat on 1Q 2024). Net income""]"
-2025-04-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""BLCO or DHR: Which Is the Better Value Stock Right"", ""BLCO vs. DHR: Which Stock Is the Better Value Option""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Q1 2025 Danaher Corp Earnings Call"", ""Q1 2025 Danaher Corp Earnings Call""]"
-2025-04-24,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher predicts $350M tariff hit, moves to mit""]"
-2025-04-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher price target lowered to $240 from $260 at Goldman Sa"", ""nalyst Matthew Sykes lowered the firm’s price target on Danaher (DHR) to $240 from $260 but""]"
-2025-04-24,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Top Stocks in"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""her in tariff warning, maintains profit outlook""]"
-2025-04-28,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Billionaire Ke"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Baron Health Care Fund Q1 2025 Top Contributors And Detractors""]"
-2025-04-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Kytopen and Aldevron Expedite Cell Therapy Manufacturing Through Their Collaborative CRISPR-mediated Cellular Engineering Workflow""]"
-2025-04-29,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer on Danaher Corporation (DHR): From Best to Worst A"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-04-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""The Davenport Core Leaders Fund Q1 2025 Commentary""]"
-2025-05-02,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""rs says fund down in first quarter amid tariffs""]"
-2025-05-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Third Point Q1 2025 Investor Letter""]"
-2025-05-02,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher: Q1 Beat Fails To Trigger Guidance Upgrade"", ""strong performance in biotechnology and molecular diagnostics. Find out why DHR stock is a Buy.""]"
-2025-05-02,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Charles Akre’s"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against t""]"
-2025-05-06,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher: A Capital Intensive Business Offering"", ""Danaher Corp.s intrinsic value shows 14% upside""]"
-2025-05-07,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Tuesday when"", ""Danaher Corp. stock underperforms Tuesday when""]"
-2025-05-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Fidelity Select Health Care Portfolio Q1 2025 Commentary""]"
-2025-05-07,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Announces Quarterly Dividend"", ""Danaher Corporation (NYSE: DHR) announced today""]"
-2025-05-08,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher to Present at Bank of America Securitie"", ""Danaher Corporation (NYSE: DHR) announced that""]"
-2025-05-08,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""movements tied to economic policies and earnings reports. Despite a decline in Q1 earnin""]"
-2025-05-08,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): A Bull Case Theory"", ""We came across a bullish thesis on Danaher Corporation (DHR) on Substack by Best A""]"
-2025-05-09,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""CVS vs. DHR: Which Stock Is the Better Value Option"", ""CVS vs. DHR: Which Stock Is the Better Value Option""]"
-2025-05-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Revvity: Despite Facing Multiple Headwinds, Shares Are A Buy""]"
-2025-05-09,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Corporation (DHR) the Best Medical Devi"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-05-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""1 S&P 500 Stock with Competitive Advantages and 2 to Keep Off Your Radar""]"
-2025-05-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Spotting Winners: Sotera Health Company (NASDAQ:SHC) And Research Tools & Consumables Stocks In Q1""]"
-2025-05-09,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""From Apple to GM, Tariffs to Cost Companies Tens of Billions""]"
-2025-05-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Among Billionaire Le"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-05-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Q1 Earnings Highs And Lows: Avantor (NYSE:AVTR) Vs The Rest Of The Research Tools & Consumables Stocks""]"
-2025-05-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Akre Capital Management Portfolio - Q1 2025 Update""]"
-2025-05-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Q1 Research Tools & Consumables Earnings: Danaher (NYSE:D"", ""Looking back on research tools & consumables stocks’ Q1 earnings, we e""]"
-2025-05-15,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""by Danaher. Im joined by Rainer Blair, CEO. Rainer thanks so much for being here.P""]"
-2025-05-16,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Daniel Loebs Strategic Moves: Danaher Corp Exit Impacts Portfolio by -5.87%""]"
-2025-05-16,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Aldevron and Integrated DNA Technologies Manufacture World’s First mRNA-based Personalized CRISPR Therapy""]"
-2025-05-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Greenhaven Road Capital Main Fund Q1 2025 Investor Letter""]"
-2025-05-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""y Is Danaher (DHR) Down 4.8% Since Last Earnings Report?"", ""Danaher (DHR) reported earnings 30 days ago. Whats next for the stock?""]"
-2025-05-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Investors Should Consider Retaining Danaher Stock Now"", ""DHR gains from strength across its business""]"
-2025-05-22,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""BNY Mellon Dynamic Value Fund Q1 2025 Commentary""]"
-2025-05-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher, Illumina, Globalstar, and Insperity Sh""]"
-2025-05-23,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Was Jim Cramer Right About Danaher Corporation (DHR)?"", ""e, we are going to take a look at where Danaher Corporation (NYSE:DHR) stands against o""]"
-2025-05-26,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""CVS or DHR: Which Is the Better Value Stock Right"", ""CVS vs. DHR: Which Stock Is the Better Value Option""]"
-2025-05-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Research Tools & Consumables Stocks Q1 Recap: Benchmarking Mettler-Toledo (NYSE:MTD)""]"
-2025-05-29,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""RGA Investment Advisors Q1 2025 Investment Commentary""]"
-2025-05-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ation will focus on creating AI-powered diagnostics to help clinicians better identify whic""]"
-2025-05-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""partners with AstraZeneca to develop AI diagnostics""]"
-2025-05-30,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Announces Diagnostic Development and Co"", ""Danaher Corporation (NYSE: DHR) (Danaher), a gl""]"
-2025-05-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Multi Cap Equity Fund Q1 2025 Commentary""]"
-2025-05-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""tially be on creating computational and digital pathology products, as well as AI-assisted algori""]"
-2025-05-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Conservative Allocation Fund Q1 2025 Commentary""]"
-2025-05-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""traZeneca team up to develop AI-powered diagnostics, aiming to boost precision medicine by""]"
-2025-05-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Weitz Partners III Opportunity Fund Q1 2025 Commentary""]"
-2025-05-31,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""traZeneca To Advance Precision Medicine Diagnostics""]"
-2025-06-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""SCIEX Sets a New Standard in Accurate Mass Quantitation With the ZenoTOF 8600 System and New Software Collaborations""]"
-2025-06-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Software Launches for SCIEX OS Ecosystem to Help Scientists Accelerate Discoveries and Streamline Lab Operations""]"
-2025-06-02,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""d access to standardized proteomics for Pharma and Biotech with new reseller agreement"", ""d access to standardized proteomics for Pharma and Biotech with new reseller agreement""]"
-2025-06-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Software Launches For Sciex Os Ecosystem"", ""Danaher Corp: * SOFTWARE LAUNCHES FOR SCIEX OS ECOSYSTEM TO HELPSCIENTISTSACCELERAT""]"
-2025-06-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""1 Cash-Producing Stock with Exciting Potential and 2 to Question""]"
-2025-06-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Q1 Earnings Highlights: Thermo Fisher (NYSE:TMO) Vs The Rest Of The Research Tools & Consumables Stocks""]"
-2025-06-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Spotting Winners: Bio-Techne (NASDAQ:TECH) And Research Tools & Consumables Stocks In Q1""]"
-2025-06-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Dan Loebs Third Point Portfolio - Q1 2025 Update""]"
-2025-06-05,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""3 Reasons to Avoid DHR and 1 Stock to Buy Instead"", ""Over the past six months, Danaher’s shares (currently trading at $193.08)""]"
-2025-06-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher : Sustainability report (Danaher 2025 Sustainability Report)""]"
-2025-06-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tesla Stock Has Lost Its Trump Bump. How to Play the Shares Now.""]"
-2025-06-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""CVS vs. DHR: Which Stock Should Value Investors Buy"", ""CVS vs. DHR: Which Stock Is the Better Value Option""]"
-2025-06-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""3 of Wall Street’s Favorite Stocks Skating on Thin Ice""]"
-2025-06-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Top Analyst Reports for Eli Lilly, Home Depot & SAP""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Q1 Earnings Highlights: Agilent (NYSE:A) Vs The Rest Of The Research Tools & Consumables Stocks""]"
-2025-06-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Schedules Second Quarter 2025 Earnings Conference Call"", ""nced that it will webcast its quarterly earnings conference call for the second quarter""]"
-2025-06-20,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Why Danaher (DHR) is a Top Growth Stock for the Lon""]"
-2025-06-21,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Friday when c"", ""Danaher Corp. stock underperforms Friday when c""]"
-2025-06-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""GE Healthcare: Near-Term Margin Headwinds Priced In, Long-Term Growth Driven By New Products And M&As""]"
-2025-06-24,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): A Bull Case Theory"", ""We came across a bullish thesis on Danaher Corporation (DHR) on FluentInQuality’s""]"
-2025-06-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Oligonucleotide Synthesis Market Research and Global Forecast Report 2025-2030: Rising Emphasis on Advancing Drug Delivery and Scalable Synthesis Technologies f…""]"
-2025-06-25,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Fortive Corporation (FTV) Is A “Great” Company, Says Jim Cramer""]"
-2025-06-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Opus Water Launches -- Serving the Water, Wastewater and Industrial Process Fluids Industries""]"
-2025-06-26,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR) Is “Fool’s Gold,” Bem"", ""Danaher Corporation (NYSE:DHR) is one of the Ji""]"
-2025-06-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""1 Industrials Stock for Long-Term Investors and 2 to Ignore""]"
-2025-06-27,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation Appoints Martin Stumpe as C"", ""Danaher Corporation announced that Martin Stump""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""HR), a leading global life sciences and diagnostics innovator, today announced that Martin""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""HR), a leading global life sciences and diagnostics innovator, today announced that Greg Mi""]"
-2025-06-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Is Danahers M&A Premium Already Priced In?""]"
-2025-06-29,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""hlighting the company’s history of good acquisitions and strength during uncertain times, a""]"
-2025-06-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""era of innovation in life sciences and diagnostics.”""]"
-2025-06-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher is positioned for a revenue rebound, led by strong bioprocessing de""]"
-2025-07-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Why This 1 Momentum Stock Could Be a Great Addition to Your Portfolio""]"
-2025-07-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Jim Cramer on Thermo Fisher: “It Does Seem Like it’s Bottoming”""]"
-2025-07-02,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Tuesday when"", ""Danaher Corp. stock underperforms Tuesday when""]"
-2025-07-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Biopharmaceuticals Manufacturing Consumables Test"", ""needs and environmental considerations Biopharmaceuticals Manufacturing Consumables Test""]"
-2025-07-05,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer Says “Danaher Can Make a Comeback”"", ""Danaher Corporation (NYSE:DHR) is one of the 22""]"
-2025-07-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Spectris: Takeover Highlights Hidden Value In U.K. Small-Cap Stocks""]"
-2025-07-08,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""d segment shows the highest growth. The pharma and biotech sector is the primary end-u""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Johnson Controls: Portfolio Transformation And Megatrends Support Re-Rating""]"
-2025-07-10,0.36,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ClearBridge Sustainability Leaders Strategy Q2 2025 Commentary"", ""The ClearBridge Sustainability Leaders Strategy outperformed its Russe""]"
-2025-07-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""CoreWeave initiated, Texas Instruments upgraded: Wall Streets top analyst calls""]"
-2025-07-11,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Thursday when"", ""Danaher Corp. stock underperforms Thursday when""]"
-2025-07-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Teams Up to Advance Precision Medicine Diagnostics"", ""luding the new generation of AI-powered diagnostics. These tools and tests […]""]"
-2025-07-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Harding Loevner Global Equity Q2 2025 Report""]"
-2025-07-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Saudi Arabia In-Vitro Diagnostics Market Report 2025-2030 Featuring Abbot"", ""Saudi Arabias in-vitro diagnostics market is set to grow from USD 734.7M i""]"
-2025-07-17,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Q2 Earnings on the Horizon: Analysts Insights on Ke""]"
-2025-07-18,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Gears Up to Post Q2 Earnings: What Lies Ahead for the Stock?"", ""akness, but strength in Biotechnology & Diagnostics units and Abcam acquisition add upside""]"
-2025-07-18,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""hmark Report 2025 | Merck KGaA, 3M, and Danaher Strengthen Medical Filtration Market Le"", ""luding leaders like Merck KGaA, 3M, and Danaher, each excelling in areas such as health""]"
-2025-07-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of July 20""]"
-2025-07-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""‘Too Cheap to Ignore’: Scotiabank Says There’s an Opportunity Brewing in These 2 Large Cap Healthcare Stocks""]"
-2025-07-19,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""onomic data will shed more light on how tariffs are affecting U.S. consumer and busines""]"
-2025-07-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Donald Trump faces frosty reception on Aberdeen golf trip""]"
-2025-07-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""2: Everything You Need To Know Ahead Of Earnings"", ""ny Danaher (NYSE:DHR) will be reporting earnings this Tuesday before market hours. Here’""]"
-2025-07-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""India In Vitro Diagnostics (IVD) Industry Analysis & Forecast (202"", ""markets 6.10% CAGR reflects advances in molecular diagnostics, healthcare infrastructure expansion, a""]"
-2025-07-22,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""onomic data will shed more light on how tariffs are affecting consumer and business spe""]"
-2025-07-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Reports Second Quarter 2025 Results"", ""Danaher Corporation (NYSE: DHR) (the Company) t""]"
-2025-07-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""HR), a leading global life sciences and diagnostics innovator, today announced that Matthew""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""R) Q2 Sales Top Estimates But Quarterly Revenue Guidance Slightly Misses Expectations"", ""y Danaher (NYSE:DHR) beat Wall Street’s revenue expectations in Q2 CY2025, with sales u""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher: Q2 Earnings Snapshot"", ""ed by Zacks Investment Research was for earnings of $1.64 per share. The industrial and""]"
-2025-07-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""res slip despite Q2 beat, annual profit outlook hike"", ""results and lifted its full-year profit outlook. Still, the company’s shares fell over""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Q2 Earnings and Revenues Top Estimates"", ""Danaher (DHR) delivered earnings and revenue surprises of +9.76% and +1.""]"
-2025-07-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Stocks Down Pre-Bell Ahead of Key Earnings, Fed Chair Powells Speech""]"
-2025-07-22,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as More Corporate Earnings Awaited""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Q2 Earnings: How Key Metrics Compare to Wall Street""]"
-2025-07-22,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ook for adjusted earnings per share, as tariffs sting.""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Q2 Earnings Beat Estimates, Life Sciences Sales Up"", ""sales across segments, lifting its 2025 EPS outlook amid mixed margin trends.""]"
-2025-07-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ohens Strategic Moves: A Closer Look at Danaher Corps Impact on His Portfolio""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Lifts 2025 Earnings Outlook Amid Biotech Growth, Cost Disci"", ""he life science giant reported adjusted earnings of $1.80 per share, beating the consens""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corp (DHR) Q2 2025 Earnings Call Highlights: Strong Cash Flow and B"", ""Danaher Corp (DHR) reports robust free cash flow and bioprocessing growth, while navigat""]"
-2025-07-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Heres Why Danaher (DHR) is a Strong Growth Stock""]"
-2025-07-23,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""ading.  The company joins peers such as Danaher in beating quarterly profit estimates,""]"
-2025-07-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation thrives on bioprocessing demand & diagnostics resilience. Click for why""]"
-2025-07-24,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Q2 2025 Update"", ""While S&P 500 is at its all-time high, Danaher is still ~34% below its peak from late""]"
-2025-07-24,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Akre Focus Fund Q2 2025 Commentary""]"
-2025-07-24,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. stock underperforms Wednesday whe"", ""Danaher Corp. stock underperforms Wednesday whe""]"
-2025-07-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick""]"
-2025-07-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""1 S&P 500 Stock with Competitive Advantages and 2 We Turn Down""]"
-2025-07-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""NZS Capital Q2 2025 Shareholder Letter""]"
-2025-07-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Contract research firms strong earnings signal stabilizing biotech, pharma spen""]"
-2025-07-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Built To Last: My 16-Stock Dividend Pyramid Portfolio""]"
-2025-07-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""NYSE:DHR) is an American life sciences, diagnostics, and biotechnology equipment provider.""]"
-2025-07-27,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Funds 11.5% yield, NAV performance, and sustainability challenges.""]"
-2025-07-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Explore how Danahers (DHR) revenue from international markets is changing""]"
-2025-07-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Revvity Q2: Headwinds From China And Customers, Buy On Weakness""]"
-2025-07-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Where this large cap portfolio manager see opportunity now""]"
-2025-07-29,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ing Analyst Questions From Danaher’s Q2 Earnings Call"", ""results came in ahead of Wall Street’s revenue and profit expectations, with steady gr""]"
-2025-07-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Veralto lifts annual profit forecast on water treatment demand""]"
-2025-07-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Aldevron Launches New Innovation Center in Waltham, MA""]"
-2025-07-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""aturing Danaher, LabCorp, Abbott, Quest Diagnostics, Thermo Fisher Scientific, F. Hoffmann-""]"
-2025-07-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Got $500? 3 Blue Chip Dividend Stocks to Buy and Hold Forever""]"
-2025-07-30,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer on Danaher: “I Think We’ve Finally Reached the Tip"", ""Danaher Corporation (NYSE:DHR) is one of the st""]"
-2025-07-30,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): Maybe It Can Be Grea"", ""That Jim Cramer Recently Talked About. Danaher Corporation (NYSE:DHR) is one of the st""]"
-2025-07-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Rapid Expansion and Innovation Drive $36 Billion Global Point-of-Care Diagnostics Market, Says New Kalorama Report""]"
-2025-08-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""HR), a leading global life sciences and diagnostics innovator, today announced that Jonatha""]"
-2025-08-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Buy Graham Holdings Stock. Its Parts Are Worth More Than the Whole.""]"
-2025-08-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Markels Q2 Earnings Surpass Estimates, Premiums Rise Y/Y""]"
-2025-08-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Janus Henderson Concentrated Growth Managed Account Q2 2025 Commentary""]"
-2025-08-05,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Janus Henderson Forty Fund Q2 2025 Commentary""]"
-2025-08-05,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Insiders Sold US$250m Of Shares Suggest"", ""The fact that multiple Danaher Corporation ( NYSE:DHR ) insiders offlo""]"
-2025-08-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Bio-Techne: Coveted Life Sciences Asset On Sale Due To Academic Pressures""]"
-2025-08-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ted better-than-expected fourth-quarter revenue and profit on Wednesday, helped by stea""]"
-2025-08-06,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"["", reflecting a rebound in spending from pharmaceutical and biotech clients after a cau""]"
-2025-08-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Why This 1 Value Stock Could Be a Great Addition to Your Portfolio""]"
-2025-08-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Hologics Diagnostics Arm Set for Long-Term Upside: Whats Behind It?""]"
-2025-08-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Agilent: A Lean, Focused Play In Life Sciences Tools Amid Tariff Turbulence""]"
-2025-08-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Precipio: Cash Flow Positivity May Remove Going Concern Language""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Genedata Next-Gen Software to Power GMP-Complian"", ""Genedata, a Danaher company, and the leading pro""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""evalence, technological advancements in diagnostics, and enhanced accessibility to healthca""]"
-2025-08-13,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""e forefront of healthcare innovation at Danaher. WASHINGTON, DC / ACCESS Newswire / Aug""]"
-2025-08-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""d an aging population demanding precise diagnostics. Technological advancements in automati""]"
-2025-08-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""ts in cell culture efficiency. Mexico’s biopharmaceutical sector expansion, supported by""]"
-2025-08-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""[Latest] US Personalized Medicine Market Size/Share Worth USD 252.93 Billion by 2034 at a 17.32% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Repor…""]"
-2025-08-14,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is it a Great Time to Invest in Danaher Corp. (DHR)?""]"
-2025-08-14,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Are Wall Street Analysts Predicting Danaher Stock Will Climb or Sink?"", ""ion, are analysts bullish or bearish on Danaher Corp stock?""]"
-2025-08-14,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""BNY Mellon Dynamic Value Fund Q2 2025 Commentary""]"
-2025-08-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""2 Profitable Stocks to Consider Right Now and 1 Facing Headwinds""]"
-2025-08-15,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Bruker faces challenges amid NIH funding cuts and academic reliance. Short-term""]"
-2025-08-17,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""July 23, 2025, Wells Fargo reduced its price target on Danaher Corporation (NYSE:DHR) from""]"
-2025-08-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""AstroNova: A Textbook Case For Shareholder Activism""]"
-2025-08-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Atai Capital Management Q2 2025 Letter""]"
-2025-08-18,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher (DHR) Just Overtook the 200-Day Moving""]"
-2025-08-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Macquarie Large Cap Growth Fund Q2 2025 Commentary""]"
-2025-08-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Al Gores Generation Investment Management Portfolio - Q2 2025 Update""]"
-2025-08-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher (DHR) Up 6.8% Since Last Earnings Report: Can It Continue?"", ""Danaher (DHR) reported earnings 30 days ago. Whats next for the stock?""]"
-2025-08-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""HR) a Quality Compounder With Long-Term Revenue Growth?""]"
-2025-08-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Pentair Lead by Driving Innovation and Sustainability""]"
-2025-08-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""[Latest] Global Chemical Reagents Market Size/Share Worth USD 26.5 Billion by 2034 at a 7.5 CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Tr…""]"
-2025-08-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Modine Manufacturing Company (MOD): A Bull Case Theory""]"
-2025-08-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Akre Capital Management Portfolio - Q2 2025 Update""]"
-2025-08-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Why Is Teladoc (TDOC) Up 4.6% Since Last Earnings Report?""]"
-2025-08-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Genedata Advances R&D Efficiency with New Unifie"", ""Genedata, a Danaher company and the leading prov""]"
-2025-08-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""mRNA Biotechs - Long-Term Value Risks Abound""]"
-2025-09-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""dvanced Analytical Solutions, Strategic Acquisitions, and Regulatory-Driven Innovations""]"
-2025-09-02,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Is Danaher Stock Underperforming the Dow?"", ""Although Danaher has lagged behind the Dow over the past""]"
-2025-09-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""DHR posts gains in bioprocessing, biotech and diagnostics, while life""]"
-2025-09-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""A10 Networks Names Michelle Caron as Finance Chief""]"
-2025-09-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher faces revenue pressure and rising leverage despite st""]"
-2025-09-08,0.44,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""precise disease diagnosis, and growing pharmaceutical applications. However, it faces""]"
-2025-09-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""3 Healthcare Stocks We’re Skeptical Of""]"
-2025-09-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Tracking Dan Loebs Third Point Portfolio - Q2 2025 Update""]"
-2025-09-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Announces Quarterly Dividend"", ""Danaher Corporation (NYSE: DHR) announced today""]"
-2025-09-10,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher (DHR) Valuation: Is the Recent Slide an"", ""If you have been following Danaher (DHR) lately, you may have noticed that""]"
-2025-09-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Beckman Coulter Diagnostics Launches Industry First Ful"", ""Beckman Coulter Diagnostics, a Danaher company and a le""]"
-2025-09-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Danahers Biotechnology Growth Picks Up: A Sign of More Upside?""]"
-2025-09-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Hologics Breast Health Rebound in Motion: How to Play the Stock Now?""]"
-2025-09-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Unpacking Q2 Earnings: Danaher (NYSE:DHR) In The Context Of O"", ""The end of an earnings season can be a great time to discover""]"
-2025-09-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Danahers Life Sciences Segment Shrinks: Whats the Path Forward?""]"
-2025-09-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""), a global leader in life sciences and diagnostics, continues to advance its bioprocessing""]"
-2025-09-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Consumers Energy Names Shannon Thomas New Chief People Officer""]"
-2025-09-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Dividend Champion, Contender, And Challenger Highlights: Week Of September 21""]"
-2025-09-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Can Danahers Diagnostics Unit Sustain Growth Amid Lower Sales in China?""]"
-2025-09-22,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corp. allegedly violated Title VII by a""]"
-2025-09-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""1 of Wall Street’s Favorite Stock on Our Watchlist and 2 Facing Headwinds""]"
-2025-09-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Schedules Third Quarter 2025 Earnings Conference Call"", ""nced that it will webcast its quarterly earnings conference call for the third quarter 2""]"
-2025-09-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Integrated DNA Technologies Launches New Enhancer Protein to Accelerate CRISPR-Based Therapies from Translational Research to Clinical Breakthrough""]"
-2025-09-27,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Will Danahers (DHR) New Gene Editing Tool Redefine I"", ""Integrated DNA Technologies (IDT), a Danaher company, recently launched the Alt-R HD""]"
-2025-09-27,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Potential Breaches of Fiduciary Duty by Danaher Corporation (DHR)"", ""With significant upside potential, Danaher Corporation (NYSE:DHR) secures a spot o""]"
-2025-09-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Heres Why Envista (NVST) is a Strong Value Stock""]"
-2025-09-30,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""3 Reasons to Sell DHR and 1 Stock to Buy Instead"", ""Over the last six months, Danaher’s shares have sunk to $186.35, producin""]"
-2025-10-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""alued, with strong fundamentals, robust free cash flow, and 12.7% upside. Click here to read w""]"
-2025-10-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""after reports revealed a potential drug-pricing agreement between the White House and t""]"
-2025-10-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Will A10 Networks’ (ATEN) New CFO Drive Its Next Growth Phase?""]"
-2025-10-02,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""BLCO vs. DHR: Which Stock Should Value Investors Buy"", ""BLCO vs. DHR: Which Stock Is the Better Value Option""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""Danaher Corporation (DHR) To Release FQ3 Results on October 21"", ""second quarter of 2025. It delivered a revenue of $5.94 billion, […]""]"
-2025-10-02,0.48,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher (DHR) Surges as Pharma Tariffs to Benef"", ""ushing Wall Street With Whopping Gains. Danaher Corp. (NYSE:DHR) is one of the top perf""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""afternoon session after its subsidiary, Leica Biosystems, announced the launch of new artificial""]"
-2025-10-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""n September 22, BofA lowered the firm’s price target on Danaher Corporation (NYSE:DHR) to $2""]"
-2025-10-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move danaher next week.","[""er (DHR): Evaluating Valuation After AI Pathology Launch and Pharma Sector Boost"", ""llowing two important developments. Its Leica Biosystems unit unveiled new AI-powered digital pa""]"
-2025-10-05,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer on Danaher: “It Has Been a Huge Disappointment”"", ""Danaher Corporation (NYSE:DHR) is one of the st""]"
-2025-10-05,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""at Thermo Fisher, I’m still saying that Danaher’s better. They’ve both been […]""]"
-2025-10-07,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Jim Cramer Wonders If He Gave Up On Danaher (DHR) “At The Bottom”"", ""e He Briefly Commented On Data Centers. Danaher Corporation (NYSE:DHR) is one of the st""]"
-2025-10-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""4 Stocks That Aren’t Too Hot to Buy Right Now""]"
-2025-10-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""2 Cash-Producing Stocks Worth Your Attention and 1 We Avoid""]"
-2025-10-08,0.34,Indirectly Related,Mentions danaher or sector/peer factors with plausible but weaker near-term impact on danaher.,"[""Danaher Corporation (DHR): A Bull Case Theory"", ""We came across a bullish thesis on Danaher Corporation on Heavy Moat Investments’s""]"
-2025-10-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on danaher.,"[""Is Repligen (RGEN) The Best Healthcare Stock to Buy Now?""]"
+date,relevance
+2024-10-18,1.0
+2024-10-18,0.0
+2024-10-18,0.0
+2024-10-19,0.09999999999999998
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-22,0.0
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-22,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-24,1.0
+2024-10-25,0.5
+2024-10-26,0.09999999999999998
+2024-10-28,1.0
+2024-10-29,1.0
+2024-10-29,0.0
+2024-11-01,1.0
+2024-11-01,0.8
+2024-11-04,1.0
+2024-11-12,0.8
+2024-11-12,1.0
+2024-11-13,0.0
+2024-11-14,0.5
+2024-11-15,0.4
+2024-11-15,0.7
+2024-11-19,1.0
+2024-11-19,0.0
+2024-11-20,0.0
+2024-11-21,0.0
+2024-11-21,0.0
+2024-11-21,0.0
+2024-11-22,0.2
+2024-11-23,1.0
+2024-11-23,1.0
+2024-11-24,0.0
+2024-11-25,0.0
+2024-11-26,0.0
+2024-11-26,1.0
+2024-11-26,0.0
+2024-11-27,0.0
+2024-11-27,0.0
+2024-11-27,1.0
+2024-11-29,0.0
+2024-11-30,0.0
+2024-12-03,0.0
+2024-12-03,0.0
+2024-12-04,0.8
+2024-12-05,0.0
+2024-12-05,1.0
+2024-12-06,0.0
+2024-12-10,1.0
+2024-12-10,1.0
+2024-12-10,1.0
+2024-12-10,0.0
+2024-12-11,1.0
+2024-12-11,1.0
+2024-12-12,1.0
+2024-12-14,0.0
+2024-12-14,0.0
+2024-12-16,0.7999999999999999
+2024-12-18,0.0
+2024-12-19,1.0
+2024-12-21,1.0
+2024-12-22,0.5
+2024-12-23,0.0
+2024-12-24,1.0
+2024-12-24,1.0
+2024-12-25,0.0
+2024-12-29,1.0
+2025-01-03,1.0
+2025-01-03,1.0
+2025-01-04,1.0
+2025-01-06,1.0
+2025-01-07,1.0
+2025-01-07,1.0
+2025-01-08,0.0
+2025-01-08,1.0
+2025-01-10,1.0
+2025-01-13,0.0
+2025-01-13,0.0
+2025-01-14,0.0
+2025-01-14,0.0
+2025-01-14,1.0
+2025-01-14,1.0
+2025-01-15,0.4
+2025-01-15,1.0
+2025-01-15,1.0
+2025-01-16,0.0
+2025-01-16,1.0
+2025-01-20,0.0
+2025-01-21,0.4
+2025-01-22,0.0
+2025-01-23,0.0
+2025-01-24,0.0
+2025-01-25,0.5
+2025-01-26,0.5
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,0.0
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,1.0
+2025-01-29,0.5
+2025-01-29,1.0
+2025-01-30,1.0
+2025-01-30,1.0
+2025-01-30,1.0
+2025-01-30,1.0
+2025-01-30,0.5
+2025-01-31,1.0
+2025-01-31,1.0
+2025-02-01,1.0
+2025-02-01,1.0
+2025-02-04,1.0
+2025-02-04,1.0
+2025-02-04,0.0
+2025-02-04,0.7999999999999999
+2025-02-05,0.0
+2025-02-05,0.2
+2025-02-06,0.0
+2025-02-06,0.0
+2025-02-07,0.9
+2025-02-07,0.0
+2025-02-09,1.0
+2025-02-10,0.5
+2025-02-10,1.0
+2025-02-11,1.0
+2025-02-12,0.0
+2025-02-12,0.7999999999999999
+2025-02-13,0.7999999999999999
+2025-02-13,0.0
+2025-02-14,0.0
+2025-02-17,0.0
+2025-02-17,0.0
+2025-02-17,1.0
+2025-02-17,0.0
+2025-02-17,0.0
+2025-02-17,0.0
+2025-02-19,0.0
+2025-02-19,0.0
+2025-02-21,0.0
+2025-02-21,1.0
+2025-02-21,1.0
+2025-02-21,0.0
+2025-02-22,0.5
+2025-02-23,0.7999999999999999
+2025-02-24,1.0
+2025-02-24,1.0
+2025-02-25,0.0
+2025-02-25,0.0
+2025-02-25,0.0
+2025-02-25,1.0
+2025-02-26,1.0
+2025-02-26,0.7999999999999999
+2025-02-27,1.0
+2025-03-01,1.0
+2025-03-04,1.0
+2025-03-05,1.0
+2025-03-05,0.0
+2025-03-07,0.0
+2025-03-07,0.0
+2025-03-08,1.0
+2025-03-10,0.4
+2025-03-11,1.0
+2025-03-11,0.0
+2025-03-11,1.0
+2025-03-11,0.5
+2025-03-12,1.0
+2025-03-12,0.0
+2025-03-13,1.0
+2025-03-14,0.5
+2025-03-15,0.5
+2025-03-15,0.0
+2025-03-15,1.0
+2025-03-20,0.0
+2025-03-20,0.0
+2025-03-21,0.0
+2025-03-21,1.0
+2025-03-22,1.0
+2025-03-22,0.5
+2025-03-23,1.0
+2025-03-25,1.0
+2025-03-25,0.5
+2025-03-26,0.8
+2025-03-27,0.2
+2025-03-30,0.7999999999999999
+2025-03-30,0.0
+2025-03-31,1.0
+2025-03-31,1.0
+2025-04-02,0.09999999999999998
+2025-04-02,0.0
+2025-04-02,0.7999999999999999
+2025-04-03,1.0
+2025-04-04,1.0
+2025-04-04,0.0
+2025-04-06,1.0
+2025-04-09,1.0
+2025-04-09,1.0
+2025-04-10,0.7999999999999999
+2025-04-11,1.0
+2025-04-11,1.0
+2025-04-14,0.9999999999999999
+2025-04-15,1.0
+2025-04-15,1.0
+2025-04-17,0.0
+2025-04-21,1.0
+2025-04-21,1.0
+2025-04-22,1.0
+2025-04-22,1.0
+2025-04-22,0.5
+2025-04-22,1.0
+2025-04-22,0.5
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-24,1.0
+2025-04-24,1.0
+2025-04-24,0.7999999999999999
+2025-04-28,1.0
+2025-04-28,1.0
+2025-04-29,0.4
+2025-04-29,1.0
+2025-04-29,0.0
+2025-04-30,0.0
+2025-05-02,0.2
+2025-05-02,0.0
+2025-05-02,1.0
+2025-05-02,1.0
+2025-05-06,1.0
+2025-05-07,0.0
+2025-05-07,1.0
+2025-05-08,1.0
+2025-05-08,1.0
+2025-05-08,1.0
+2025-05-09,1.0
+2025-05-09,0.0
+2025-05-09,0.9999999999999999
+2025-05-09,0.0
+2025-05-09,0.0
+2025-05-09,0.2
+2025-05-10,1.0
+2025-05-12,0.5
+2025-05-15,1.0
+2025-05-15,1.0
+2025-05-15,0.0
+2025-05-16,1.0
+2025-05-16,0.4
+2025-05-19,0.0
+2025-05-22,0.0
+2025-05-22,0.8
+2025-05-22,1.0
+2025-05-23,1.0
+2025-05-28,0.5
+2025-05-29,0.0
+2025-05-30,1.0
+2025-05-30,0.8
+2025-05-30,0.0
+2025-05-30,0.0
+2025-05-30,0.0
+2025-05-31,1.0
+2025-06-02,0.4
+2025-06-02,0.0
+2025-06-02,0.0
+2025-06-02,0.4
+2025-06-02,0.6000000000000001
+2025-06-02,0.8
+2025-06-03,0.0
+2025-06-04,0.0
+2025-06-05,1.0
+2025-06-10,1.0
+2025-06-11,0.0
+2025-06-12,0.0
+2025-06-14,0.0
+2025-06-17,0.5
+2025-06-18,1.0
+2025-06-20,1.0
+2025-06-21,1.0
+2025-06-22,0.0
+2025-06-25,0.0
+2025-06-25,0.0
+2025-06-26,0.0
+2025-06-26,1.0
+2025-06-27,1.0
+2025-06-27,1.0
+2025-06-27,0.0
+2025-06-29,0.0
+2025-06-30,1.0
+2025-06-30,1.0
+2025-07-02,1.0
+2025-07-02,0.0
+2025-07-03,1.0
+2025-07-05,1.0
+2025-07-06,0.0
+2025-07-08,0.5
+2025-07-08,0.6000000000000001
+2025-07-10,0.0
+2025-07-11,0.0
+2025-07-11,1.0
+2025-07-13,0.7999999999999999
+2025-07-15,0.0
+2025-07-16,1.0
+2025-07-17,1.0
+2025-07-18,1.0
+2025-07-19,0.5
+2025-07-19,0.0
+2025-07-19,0.7
+2025-07-21,1.0
+2025-07-21,0.0
+2025-07-21,1.0
+2025-07-21,0.0
+2025-07-22,0.0
+2025-07-22,0.7
+2025-07-22,0.0
+2025-07-22,0.9
+2025-07-22,1.0
+2025-07-22,1.0
+2025-07-22,1.0
+2025-07-22,1.0
+2025-07-23,0.8
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-24,1.0
+2025-07-24,1.0
+2025-07-24,0.0
+2025-07-25,0.8999999999999999
+2025-07-25,0.0
+2025-07-25,0.0
+2025-07-27,0.0
+2025-07-27,1.0
+2025-07-27,0.09999999999999998
+2025-07-28,0.0
+2025-07-28,1.0
+2025-07-29,0.0
+2025-07-29,1.0
+2025-07-29,0.5
+2025-07-30,1.0
+2025-07-30,0.0
+2025-07-30,0.8
+2025-07-30,0.4
+2025-07-30,0.09999999999999998
+2025-08-01,1.0
+2025-08-02,0.0
+2025-08-02,0.5
+2025-08-04,0.0
+2025-08-05,0.0
+2025-08-05,1.0
+2025-08-05,0.4
+2025-08-06,0.7
+2025-08-06,0.7
+2025-08-08,0.0
+2025-08-08,0.0
+2025-08-08,0.4
+2025-08-12,0.8
+2025-08-12,0.4
+2025-08-13,0.8
+2025-08-13,1.0
+2025-08-13,0.5
+2025-08-13,0.2
+2025-08-14,1.0
+2025-08-14,0.0
+2025-08-14,1.0
+2025-08-15,0.0
+2025-08-15,0.2
+2025-08-17,0.7999999999999999
+2025-08-17,0.0
+2025-08-17,0.5
+2025-08-18,1.0
+2025-08-19,0.0
+2025-08-19,0.0
+2025-08-22,1.0
+2025-08-25,1.0
+2025-08-26,0.0
+2025-08-26,0.5
+2025-08-27,0.0
+2025-08-28,0.5
+2025-08-28,0.4
+2025-08-28,0.0
+2025-09-02,1.0
+2025-09-02,1.0
+2025-09-03,1.0
+2025-09-06,0.0
+2025-09-07,1.0
+2025-09-08,0.2
+2025-09-08,0.0
+2025-09-09,0.0
+2025-09-10,0.6000000000000001
+2025-09-10,1.0
+2025-09-12,0.4
+2025-09-15,0.0
+2025-09-15,1.0
+2025-09-17,0.9
+2025-09-18,1.0
+2025-09-18,0.0
+2025-09-20,0.5
+2025-09-22,0.4
+2025-09-22,0.4
+2025-09-24,0.0
+2025-09-24,1.0
+2025-09-25,0.4
+2025-09-27,0.7999999999999999
+2025-09-27,1.0
+2025-09-30,1.0
+2025-10-01,1.0
+2025-10-01,1.0
+2025-10-01,0.0
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-03,0.7999999999999999
+2025-10-05,1.0
+2025-10-05,0.2
+2025-10-07,0.0
+2025-10-07,1.0
+2025-10-09,0.0

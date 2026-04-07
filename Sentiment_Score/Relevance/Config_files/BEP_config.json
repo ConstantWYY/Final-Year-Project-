@@ -3,36 +3,36 @@
     "brookfield renewable",
     "brookfield renewable partners",
     "bep",
+    "bepc",
     "bep.un",
     "nyse:bep",
-    "tsx:bep.un"
+    "tsx:bep.un",
+    "connor teskey"
   ],
 
   "products": [
-    "hydroelectric power",
-    "wind power",
+    "hydroelectric",
+    "hydro power",
+    "wind farm",
     "solar power",
-    "offshore wind",
-    "renewable energy",
+    "utility-scale solar",
     "energy storage",
-    "battery storage",
-    "clean power",
-    "power purchase agreement",
-    "PPA",
-    "utility-scale renewables",
-    "hydrogen",
-    "carbon capture",
     "distributed generation",
-    "virtual power plant",
-    "grid modernization",
-    "energy arbitrage"
+    "pumped storage",
+    "renewable energy credits",
+    "recs",
+    "power purchase agreement",
+    "ppa",
+    "green hydrogen",
+    "nuclear power",
+    "westinghouse"
   ],
 
   "direct_keywords": [
     "earnings",
     "revenue",
     "funds from operations",
-    "FFO",
+    "ffo",
     "guidance",
     "outlook",
     "cash flow",
@@ -43,33 +43,49 @@
     "asset sale",
     "capital recycling",
     "project acquisition",
-    "power purchase agreement",
     "long-term contract",
+    "power purchase agreement",
     "financing",
-    "green bonds",
-    "CEO",
-    "CFO",
-    "virtual power plant",
-    "grid modernization",
-    "energy arbitrage"
+    "project financing",
+    "green bond issuance",
+    "ceo",
+    "cfo"
   ],
 
   "indirect_keywords": [
-    "renewable energy transition",
-    "electricity demand",
-    "AI data centers",
-    "power demand growth",
-    "utility sector",
-    "infrastructure investment",
+    "renewable energy sector",
+    "clean energy",
+    "energy transition",
+    "carbon credits",
+    "grid modernization",
+    "utility rates",
+    "electricity prices",
+    "inflation reduction act",
+    "ira",
+    "esg investing",
+    "climate policy",
+    "green bonds",
+    "independent power producer",
+    "ipp"
+  ],
+
+  "macro_keywords": [
+    "federal reserve",
+    "fed",
     "interest rates",
-    "inflation-linked contracts",
-    "ESG",
-    "decarbonization",
-    "regulation",
-    "energy policy",
-    "hydrogen",
-    "carbon capture",
-    "distributed generation"
+    "rate hike",
+    "yield curve",
+    "treasury yields",
+    "inflation",
+    "cpi",
+    "gdp",
+    "macroeconomic",
+    "broad market",
+    "market-wide",
+    "risk sentiment",
+    "equity markets",
+    "s&p 500",
+    "bond market"
   ],
 
   "low_signal_phrases": [
@@ -85,23 +101,13 @@
     "blog",
     "newsletter",
     "podcast",
-    "ETF",
+    "etf",
     "index fund",
     "technical analysis",
     "price prediction",
-    "chart analysis"
-  ],
-    "positive_keywords": [
-    "beats expectations","eps beats","beats on","beat estimates","beats estimates","raises guidance","raised guidance","in line annual profit","forecast annual profit in line","profit jumps","surpass expectations",
-    "approval","approved","clears","receives ce mark","receives ce-mark","ce mark","ce-mark","authorized","authorization","reimbursed","wins","win","verdict","not liable","not responsible","lawsuit win",
-    "partnership","collaborat","integrat","price target raised","overweight rating","outperform rating","buy rating","upgraded","upgrade","initiates trial","initiated trial","new trial","data shows","positive data","strong growth","margin expansion","expands","expansion","first-in-world",
-    "dividend increase","increases dividend","raised dividend","declares dividend","quarterly dividend","strong demand","launch","launches","invest","investment","investing","host conference call for earnings","guidance met","maintains guidance","maintained guidance","maintains outlook","reaffirms guidance",
-    "first patient procedures","first-of-its-kind","first in the world","wins fda nod","wins fda approval","fda approves","fda cleared","fda clears","health canada","cms coverage","coverage"
-  ],
-  "negative_keywords": [
-    "misses","miss","declines","cuts","cut guidance","guidance cut","downgraded","downgrade","lawsuit","penalty","penalties","probe","investigation","retrial","new trial could be heard","judge ordered a new trial","overturned verdict","recall","halt","block","short seller","pricing pressure","margin declines","inventory issues","restatement","under investigation","tariff","tariffs","costs","hit from china","weaker-than-expected","sinks","plummeted","falls","fell","drops","dropped","declines while market gains","stock sinks","stock drops","profit falls","revenue falls","forecasts below","below expectations","outlook cut","narrows outlook","lowers outlook","lowered outlook","ban","banned"
-  ],
-  "price_move_keywords": [
-    "stock underperforms","stock outperforms","stock rises","stock falls","trading day","marketwatch","roundup","premarket movers","health care roundup","gains and losses today","trending tickers","market minute"
+    "chart analysis",
+    "market roundup",
+    "daily movers",
+    "market wrap"
   ]
 }

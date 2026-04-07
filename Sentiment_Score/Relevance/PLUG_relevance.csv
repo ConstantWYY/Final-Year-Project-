@@ -1,471 +1,397 @@
-date,relevance_score,category,rationale,evidence_spans
-2024-10-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 Heavily Shorted Stocks That Are Down More Than 75% Since 2021. Can They Turn Things Around?""]"
-2024-10-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""1 Reason I Havent Bought Plug Power and Probably Never Will""]"
-2024-10-26,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why the Market Dipped But Plug Power (PLUG) Gained Today"", ""The latest trading day saw Plug Power (PLUG) settling at $2.15, representing""]"
-2024-10-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""If You Bought 1 Share of Plug Power at Its IPO, Heres How Much Money Youd H"", ""Plug Power investors have been taken for a ride.""]"
-2024-11-01,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""while its down, thats the best time to plug in to a good growth story.""]"
-2024-11-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug to Announce 2024 Third Quarter Results"", ""omprehensive hydrogen solutions for the green hydrogen economy, will announce its 2024 third q""]"
-2024-11-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Stocks to watch if Kamala Harris wins the US election""]"
-2024-11-05,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Rel"", ""of the two key ingredients for a likely earnings beat in its upcoming report. Get prepar""]"
-2024-11-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Steep revenue drop in H1 2024 and high cash burn from""]"
-2024-11-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Investors think Plug Powers electrolyzers might have a growing new market.""]"
-2024-11-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Heres Why Plug Power (PLUG) Gained But Lagged the Market Tod"", ""In the latest trading session, Plug Power (PLUG) closed at $2.52, marking a +0.4%""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""What Trumps victory means for EV industry, Musk""]"
-2024-11-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why First Solar, Sunnova Energy, and Plug Power Stocks All Crashed Today""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Why Trumps Victory Is So Dangerous for Clean-Energy Companies""]"
-2024-11-07,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""trics Reveal About Plug Power (PLUG) Q3 Earnings"", ""the company might have fared during the quarter ended September 2024.""]"
-2024-11-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG TO BROADCAST 2024 PLUG SYMPOSIUM ON NOVEMBER 13, 2024"", ""omprehensive hydrogen solutions for the green hydrogen economy, invites the public to join the""]"
-2024-11-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2024-11-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Trump win fuels stock rally: Nasdaq up 400 points, gold plunges""]"
-2024-11-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""dwindling cash balance, but AI and tech partnerships offer a glimmer of hope. Find out why""]"
-2024-11-08,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Q3 Earnings Preview: Whats The Outlook Following Do"", ""tocks. See what to expect from PLUGs Q3 earnings.""]"
-2024-11-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Wall Street Brunch: Time To Eye The CPI""]"
-2024-11-11,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG Gears Up to Post Q3 Earnings: What Lies Ahead for the Stock?"", ""s are likely to reflect soft demand for GenDrive units. An increased number of sites wit""]"
-2024-11-11,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Earnings: What To Look For From PLUG"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) wil""]"
-2024-11-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power: Q3 Earnings Snapshot""]"
-2024-11-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Announces Key Strategic Milestones and Continued Margin Improvement in Th"", ""omprehensive hydrogen solutions for the green hydrogen economy, today announced further progre""]"
-2024-11-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (NASDAQ:PLUG) Misses Q3 Revenue Estimates"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2024-11-12,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""2 No-Brainer Hydrogen Stocks to Buy With $200 Right Now"", ""Plug Power and Nikola could be good longshot plays""]"
-2024-11-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc. (PLUG) Q3 2024 Earnings Call Transcript"", ""Plug Power Inc. (NASDAQ:PLUG) Q3 2024 Earnings Call Transcript November 12, 2024 8:30""]"
-2024-11-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Stock Dives After Earnings Report. It’s Getting Battered Since Tru"", ""logy provider turned in a disappointing quarterly report and weak guidance.  Plug stock""]"
-2024-11-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ug Power (PLUG) Reports Q3 Loss, Misses Revenue Estimates"", ""Plug Power (PLUG) delivered earnings and revenue surprises of -4.17% and 16.""]"
-2024-11-13,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power: Management Continues To Overpromise An"", ""Financial writer analyzes Plug Power Inc.s disappointing Q3 2024 results, di""]"
-2024-11-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Q3 Loss Wider Than Expected, Revenues Miss Estimates"", ""PLUG posts third-quarter 2024 results, wherein its revenues decl""]"
-2024-11-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""nesday. Plug has provided its financial outlook for 2025, projecting revenue between $8""]"
-2024-11-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Power offers softer-than-expected 2025 sales guidance, appoints new president"", ""ing the release of softer-than-expected revenue guidance for 2025.""]"
-2024-11-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power sees FY24 revenue $700M-$800M, consensus $823.46M"", ""Plug anticipates its 2024 revenue to range between $700 million and $800""]"
-2024-11-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Hosts 2024 Plug Symposium"", ""al leader in hydrogen solutions for the green hydrogen economy, is hosting its sixth annual Pl""]"
-2024-11-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc (PLUG) Q3 2024 Earnings Call Highlights: Strong Margin Growth a"", ""er Inc (PLUG) reports a 37% increase in gross margins and significant cash burn reduction, w""]"
-2024-11-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Q3 2024 Plug Power Inc Earnings Call"", ""Q3 2024 Plug Power Inc Earnings Call""]"
-2024-11-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Reports Q3 Earnings: What Key Metrics Have to Say"", ""t into how the company performed in the quarter ended September 2024, but it may be wor""]"
-2024-11-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Q3 2024 Earnings Call Transcript"", ""PLUG earnings call for the period ending September 30""]"
-2024-11-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","["") after the company reported weak third-quarter results and provided FY25 guidance. On""]"
-2024-11-16,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Stock a Buy?"", ""Plug Power (NASDAQ: PLUG) has been a high-profile""]"
-2024-11-16,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power CEO confident in new hydrogen plants despite Q3 miss"", ""Despite missing third-quarter earnings, Plug Power (PLUG) CEO Andy Ma""]"
-2024-11-18,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Should You Buy Plug Power While Its Below $3?""]"
-2024-11-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Where Will Plug Power Be in 5 Years?"", ""Plug Power profits are always a year (or 10) in th""]"
-2024-11-26,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""omprehensive hydrogen solutions for the green hydrogen economy, announced that it will be feat""]"
-2024-11-26,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Recognized as a leading hydrogen and fuel cell business, Plug Power (NASDAQ: PLUG) is""]"
-2024-11-26,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power : to Participate in the Jefferies Renew"", ""Plug to Participate in the Jefferies Renewab""]"
-2024-11-26,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) the Best Renewable Energy P"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2024-11-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Biden Rushes to Trump-Proof His Signature Energy, Chip Policies""]"
-2024-12-05,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc. (PLUG) Management presents at Jeff"", ""Plug Power Inc. (NASDAQ:PLUG) Jefferies Renewables""]"
-2024-12-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""46% along with institutions invested in Plug Power Inc. (NASDAQ:PLUG) saw increase in thei"", ""Key Insights Significant control over Plug Power by retail investors implies that the ge""]"
-2024-12-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n. This was partly driven by its softer quarterly results and may have investors wonder""]"
-2024-12-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""financial challenges with large losses, cash burn, and delays in key projects despite a f""]"
-2024-12-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power: Electrolyzer Deployments And Increased Institutional Confidence"", ""Plug Power upgraded to Hold on electrolyzer agreements and potential returns despit""]"
-2024-12-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""sustainable energy with its innovative fuel cells.  The company looks to capitalize on t""]"
-2024-12-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""(Bloomberg) -- Billions of dollars in federal loans to Rivian Automotive Inc., Plug Power""]"
-2024-12-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Is Plug Power (PLUG) the Best Small Cap EV Stock to I"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2024-12-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""t selling customers on the value of its fuel cells and hydrogen business.  Investors, on""]"
-2024-12-27,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power: Make Or Break Moment Fast Approaching"", ""Plug Power stock has recovered from its September""]"
-2024-12-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Power Inc. (PLUG) the Best Hydrogen and Fuel Cell Stock to Buy for 2025?"", ""iled a list of the 12 Best Hydrogen and Fuel Cell Stocks to Buy for 2025. In this article""]"
-2025-01-02,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ry Department is gearing up to give new guidance on tax credits for hydrogen production""]"
-2025-01-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Richtech Robotics: Sell On Persistent Dilution And Incredibly Risky Business Model""]"
-2025-01-03,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power (PLUG) Among the Best Long-Term Penny S"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-01-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ies trying to get tax breaks for making clean hydrogen.""]"
-2025-01-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ies to obtain tax credits for producing green hydrogen in the next several years. The Rule Cha""]"
-2025-01-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-01-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Biden Loosens Rules for Hydrogen Subsidies Worth Billions""]"
-2025-01-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Nuclear-Energy Stocks Gain After Easing of Hydrogen Tax-Credit Rules""]"
-2025-01-05,0.36,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""3 Renewable Energy Stocks to Buy in 2025 and Hold for Deca""]"
-2025-01-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Gevo: Sell The Rally On Elevated Valuation And Weak Prospects""]"
-2025-01-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""7 Investments To Avoid In 2024: The Reckoning""]"
-2025-01-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""stock.  In some years, the developer of hydrogen fuel cell systems has seen its shares surge sever""]"
-2025-01-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ng the Treasury Department and Internal Revenue Service revising its rules for hydrogen""]"
-2025-01-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""er Stock Jumps Further on New Rules for Clean Hydrogen Tax Credits"", ""ght session on new tax credit rules for clean hydrogen production.""]"
-2025-01-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Nuclear energy stocks rise after final US rules on hydrogen tax credits""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""omprehensive hydrogen solutions for the green hydrogen economy, will participate in the Goldma""]"
-2025-01-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Here’s Why Plug Power Inc. (NASDAQ:PLUG) Is Skyrocketing"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power stock soars on new hydrogen tax credit rules"", ""’s rule changes on tax credit rules for clean hydrogen producers. Market Domination hosts Juli""]"
-2025-01-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""These Stocks Moved the Most Today: Super Micro, Microsoft, Nvidia, Micron, FuboTV, Palantir, SolarEdge, T-Mobile, and More""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""orting much higher-than-expected fourth-quarter deliveries this morning. For its part,""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of hydrogen producer and fuel cell maker Plug Power (NASDAQ: PLUG) soared""]"
-2025-01-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""uld The Completion Of The $1.66 Billion DoE Loan Trigger A Short Squeeze?"", ""Plug Powerâs $1.66 billion DoE loan hinges on hydrogen PTC stability.""]"
-2025-01-08,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Q3 Earnings Highs And Lows: Plug Power (NASDAQ:PLUG"", ""The end of the earnings season is always a good time to take a""]"
-2025-01-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc. (PLUG): Here’s Why the Stock Crash"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against other""]"
-2025-01-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Is Plummeting Today"", ""Plug Power (NASDAQ: PLUG) stock is seeing big sell""]"
-2025-01-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell and hydrogen specialist Plug Power (NAS""]"
-2025-01-11,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power: Buy The Pullback (Technical Analysis)"", ""Plug Power stock is a strong buy opportunity, with""]"
-2025-01-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""omprehensive hydrogen solutions for the green hydrogen economy, will participate in the 14th U""]"
-2025-01-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""7 Investments To Avoid In 2025""]"
-2025-01-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Seals Monumental Deal with Allied Green Ammonia for a Mega 3 GW Electrolyzer System"", ""omprehensive hydrogen solutions for the green hydrogen economy, today announced a landmark pur""]"
-2025-01-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","["". Department of Energy finalizes $1.66B loan guarantee for Plug Power. Walmart adds Chanel, Gu""]"
-2025-01-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Closes Loan Guarantee from the U.S. Department of Energy"", ""Loan guarantee supports Plug’s domestic hydrogen produ""]"
-2025-01-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Power, the countrys largest producer of clean hydrogen, said it had received...""]"
-2025-01-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Boosts Liquidity with $30 Million Federal Investment Tax"", ""omprehensive hydrogen solutions for the green hydrogen economy, boosted its liquidity by appro""]"
-2025-02-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Launches Industrys First Spot Pricing for Green Hydrogen""]"
-2025-02-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""why PLUG is a Strong Buy with its 300% revenue growth, leadership in a booming market,""]"
-2025-02-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power’s Louisiana Hydrogen Plant Set for First Quarter Operations with R"", ""s confirmed that its new 15-ton-per-day hydrogen plant in St. Gabriel, Louisiana is on schedul""]"
-2025-02-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug To Announce 2024 Fourth Quarter and Year-End Results"", ""omprehensive hydrogen solutions for the green hydrogen economy, will announce its 2024 fourth""]"
-2025-02-26,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Powe : Plug Power"", ""Plug Power NASDAQ: PLUG Copyright 2023, Plug Power""]"
-2025-02-27,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Corrects Date for Fourth Quarter-Year End 2024 Earnings Call to March 4,"", ""omprehensive hydrogen solutions for the green hydrogen economy, has corrected its upcoming Q4-""]"
-2025-02-28,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Adopts Executive Compensation Program t"", ""LATHAM, N.Y., Feb. 28, 2025 -- Plug Power Inc. , a leading provider of hydrogen s""]"
-2025-03-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Announces Continued Cash Flow Improvement and Progress on Path to Pro"", ""ic and operational progress and path to profitability. This...""]"
-2025-03-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc. (PLUG) Q4 2024 Earnings Call Transcript"", ""Plug Power Inc. (NASDAQ:PLUG) Q4 2024 Earnings Conference Call March 4, 2025 8:30 AM E""]"
-2025-03-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n end-to-end hydrogen solutions for the green hydrogen economy, is participating today in the""]"
-2025-03-08,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG) confirmed last month that its new hydrogen plant in Louisiana was on track to start oper""]"
-2025-03-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ing plan in conjunction with its fourth-quarter earnings report released on Monday, Mar""]"
-2025-03-10,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) the Best Emerging Technolog"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-03-11,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) The Best EV Stock to Buy Ac"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-03-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Industrials Stock with Exciting Potential and 2 to Ignore""]"
-2025-03-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""omprehensive hydrogen solutions for the green hydrogen economy, announced that it will be feat""]"
-2025-03-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Southwire taps Plug Power for clean hydrogen ecosystem at its Dallas-Forth Worth, Te"", ""INC. TO ADVANCE CARBONREDUCTION FROMTHE SUPPLY CHAINSource text: ...""]"
-2025-03-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""c. to Advance Carbon Reduction from the Supply Chain""]"
-2025-03-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""er: Restructuring While Waiting For The DOE Funding"", ""te the potential for upside through the DOE loan.""]"
-2025-03-15,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Gains But Lags Market: What You"", ""Plug Power (PLUG) closed the most recent trading d""]"
-2025-03-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Powers 2025 Bet On Electrolyzers—J.P. Morgan Sees Growth But Stays Cons"", ""scussions mainly centered on the demand outlook across its three key verticals, cost-sa""]"
-2025-03-15,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) The Best Stock Under $3 to"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-03-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""detailed report outlining its long-term forecast for hydrogen demand.""]"
-2025-03-17,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Powe : Plug Power"", ""Plug Power NASDAQ: PLUG Copyright 2022, Plug Power""]"
-2025-03-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""c. To Advance Carbon Reduction From the Supply Chain"", ""al leader in hydrogen solutions for the green hydrogen economy, ...""]"
-2025-03-17,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc. (PLUG) ROTH Annual Conference (Tra"", ""Plug Power Inc. (NASDAQ:PLUG) ROTH Annual Conferen""]"
-2025-03-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ing Gaps And Delayed Growth Despite The DOE Loan"", ""Plug Power faces high risks despite a DOE loan guarantee, with funding gaps, policy sh""]"
-2025-03-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Upsized Offering Sold to Single Institutional Investor to Strengthen Financial Position and Dr""]"
-2025-03-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 Once-Promising Growth Stocks That Are Down 40% Since the 2020 Crash -- Can Any of Them Recover?""]"
-2025-03-20,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug CEO, Andy Marsh, Reinforces Commitment"", "".Y., March 20, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-03-20,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power CEO Andy Marsh To Accept 50% Of Salary"", ""Plug Power Inc: * PLUG POWER INC - CEO ANDY MARSH""]"
-2025-03-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Its Been 25 Years Since Plug Power Stock Set Its All-Time High. Heres 1 Re""]"
-2025-03-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why the Market Dipped But Plug Power (PLUG) Gained Today"", ""the closing of the recent trading day, Plug Power (PLUG) stood at $1.59, denoting a +0.63""]"
-2025-03-23,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Should You Buy Plug Power Stock While Its Below $2?"", ""Short answer: No, you should not buy Plug stock. Now heres the longer answer.""]"
-2025-03-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""identify a theme for the recent fourth-quarter 2024 earnings presentation from fuel ce""]"
-2025-03-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Ascends But Remains Behind Marke"", ""the closing of the recent trading day, Plug Power (PLUG) stood at $1.54, denoting a +0.65""]"
-2025-03-26,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Q3 Earnings Roundup: Plug Power (NASDAQ:PLUG) And T"", ""Wrapping up Q3 earnings, we look at the numbers and key takeawa""]"
-2025-03-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n end-to-end hydrogen solutions for the green hydrogen economy, is participating today in the""]"
-2025-04-01,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Beats Stock Market Upswing: What"", ""Plug Power (PLUG) closed at $1.35 in the latest tr""]"
-2025-04-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace t""]"
-2025-04-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""How to Find Strong Industrial Products Stocks Slated for Positive Earnings Surprises""]"
-2025-04-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (NASDAQ: PLUG), a leader in fuel cells and hydrogen production -- especially""]"
-2025-04-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ing-edge hydrogen forklift and hydrogen fuel cell solutions to two of its cold storage di"", ""ring cutting-edge hydrogen forklift and hydrogen fuel cell solutions to two of its cold storage di""]"
-2025-04-05,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why the Market Dipped But Plug Power (PLUG) Gained Today"", ""Plug Power (PLUG) closed the most recent trading d""]"
-2025-04-07,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Plunged Another 16% in March"", ""Plug Power stock is now down by about 43% in 2025.""]"
-2025-04-08,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) the Best Hydrogen Stock to"", ""We recently published a list of 10 Best Hydrogen Stocks to Buy According to Billionaires. In t""]"
-2025-04-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""sy,” and seems set to generate negative cash flow from operations through 2026, the analy""]"
-2025-04-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 Beaten-Down Stocks That Are Trading Below Their Book Values""]"
-2025-04-10,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""l the now-completed Q3 renewable energy earnings season.""]"
-2025-04-12,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Gains But Lags Market: What You"", ""The latest trading day saw Plug Power (PLUG) settling at $1.13, representing""]"
-2025-04-13,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""NuScale, Plug Power, and CleanSpark could surge higher over""]"
-2025-04-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 of Wall Street’s Favorite Stocks Showing Warning Signs""]"
-2025-04-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Hidrogenii, a Plug and Olin Joint Venture, Commissions 15 Ton Per Day Hydrogen Li"", ""gen Capture Enhances Sustainability and Profitability of Olin’s St. Gabriel Facility Plug US""]"
-2025-04-17,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""SoundHound AI, Domo, Plug Power, Corcept, and 8x8 Shares Are Falling, W""]"
-2025-04-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Q3 Earnings Roundup: Plug Power (NASDAQ:PLUG) And T"", ""ing back on renewable energy stocks’ Q3 earnings, we examine this quarter’s best and wor""]"
-2025-04-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power, Oklo, Constellation Energy, and Nano N""]"
-2025-04-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) The Top Falling Stock with"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against other""]"
-2025-04-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc. (PLUG): Among EV Penny Stock From"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against other""]"
-2025-04-24,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc. (PLUG): Among Takeover Rumors Hedg"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against other""]"
-2025-04-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Heres Why Plug Power (PLUG) Gained But Lagged the Market Tod"", ""the closing of the recent trading day, Plug Power (PLUG) stood at $0.85, denoting a +0.94""]"
-2025-04-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Stocks to Watch Monday: Domino’s Pizza, Spirit AeroSystems, Nvidia, DoorDash""]"
-2025-04-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Secures New Credit Facility, Sees Q1, Q2 Revenue In-Line With  Esti"", ""arply in early Monday trading after the hydrogen fuel cell company s""]"
-2025-04-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""2 Unprofitable Stocks to Research Further and 1 to Question""]"
-2025-04-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Signs $525 Million Secured Credit Facility with Yorkville Advisors and Reports Str"", ""ed a definitive agreement for a secured debt facility and achieved key operational and financ""]"
-2025-04-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power analyst has surprising stock price targ"", ""This is what could happen next to Plug Power shares after key balance-sheet move.""]"
-2025-04-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""nos Pizza (DPZ): The chain posted mixed quarterly results, including a decline in U.""]"
-2025-04-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power: Stock Rallies On Preliminary Q1 Result"", ""Plug Power entered into an up to $525M secured deb""]"
-2025-04-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ny’s announcement of a new $525 million credit facility with Yorkville Advisors.""]"
-2025-04-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""the company published preliminary first-quarter results and announced a new funding mov""]"
-2025-04-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-04-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Huawei & Nvidia, Plug Power, Airbus buys Spirit Aerosystems plants"", ""reporting from the Wall Street Journal. Plug Power (PLUG) stock surges after announcing a""]"
-2025-05-01,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Expected to Beat Earnings Estimates: Should You Buy?"", ""of the two key ingredients for a likely earnings beat in its upcoming report. Get prepar""]"
-2025-05-03,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Drops Despite Market Gains"", ""In the most recent trading session, Plug Power (PLUG) closed at $0.84, indicating a -1""]"
-2025-05-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Certain Warrants of Plug Power Inc. are subject to a Lock-Up Agreement"", ""Certain Warrants of Plug Power Inc. are subject to a Lock-Up Agreement""]"
-2025-05-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Ball (BALL) Beats Q1 Earnings and Revenue Estimates""]"
-2025-05-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Closes $525 Million Secured Credit Facility with Yorkville Advisors"", ""Plug to Hold First Quarter 2025 Earnings Call on May 12, 2025SLING""]"
-2025-05-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""hare. This was partly due to its softer quarterly results and may have investors wonder""]"
-2025-05-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Plunged Another 35% in April"", ""Plug Power stock is in a free fall, but one thing""]"
-2025-05-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""U.S.-based Hydrogen fuel cell company Plug Power Inc. (NASDAQ:PLUG) w""]"
-2025-05-11,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Earnings: What To Look For From PLUG"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) wil""]"
-2025-05-12,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Inc. (PLUG) the Best Small Cap EV Stock"", ""e, we are going to take a look at where Plug Power Inc. (NASDAQ:PLUG) stands against the o""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc. (PLUG) Q1 2025 Earnings Call Transcript"", ""Plug Power Inc. (NASDAQ:PLUG) Q1 2025 - Earnings Conference Call May 12, 2025 4:30 PM ET""]"
-2025-05-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Reports First Quarter 2025 Financial Results"", ""Commissioning of Louisiana hydrogen plant, global ele""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power’s (NASDAQ:PLUG) Q1 Sales Beat Estimates, Quarterly Revenue Guida"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) ann""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power: Q1 Earnings Snapshot""]"
-2025-05-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""GOP to Phase Out Biden Energy Credits to Pay for Tax Cuts""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Q1 2025 Plug Power Inc Earnings Call"", ""Q1 2025 Plug Power Inc Earnings Call""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ared to Estimates, Plug Power (PLUG) Q1 Earnings: A Look at Key Metrics"", ""t into how the company performed in the quarter ended March 2025, but it may be worthwh""]"
-2025-05-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Q1 Loss Wider Than Expected, Revenues Beat Estimates"", ""PLUG posts first-quarter 2025 results, wherein its revenues incr""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Reports Q1 Loss, Tops Revenue Estimates"", ""Plug Power (PLUG) delivered earnings and revenue surprises of -5% and 1.08%,""]"
-2025-05-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc (PLUG) Q1 2025 Earnings Call Highlights: Strategic Growth in Eu"", ""Plug Power Inc (PLUG) reports steady revenue, advances in hydrogen generation, and s""]"
-2025-05-14,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power: Sell On Likely Loss Of Hydrogen Production Tax Credit (Downgrade)""]"
-2025-05-14,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ing as lawmakers consider eliminating a hydrogen production tax credit, which would negatively impa""]"
-2025-05-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power generated more revenue than expected, but missed estimates on""]"
-2025-05-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""s Near-Term Challenges, Withdraws Price Forecast"", ""ASDAQ:PLUG) but has withdrawn the price forecast. On May 12, 2025, the company reported""]"
-2025-05-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ector for a series of reviews.  Leading hydrogen fuel cell developer Plug Power (NASDAQ: PLUG) nee""]"
-2025-05-17,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""dealing a setback to hydrogen producer Plug Power (NASDAQ:PLUG), according to Clear Stree""]"
-2025-05-19,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power CFO, Paul Middleton, Underscores Confid"", ""N.Y., May 19, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-05-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 Out-of-Favor Stocks Skating on Thin Ice""]"
-2025-05-20,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Power Rebounds as CFO Backs Stock Post-Earnings""]"
-2025-05-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power’s GenEco Electrolyzers Power Live Customer Demos"", ""Industrial Plug Customers Plug Power’s GenEco Electrolyzers Power Live Customer Demos""]"
-2025-05-22,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power is a fuel cell manufacturer that also operates hydroge""]"
-2025-05-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""SoundHound AI, Serve Robotics, and Plug Power could shake off the short-sellers soon.""]"
-2025-05-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ued losses and dilutive secondary stock sales.  Plug Powers (NASDAQ: PLUG) stock has""]"
-2025-05-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Cash-Burning Stock Worth Your Attention and 2 to Steer Clear Of""]"
-2025-05-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power’s Georgia Hydrogen Plant Sets U.S. Production Record Using Plug"", ""ading Milestone with 300 Metric Tons of Liquid Hydrogen ProducedWOODBINE, Ga., May 29, 2025 (GL""]"
-2025-05-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ported Q1 2025 results showing moderate revenue growth to $133.7 million, an 11% […]""]"
-2025-06-02,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""and climate projects. Hydrogen startup Plug Power and solar-power providers including Sun""]"
-2025-06-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Safe-and-Steady Stock to Research Further and 2 to Approach with Caution""]"
-2025-06-03,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""s First Solar (FSLR), Sunrun (RUN), and Plug Power (PLUG), are seeing declines after the U""]"
-2025-06-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG Q1 Earnings Call: Revenue Misses Estimates, Europe"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-06-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Industrials Stock with Competitive Advantages and 2 to Ignore""]"
-2025-06-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Will the Cash Burn Reduction Strategy be a Game Changer fo"", ""PLUG narrows losses and cuts its cash burn nearly in half as Project Quantum Leap""]"
-2025-06-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc Files For Resale From Time To Time"", ""Plug Power Inc: * PLUG POWER INC FILES FOR RESALE""]"
-2025-06-07,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""usign (DOCU) is sinking despite a first quarter earnings and revenue beat after the com""]"
-2025-06-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Popped Today"", ""Plug Power presents shareholders with an offer the""]"
-2025-06-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""d Strategic Collaboration with New 2 GW Electrolyzer Deal in Uzbekistan"", ""nues to Make Meaningful Progress in its Green Ammonia Plant in Australia with Plug to supply""]"
-2025-06-10,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Powers Uzbekistan plant, Novo Nordisk activis"", ""tories in this Market Minute, including Plug Powers (PLUG) $5.5 billion venture to build o""]"
-2025-06-10,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Keeps Going Up"", ""uy helps fuel continued price rises for Plug stock.""]"
-2025-06-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power and Allied Green Ammonia partner in 2GW electrolyser deal"", ""The partnership aims to support the decarbonisation goa""]"
-2025-06-10,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Lit Up Today"", ""Plug Power has high hopes, low prospects.""]"
-2025-06-10,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""omprehensive hydrogen solutions for the green hydrogen economy, today announced that Chief Fin""]"
-2025-06-11,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Just Landed a $5.5B Hydrogen Deal--And"", ""A new 2 GW project in Uzbekistan pushes Plug and Allied Greens global hydrogen footp""]"
-2025-06-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ug Powers recent rally is driven by new partnerships and insider buying. Read what justifie""]"
-2025-06-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""3 of Wall Street’s Favorite Stocks in Hot Water""]"
-2025-06-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG is down 39% YTD as cash burn and weak margins weigh, but revenue rec""]"
-2025-06-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power will supply its electrolyzers to a project in Uzbekistan.  This proj""]"
-2025-06-15,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power’s Plummeting Stock Sees Big Buys From C"", ""Plug Power  Chief Financial Officer Paul Middleton""]"
-2025-06-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""s. This was partly driven by its softer quarterly results and may have investors wonder""]"
-2025-06-16,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""As the Q1 earnings season comes to a close, it’s time to t""]"
-2025-06-17,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""ublicans released a bill that would end clean energy tax credits earlier than expected, dash""]"
-2025-06-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""d to easing tensions between Israel and Iran. The Wall Street Journal said senior I""]"
-2025-06-18,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""EDG), First Solar (FSLR), Sunrun (RUN), Plug Power (PLUG), and Array Technologies (ARRY) p""]"
-2025-06-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""rs that the conflict between Israel and Iran could escalate are also weighing on th""]"
-2025-06-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""and Allied Green Deepen Their Strategic Partnership With The Electrolyzer Contract."", ""PLUG) is among the 13 Best Hydrogen and Fuel Cell Stocks to Buy According to Analysts. Th""]"
-2025-06-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Powers Electrolyzer Sales Jump in Q1: Can the Momentum Sust"", ""PLUGs electrolyzer revenues soar in Q1 2025, fueled by ris""]"
-2025-06-20,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Cummins CEO’s Winning Mantra: Profitability and Renewable Power""]"
-2025-06-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Dips More Than Broader Market: W"", ""Plug Power (PLUG) closed the most recent trading d""]"
-2025-06-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n end-to-end hydrogen solutions for the green hydrogen economy, today announced its participat""]"
-2025-06-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Popped Today"", ""Is Plugs hype worth the stock price pop?""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Powers Equipment Revenues Decline: Is the Risk Priced In?"", ""PLUG sees legacy product sales slump, but a 582% jump in electrolyzers""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ome 32% over the past month.  Shares of fuel cell and hydrogen specialist Plug Power (NAS""]"
-2025-06-28,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Sinks As Market Gains: Wha"", ""Plug Power (PLUG) closed the most recent trading d""]"
-2025-06-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Wind, solar credits face shorter phase-out in new tax bill""]"
-2025-06-30,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""ables Slide as Senate Bill Takes Aim at Clean Energy"", ""ar power, a worse-than-expected jolt to clean energy while providing aid for fossil fuels.Mo""]"
-2025-06-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""s of  Plug Power  the largest pure-play clean hydrogen company in the U.S., rose 10% in early""]"
-2025-06-30,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Renewable energy shares mixed as U.S. Senate preserves s"", ""(Reuters) -Shares of U.S. renewable energy firms saw a mixed performance in early""]"
-2025-06-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power vs. Bloom Energy: Which Fuel Cell Stock Should You Bet On?"", ""BEs strong sales growth, rising EPS and expanding global""]"
-2025-06-30,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Analyst Questions From Plug Power’s Q1 Earnings Call"", ""Plug Power’s first quarter results saw revenue growth and operatio""]"
-2025-06-30,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc.(NasdaqCM: PLUG) dropped from Russe"", ""Plug Power Inc. dropped from Russell 3000E Growth""]"
-2025-06-30,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Inc.(NasdaqCM: PLUG) dropped from Russe"", ""Plug Power Inc. dropped from Russell Small Cap Com""]"
-2025-07-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-07-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""wer stock rallies as the Senate extends hydrogen tax credits through the end of 2027. But there’s s""]"
-2025-07-01,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Stock a Buy, Sell, or Hold for July 202"", ""With Plug Power staging a comeback lately, is the stock""]"
-2025-07-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""wer continues to struggle with stagnant sales and cash burn despite the recent tax cr""]"
-2025-07-02,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Should You Buy Plug Power Stock While Its Below $3?""]"
-2025-07-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG battles cash burn and weak sales but eyes a turnaround wi""]"
-2025-07-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Soared Today"", ""Plug Power stock gained ground in conjunction with""]"
-2025-07-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""wer continues to struggle with stagnant sales and significant cash burn.  Shares of P""]"
-2025-07-07,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Up 45% in a Month, Should You Buy Plug Power Stock Here?"", ""e examines whether investors should buy Plug Power stock following its more than 45% surge""]"
-2025-07-08,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Surged 69% in June"", ""Is the worst over for Plug Power stock?""]"
-2025-07-08,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Transcript : Plug Power Inc. - Special Call"", ""geOperator Hello, and welcome to todays Plug Power Investor Update Conference Call and Web""]"
-2025-07-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power is a leading hydrogen production company.  Plug and a partner have agree""]"
-2025-07-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Extends Strategic Hydrogen Supply Agreement with Multi-Year Contract and Improved E"", ""day announced a new multi-year enhanced supply agreement with a leading U.S.-based industrial ga""]"
-2025-07-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""QuantumScape and Plug Power might have more upside potential.""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""wer continues to struggle with stagnant sales and significant cash burn.  The spike c""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Just Scored a Supply Agreement Win. How Should You Play PLUG Stock Her"", ""Plug Power stock soars on a new supply agreement with a key U.S. industrial gas partner.""]"
-2025-07-10,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""rday: Mirion, Penguin Solutions, Byrna, Plug Power, and Bloom Energy""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power secures new hydrogen supply agreement in US"", ""hile aiming to reduce costs and improve cash flows.""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ece following news that it deepened its partnership with a long-time US-based industrial ga""]"
-2025-07-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""months amid falling hydrogen equipment sales and cash burn, despite long-term growth""]"
-2025-07-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ET Friday.  The company, which develops clean hydrogen power, announced earlier this week that""]"
-2025-07-15,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""PLUG NAMED EXCLUSIVE WHOLESALE PARTNER FOR R"", ""Plug, the only online wholesale auction plat""]"
-2025-07-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""(Energy Plug, PLUG, or the Company), in partnership with Indigenous-owned Malahat Battery T""]"
-2025-07-15,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Declines While Market Impr"", ""Plug Power (PLUG) reached $1.57 at the closing of""]"
-2025-07-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-07-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Eyes Reducing Cash Burn Rate: Can It Be a Game Changer?"", ""PLUGs Project Quantum Leap cuts cash burn rate nearly 50% in Q1 2025, aiming for""]"
-2025-07-17,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Tumbled 30% in the First Half of"", ""Plug Power stock surged 69% in June but is down fo""]"
-2025-07-18,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Shares of Plug Power Popped Today"", ""A project in Germany is one example of Plug Powers presence in Europe.  Prospective inves""]"
-2025-07-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-07-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Surges 8.5% as Fuel Cell Market Begins to Boom"", ""ook path from research studies that the fuel cell market is expected to expand […]""]"
-2025-07-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Did Plug Power Stock Deserve Todays Price Pop?"", ""Plug stock still looks stuck.""]"
-2025-07-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Beats Stock Market Upswing: What"", ""The latest trading day saw Plug Power (PLUG) settling at $1.82, representing""]"
-2025-07-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""21.2% annual growth rate for the global fuel cell market through 2029.  Shares of Plug Po""]"
-2025-07-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""As Analysts Sweeten on Hydrogen, Is Plug Power Stock a Buy?"", ""This article explores whether Plug Power stock is worth buying as analysts sweet""]"
-2025-07-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-07-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""g an end-to-end ecosystem that includes fuel cells, electrolyzers, and hydrogen infrastru""]"
-2025-07-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""igned in January could ignite long-term green hydrogen growth.""]"
-2025-07-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""When a fuel cell peer reports encouraging news, many inv""]"
-2025-07-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Speculative frenzy raises risk of stock market downturn: Goldman Sachs""]"
-2025-07-27,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Nio, Plug Power, and Cameco could keep growing as the r""]"
-2025-07-28,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Insider Ups Holding By 33% During Year"", ""Looking at Plug Power Inc.s ( NASDAQ:PLUG ) insider transacti""]"
-2025-07-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power vs. FuelCell Energy: Which Fuel Cell Stock has Greater Upside?"", ""PLUGs cost cuts, DOE loan boost and hydrogen expansion may give i""]"
-2025-07-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Where Will Plug Power Be in 3 Years?"", ""Plug Power has a plan to become profitable.""]"
-2025-07-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Sinks As Market Gains: Her"", ""Plug Power (PLUG) closed the most recent trading d""]"
-2025-07-29,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Ballard Power: Waiting For New Leadership To Right Th"", ""Ballard Power Systems Inc. shares surged 70% on leade""]"
-2025-07-30,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power (PLUG) Dipped More Than Broader Market"", ""The latest trading day saw Plug Power (PLUG) settling at $1.59, representing""]"
-2025-08-01,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Is Powering Down This Week"", ""For Plug Power stock this week, no news isnt proving t""]"
-2025-08-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc. (PLUG) Secures $1.66B DOE Loan for Green Hydrogen Plants"", ""r in the clean energy space, developing hydrogen fuel cells and electrolyzer systems to support th""]"
-2025-08-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug To Announce 2025 Second Quarter Results on August 11, 2025"", ""economy, will announce its 2025 second quarter results on August 11, 2025. Join the ca""]"
-2025-08-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""d of the Game With Plug Power (PLUG) Q2 Earnings: Wall Streets Insights on Key Metrics"", ""erformance of Plug Power (PLUG) for the quarter ended June 2025 by going beyond Wall St""]"
-2025-08-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""A new initiative to increase profitability has me keeping an eye on this hydrogen""]"
-2025-08-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Cash-Burning Stock Worth Your Attention and 2 We Turn Down""]"
-2025-08-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Drops Despite Market Gains"", ""The latest trading day saw Plug Power (PLUG) settling at $1.46, representing""]"
-2025-08-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG ramps up green hydrogen projects with DOE backing and new JV, b""]"
-2025-08-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Identiv, Inc. (INVE) Reports Q2 Loss, Lags Revenue Estimates""]"
-2025-08-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""AMC, Cisco Set To Report Earnings As Investors Watch Out For Core CPI""]"
-2025-08-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Circle earnings, CPI, comments from Feds Bostic: What t"", ""rting Monday, Aug. 11. A fresh slate of earnings will be out, including from Oklo (OKLO)""]"
-2025-08-10,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Q2 Earnings Report Preview: What To Look For"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) wil""]"
-2025-08-10,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Susquehanna Raises Plug Power (PLUG) Target, Maintains Caution on Sec"", ""Plug Power, Inc. (NASDAQ:PLUG) is one of the best""]"
-2025-08-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Wall Street Week Ahead""]"
-2025-08-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Inflation in focus as Fed rate cut debate heats up: What to watch this week""]"
-2025-08-11,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power is set to report Q2 earnings amid resurging sentiment around hydroge""]"
-2025-08-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Fuel cell technology Plug Power (NASDAQ:PLUG) ann""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Lifts Q2 Revenue 21% as Electrolyzer Sales Triple"", ""Plug Power posted strong Q2 2025 revenue growth and narrowed losses as its GenEc""]"
-2025-08-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Inc (PLUG) Q2 2025 Earnings Call Highlights: Revenue Surge and Marg"", ""Plug Power Inc (PLUG) reports a 21% revenue increase and significant margin improve""]"
-2025-08-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ared to Estimates, Plug Power (PLUG) Q2 Earnings: A Look at Key Metrics"", ""Although the revenue and EPS for Plug Power (PLUG) give a se""]"
-2025-08-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""lug Power (PLUG) Reports Q2 Loss, Beats Revenue Estimates"", ""Plug Power (PLUG) delivered earnings and revenue surprises of -6.67% and +15""]"
-2025-08-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power: Q2 Earnings Snapshot"", ""a loss of $227.1 million in its second quarter. The Slingerlands, New York-based compa""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power’s (NASDAQ:PLUG) Q2 Sales Beat Estimates But Stock Drops"", ""Fuel cell technology Plug Power (NASDAQ:PLUG) bea""]"
-2025-08-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Second Quarter 2025 Highlights"", ""Quantum Leap helps accelerate business salesgrowth and financial performance• Q2 rev""]"
-2025-08-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Best Low-Risk, High-Reward Trade After Earnings""]"
-2025-08-13,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""stock fell Tuesday after disappointing earnings, but the CEO said his company has key s""]"
-2025-08-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""d Strategic Collaboration With New 2 GW Electrolyzer Deal In Uzbekistan"", ""Now. Plug Power Inc. (NASDAQ:PLUG) and Allied Green Ammonia announced a new 2 GW electrolyzer agree""]"
-2025-08-13,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""What Plug Powers Latest Earnings Mean for Long-Term Investors""]"
-2025-08-13,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug to Participate in the Canaccord Growth"", ""N.Y., Aug. 13, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-08-14,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Did Bloom Energy Stock Pop Today?"", ""Bloom Energy is expensive, and its getting even more""]"
-2025-08-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Targets $700M in Revenues in 2025: Can It Achieve the Goal?"", ""PLUG targets $700M in revenues in 2025, fueled by surging electrolyze""]"
-2025-08-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""autiful Bill provide some hope for this hydrogen fuel cell manufacturer.""]"
-2025-08-16,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power, Opendoor, and SoFi look undervalued re""]"
-2025-08-18,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Analyst Questions From Plug Power’s Q2 Earnings Call"", ""Plug Power’s second quarter results reflected ongoing operational i""]"
-2025-08-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""set By Weak Order Intake And Persistent Cash Burn - Sell""]"
-2025-08-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""[Latest] Global Green Gas Market Size/Share Worth USD 2.81 Billion by 2034 at a 6.20% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends,…""]"
-2025-08-20,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Bloom Energy, Redwire, Plug Power, Sunrun, and Astronics Stocks Trade Dow""]"
-2025-08-20,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Is Wall Street So Bearish on Plug Power? Theres 1 Key Reason.""]"
-2025-08-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG stock is down 22.1% YTD as cash burn, weak margins and slow installations we""]"
-2025-08-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Trump Trade: SoftBank makes Intel investment as Nvidia preps new chip""]"
-2025-08-20,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Ballard Power: Developing A Viable Business Model Lik"", ""Ballard Power Systems Inc.s Q2 results lag expectatio""]"
-2025-08-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Corp. Completes First U.S. Sale Through Partnership with GGVentures of the Carolinas""]"
-2025-08-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""PLUG posts a revenue jump and narrower losses as cost cuts a""]"
-2025-08-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""1 Reason Im Still Keeping an Eye on Plug Power Stock, Despite Recent Lows"", ""Data center power needs might just save Plug Power.""]"
-2025-08-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Reason Im Still Holding On to Hope for Plug Power Stock"", ""Ive been skeptical of Plug Power stock, but recent changes could change""]"
-2025-08-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock Is Cheap, but Does That Make It a"", ""This out-of-favor hydrogen stock could heat up over the next few years.""]"
-2025-08-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Stock a Millionaire Maker?""]"
-2025-08-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""h, Plug Power Inc. announced its second quarter and six-month 2025 financial results, h""]"
-2025-08-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Powers Equipment Sales Rebound in Q2: Whats Behind It?"", ""PLUG posts 29% jump in equipment sales as soaring electrolyzer demand and fuel""]"
-2025-08-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""[Latest] Global Electric Vehicle Range Extender Market Size/Share Worth USD 4.36 Billion by 2034 at a 5.8% CAGR: Custom Market Insights (Analysis, Outlook, Lead…""]"
-2025-08-27,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""3 Things Plug Power Would Need to Do Before I Would Buy the"", ""Plug Power has an interesting story to tell, as it""]"
-2025-08-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power vs. Flux Power: Which Clean Energy Stoc"", ""PLUG and FLUX are both innovating in clean e""]"
-2025-08-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Hydrogen fuel demand is forecast to grow immensely over the next few dec""]"
-2025-08-30,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""rling, CECO Environmental, Oshkosh, and Plug Power Shares Are Falling, What You Need To Kn""]"
-2025-08-30,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Energy Are Plunging. Is It Time to Sell Plug Power Stock?"", ""Plug Power stock is down almost 98% from its all-t""]"
-2025-08-31,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Where is Plug Power (PLUG) Headed According to Analysts?"", ""Plug Power Inc. (NASDAQ:PLUG) is one of the best l""]"
-2025-09-02,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock Is Cheap, but Does That Make It a"", ""Plug Powers low stock price is a reflection of the""]"
-2025-09-03,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""GoPro, Chegg, Plug Power, SolarEdge, and Tilray Shares Are Falli""]"
-2025-09-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug to Participate in HC Wainwright Confere"", "".Y., Sept. 09, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-09-10,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Should You Buy Plug Power While Its Below $2?"", ""Plug Powers stock price has collapsed more than 95""]"
-2025-09-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-09-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n energy space through the provision of hydrogen fuel cell systems. Similarly, on August 21, analy""]"
-2025-09-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","["") Expanding Into Brazil With GH2 Global Partnership"", ""cs firm Uline through 2030 and formed a partnership with Brazil-based GH2 Global to deploy""]"
-2025-09-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""lug Power ahead of the company’s robust sales […]""]"
-2025-09-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-18,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Extends Run on 6th Day as Rate C"", ""of 10 Big Names Hit Fresh Record Highs. Plug Power Inc. (NASDAQ:PLUG) is one of the best p""]"
-2025-09-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Market movers: Lyft stock accelerates, Workday active and Nvidia slips""]"
-2025-09-18,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Is Wall Street So Bearish on Plug Power? Theres 1 Key Reason."", ""Plug Power has growth potential, but one critical""]"
-2025-09-18,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Did Plug Power Stock Pop Today?"", ""Momentum traders love Plug Power stock. Should you?""]"
-2025-09-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-19,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""FuelCell Energy (FCEL) Stock Trades Up, Here Is Why"", ""arbonate fuel cell technology developer FuelCell Energy (NASDAQ:FCEL) jumped 3.7% in the mornin""]"
-2025-09-19,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""monthly surge, fueled by sharp gains in PLUG and BE amid hydrogen sector momentum.""]"
-2025-09-19,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power, Powell, Novanta, Vishay Precision, and""]"
-2025-09-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-20,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock Is on a Tear. What Gives?"", ""Shares of hydrogen technology provider  Plug Power  are rising, again.  It could be an old""]"
-2025-09-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Reason Im Still Holding on to Hope for Plug Power Stock"", ""Plug Power could benefit from rising demand for ar""]"
-2025-09-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Stock a Buy Right Now?"", ""Plug Power could benefit from rising demand for ar""]"
-2025-09-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG): Assessing Valuation After a 44%"", ""Plug Power (PLUG) is back on investors’ radars thi""]"
-2025-09-21,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Skyrocketed This Week"", ""Plug Power stock just had an epic week.""]"
-2025-09-22,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power Stock a Buy Now?"", ""Plug Power is attempting to build a profitable bus""]"
-2025-09-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""1 Unpopular Stock That Should Get More Attention and 2 Facing Headwinds""]"
-2025-09-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Hosts Oppenheimer at Georgia Plant Following Record Month of Green Hydroge"", ""hosting an investor tour of its Georgia green hydrogen production plant with institutional inv""]"
-2025-09-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Shot Higher Today"", ""ors see a quickly growing need for what Plug Power can supply.""]"
-2025-09-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""rumps claim linking Tylenol and autism. Plug Power (PLUG) soars on hydrogen use case for d""]"
-2025-09-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Stocks making big moves yesterday: Plug Power, Moderna, Magnite, Compass, and RE/MAX""]"
-2025-09-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Whats Going On With Plug Power Stock Tuesday?"", ""Plug Power Inc. (NASDAQ:PLUG) stock rose in Tuesda""]"
-2025-09-23,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock Is Climbing Again. What Could Be"", ""Shares of  Plug Power  were climbing sharply Tuesday, extendi""]"
-2025-09-24,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""What Analysts Say Is Shaping the New Plug Power Story"", ""Plug Power’s stock narrative has recently shifted,""]"
-2025-09-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""What’s the Meme-ing of Plug Power’s Winning Streak?"", ""Shares of Plug Power, a hydrogen tech provider, have explode""]"
-2025-09-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Lumen Technologies, Inc. (LUMN) Shareholder/Analyst Call Transcript""]"
-2025-09-24,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""FuelCell Energy: AI Data Center Enthusiasm Seems Mispla"", ""FuelCell Energys stock soared 100% amid AI data center""]"
-2025-09-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Power shares briefly rallied after the hydrogen fuel cell specialist reported record production a""]"
-2025-09-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""BE and PLUG stock are utilizing fuel cell technology to provide reliable, clean e""]"
-2025-09-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Popped, Then Dropped Today"", ""ord levels of hydrogen fuel production, Plug Power stock still cant earn a profit.""]"
-2025-09-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-09-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""y Kimmels time slot on ABC tonight, and Plug Power shares (PLUG) continuing to extend its""]"
-2025-09-24,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Extends Rally for 9th Day as Fir"", ""tocks Stealing Wall Street’s Spotlight. Plug Power Inc. (NASDAQ:PLUG) is one of the top pe""]"
-2025-09-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""ing back on renewable energy stocks’ Q2 earnings, we examine this quarter’s best and wor""]"
-2025-09-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Could Plug Power Go Parabolic by 2027?"", ""Plug stock has soared recently, but improvem""]"
-2025-09-25,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""2 Things Plug Power Would Need to Do Before Id Buy the Stoc"", ""Plug Power has some very big problems.""]"
-2025-09-26,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Just Got a New Street-High Price Target""]"
-2025-09-26,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Declines More Than Market: Some"", ""Plug Power (PLUG) concluded the recent trading ses""]"
-2025-09-29,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Will Plug Power Stock Quadruple Your Money in 2026?"", ""In just four months, Plug Power stock rose in value by nearly 300%.""]"
-2025-09-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""If the hydrogen fuel cell specialist can reach this milestone in""]"
-2025-10-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""said it delivered its first 10-megawatt GenEco electrolyzer array to  Galp  a Portugue""]"
-2025-10-01,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Shares of Plug Power Are Ripping Higher Today"", ""Plugs presence in Portugal just grew a littl""]"
-2025-10-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Delivers First Electrolyzer for 100MW Green Hydrogen Project at Gal"", ""Plug Power Delivers First GenEco Electrolyzer for 100MW Green Hydrogen P""]"
-2025-10-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Stock Market Today: Stocks Tumble After Govt Shutdown, Foreboding Sluggish Start to Q4""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Just Delivered a New Electrolyzer. Should You Buy PLUG Stock Here?"", ""nnounces the delivery of its first 10MW GenEco electrolyzer array to Galp’s Sines Refi""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""22.1% After Delivering Europes Largest Green Hydrogen Electrolyzer Array"", ""ecently delivered its first 10-megawatt GenEco electrolyzer array to Galps Sines Refin""]"
-2025-10-02,0.34,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power: This Market Has No Fear (Technical Ana"", ""Plug Power Inc. jumps 120% in 6 months. Explore mo""]"
-2025-10-02,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""n end-to-end hydrogen solutions for the green hydrogen economy, today announced CEO Andy Marsh""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power Ships First Electrolyzer for Galp’s 100MW Green Hydrogen Project"", ""Plug Power has delivered the first 10MW electrolyzer module to Galp’s Sines Refinery, markin""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Power (PLUG) Rockets 25.7% on Electrolyzer Delivery for Portugal’s Largest Energy"", ""d the delivery of its first 10-megawatt electrolyzer to Galp Energia, the largest energy com""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-10-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-10-03,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Sinks As Market Gains: Wha"", ""Plug Power (PLUG) reached $2.83 at the closing of""]"
-2025-10-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Can Rising Electrolyzer Demand be a Catalyst for PLUGs Long-Ter"", ""Plug Powers electrolyzer sales surge about 200% in Q2 2025, fuel""]"
-2025-10-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""after the country’s largest producer of clean hydrogen got a new highest price target on Wall""]"
-2025-10-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-10-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""These Stocks Are Moving the Most Today: Tesla, Applied Materials, Boeing, Rumble, and More""]"
-2025-10-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Soars to All-Time High on Higher"", ""ks With Eye-Popping Double-Digit Gains. Plug Power Inc. (NASDAQ:PLUG) is one of the top pe""]"
-2025-10-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""en it fell 5.1% after it reported third-quarter deliveries of 497,099 cars, a record fo""]"
-2025-10-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of carbonate fuel cell technology developer FuelCell Energy (N""]"
-2025-10-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Popped 66% This Week to a 52-Week"", ""An analyst expects Plug Power stock to more than double.""]"
-2025-10-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Even if Plug Power hydrogen stock is a short squeeze candi""]"
-2025-10-04,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Is Skyrocketing Today"", ""With todays huge rally, Plug Power stock is now up more than 170% over the""]"
-2025-10-04,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-10-04,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why FuelCell Energy Stock Just Popped"", ""Momentum fuels FuelCell Energys stock rise, but theres not a lot of sh""]"
-2025-10-05,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Where Will Plug Power Be in 25 Years?"", ""Plug Power stock has been a rollercoaster since go""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Prediction: Plug Power Stock Has 137% Upside in 2026, Accordin"", ""One Wall Street analyst thinks Plug Powers impressive run will continue next year""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""F (HYDR) hits a 52-week high, fueled by Plug Powers surge & green energy momentum. Is more""]"
-2025-10-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Best-Performing ETFs of Last Week""]"
-2025-10-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Stocks Rise Pre-Bell as Investors Await Fed Meeting Minutes; Government Shutdown Continues""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""PLUG DEBUTS MOBILE SERVICE, CREATING AN INST"", ""Plug, a fast-growing consumer technology com""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Plug Power Stock Keeps Going Up"", ""Plug stock has never earned a profit. But it""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock Set for New 52-Week High. Why the""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Stock is Up 287% Since This Insider Buy"", ""ines after small-cap clean-energy stock Plug Power made some big noise by doubling in a mo""]"
-2025-10-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""BC-Most Active Stocks""]"
-2025-10-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) jum""]"
-2025-10-06,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Surges 78.8% YTD: How Should You Play t"", ""PLUGs 78.8% YTD surge reflects strong hydrog""]"
-2025-10-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power stock extends gains, Quantum Computings"", ""t market stories in this Market Minute. Plug Power (PLUG) stock is extending gains followi""]"
-2025-10-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""risks, delays, and high valuations amid green hydrogen ambitions.""]"
-2025-10-07,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""nalyst Upgrade and First Major Hydrogen Electrolyzer Delivery"", ""Plug’s recent delivery of a 10-megawatt GenEco electrolyzer to Galp’s Sines Refinery i""]"
-2025-10-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Names Jose Luis Crespo as Incoming CEO"", ""N.Y., Oct. 07, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-10-07,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-10-07,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why Has Plug Power Stock Popped 163% in 5 Weeks?"", ""r the red-hot stock? One analyst thinks Plug Power shares could surge by another 70% from""]"
-2025-10-07,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""IBM enters AI partnership with Anthropic, fire disrupts Ford"", ""national Business Machines (IBM) new AI partnership with Anthropic (ANTH.PVT), Ford (F) pro""]"
-2025-10-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Deep Fission Announces Mark Schmitz as Chief Financial Officer""]"
-2025-10-08,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""he largest holdings including Opendoor, Plug Power and QuantumScape.""]"
-2025-10-08,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power Raises $370 Million From Warrant Induce"", ""Plug Power (PLUG) said Wednesday that it has signe""]"
-2025-10-08,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""ig moves yesterday: Tesla, Dollar Tree, Plug Power, Carriage Services, and Lucky Strike""]"
-2025-10-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Warrant Exercise by Existing Institutional Investor Improves Plug Powers Financial Position""]"
-2025-10-08,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""raded due to persistent losses, looming dilution, and DOE project cancellations. Click h""]"
-2025-10-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Roundhill Launches Meme Stock ETF (MEME)""]"
-2025-10-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Plug Powers PEM fuel cells require expensive hydrogen, thus makin""]"
-2025-10-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Stocks Rally to Records as ETF that ‘Was Essentially the Peak in the Nasdaq in 21 Makes Its Return""]"
-2025-10-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Why The Narrative Around Plug Power Is Changing After Recent Policy And Ana"", ""Plug Powers fair value price target has seen a mod""]"
-2025-10-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-10-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Meme stock resurgence prompts return of central meme investment fund""]"
-2025-10-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Meme stock mania 2.0""]"
-2025-10-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Falls on Rating Downgrade, Presi"", ""published 10 Stocks Taking a Nosedive. Plug Power Inc. (NASDAQ:PLUG) is one of the worst""]"
-2025-10-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Participating in Concurrent Non-Deal Ro"", ""N.Y., Oct. 09, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in""]"
-2025-10-09,0.44,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""HSBC downgrades Bloom Energy after significant rally"", ""Investing.com -- HSBC has downgraded Bloom Energy to Hold from Buy, saying in a note to c""]"
-2025-10-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""Exchange-Traded Funds, Equity Futures Steady Pre-Bell as Investors Hope for Rate Cut, Await Earnings""]"
-2025-10-09,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Plug Power (PLUG) Stock Slides as Market Rises: Fa"", ""Plug Power (PLUG) closed at $3.66 in the latest tr""]"
-2025-10-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""gains, with fresh savings set to boost cash flow and liquidity in the quarters ahead.""]"
-2025-10-10,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""After Soaring 240% in 6 Months, Has Plug Power Stock Become a Good Buy?"", ""n, and clean energy solutions have made Plug Power a hot stock to own this year.""]"
-2025-10-10,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""Shares of fuel cell technology Plug Power (NASDAQ:PLUG) fel""]"
-2025-10-11,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move plug power next week.","[""months. Plug Powers president and chief revenue officer, Jose Luis Crespo, who will bec""]"
-2025-10-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on plug power.,"[""AI Bubble: Circular Funding And Intense Competitive Rivalry""]"
-2025-10-11,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is This a $370 Million Reason to Buy Plug Power Stock Now?"", ""Plug Power has been rapidly depleting cash, but th""]"
-2025-10-11,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""uck One Source, Richardson Electronics, Plug Power, and Methode Electronics Shares Plummet""]"
-2025-10-12,0.48,Indirectly Related,Mentions plug power or sector/peer factors with plausible but weaker near-term impact on plug power.,"[""Is Plug Power’s Rally Justified After 125% Surge on R"", ""If you are wondering what to do about Plug Power stock after seeing it jump 125% over th""]"
+date,relevance
+2024-10-18,0.0
+2024-10-24,1.0
+2024-10-26,1.0
+2024-10-29,1.0
+2024-11-01,0.2
+2024-11-04,1.0
+2024-11-04,0.0
+2024-11-05,1.0
+2024-11-05,1.0
+2024-11-05,1.0
+2024-11-06,1.0
+2024-11-06,0.0
+2024-11-06,1.0
+2024-11-06,0.0
+2024-11-07,1.0
+2024-11-07,0.0
+2024-11-08,1.0
+2024-11-08,1.0
+2024-11-10,0.0
+2024-11-11,1.0
+2024-11-11,1.0
+2024-11-12,1.0
+2024-11-12,0.0
+2024-11-12,1.0
+2024-11-12,1.0
+2024-11-12,1.0
+2024-11-12,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-15,1.0
+2024-11-16,1.0
+2024-11-16,1.0
+2024-11-18,0.6
+2024-11-25,1.0
+2024-11-26,1.0
+2024-11-26,1.0
+2024-11-26,1.0
+2024-11-29,0.0
+2024-12-05,1.0
+2024-12-06,1.0
+2024-12-06,1.0
+2024-12-07,1.0
+2024-12-15,1.0
+2024-12-21,1.0
+2024-12-21,1.0
+2024-12-22,1.0
+2024-12-25,1.0
+2024-12-27,0.7999999999999999
+2024-12-27,1.0
+2025-01-02,1.0
+2025-01-02,0.0
+2025-01-03,0.7999999999999999
+2025-01-04,0.5
+2025-01-04,0.5
+2025-01-04,1.0
+2025-01-04,1.0
+2025-01-04,1.0
+2025-01-05,0.0
+2025-01-05,0.0
+2025-01-05,0.0
+2025-01-06,1.0
+2025-01-06,1.0
+2025-01-06,0.9
+2025-01-07,1.0
+2025-01-07,1.0
+2025-01-07,1.0
+2025-01-07,1.0
+2025-01-07,0.0
+2025-01-07,1.0
+2025-01-08,1.0
+2025-01-08,1.0
+2025-01-09,1.0
+2025-01-09,1.0
+2025-01-11,0.7999999999999999
+2025-01-14,0.0
+2025-01-14,1.0
+2025-01-15,1.0
+2025-01-17,0.0
+2025-01-17,1.0
+2025-01-18,0.4
+2025-01-27,1.0
+2025-02-05,1.0
+2025-02-11,1.0
+2025-02-25,1.0
+2025-02-25,1.0
+2025-02-26,1.0
+2025-02-28,1.0
+2025-03-04,1.0
+2025-03-04,1.0
+2025-03-05,1.0
+2025-03-08,1.0
+2025-03-09,1.0
+2025-03-10,0.7999999999999999
+2025-03-11,0.7999999999999999
+2025-03-12,0.0
+2025-03-13,1.0
+2025-03-13,1.0
+2025-03-13,1.0
+2025-03-14,1.0
+2025-03-15,1.0
+2025-03-15,1.0
+2025-03-17,1.0
+2025-03-17,1.0
+2025-03-17,1.0
+2025-03-18,1.0
+2025-03-19,1.0
+2025-03-20,1.0
+2025-03-20,0.0
+2025-03-20,1.0
+2025-03-21,1.0
+2025-03-23,0.7999999999999999
+2025-03-25,1.0
+2025-03-26,1.0
+2025-03-27,1.0
+2025-04-01,1.0
+2025-04-02,0.5
+2025-04-02,1.0
+2025-04-03,1.0
+2025-04-03,1.0
+2025-04-07,0.7999999999999999
+2025-04-08,0.7999999999999999
+2025-04-09,1.0
+2025-04-09,0.0
+2025-04-10,1.0
+2025-04-13,0.0
+2025-04-17,0.5
+2025-04-17,1.0
+2025-04-17,1.0
+2025-04-22,1.0
+2025-04-22,1.0
+2025-04-23,1.0
+2025-04-24,0.7999999999999999
+2025-04-28,1.0
+2025-04-28,0.0
+2025-04-28,1.0
+2025-04-28,0.0
+2025-04-29,1.0
+2025-04-29,1.0
+2025-04-29,1.0
+2025-04-29,1.0
+2025-04-29,1.0
+2025-05-03,1.0
+2025-05-04,1.0
+2025-05-06,1.0
+2025-05-06,1.0
+2025-05-06,0.5
+2025-05-07,1.0
+2025-05-11,1.0
+2025-05-12,0.7999999999999999
+2025-05-13,1.0
+2025-05-13,1.0
+2025-05-13,1.0
+2025-05-13,0.0
+2025-05-13,1.0
+2025-05-13,1.0
+2025-05-13,1.0
+2025-05-13,1.0
+2025-05-14,1.0
+2025-05-14,1.0
+2025-05-14,1.0
+2025-05-15,1.0
+2025-05-17,0.6
+2025-05-19,1.0
+2025-05-19,0.0
+2025-05-20,1.0
+2025-05-20,1.0
+2025-05-22,1.0
+2025-05-22,0.4
+2025-05-22,1.0
+2025-05-26,0.5
+2025-05-29,1.0
+2025-05-30,1.0
+2025-06-02,0.4
+2025-06-03,0.0
+2025-06-03,0.6
+2025-06-04,1.0
+2025-06-06,1.0
+2025-06-06,0.5
+2025-06-07,1.0
+2025-06-07,1.0
+2025-06-07,1.0
+2025-06-09,1.0
+2025-06-10,1.0
+2025-06-10,1.0
+2025-06-10,1.0
+2025-06-10,1.0
+2025-06-10,1.0
+2025-06-11,1.0
+2025-06-12,1.0
+2025-06-13,1.0
+2025-06-13,1.0
+2025-06-15,1.0
+2025-06-16,1.0
+2025-06-16,1.0
+2025-06-17,1.0
+2025-06-17,0.0
+2025-06-18,0.6
+2025-06-19,1.0
+2025-06-20,1.0
+2025-06-20,0.9
+2025-06-21,1.0
+2025-06-24,1.0
+2025-06-25,1.0
+2025-06-27,1.0
+2025-06-27,1.0
+2025-06-28,1.0
+2025-06-29,0.0
+2025-06-30,1.0
+2025-06-30,1.0
+2025-06-30,1.0
+2025-06-30,1.0
+2025-06-30,0.0
+2025-06-30,0.0
+2025-07-01,1.0
+2025-07-01,1.0
+2025-07-02,0.6
+2025-07-03,1.0
+2025-07-04,1.0
+2025-07-07,0.7999999999999999
+2025-07-08,1.0
+2025-07-08,1.0
+2025-07-09,1.0
+2025-07-09,1.0
+2025-07-09,0.4
+2025-07-10,1.0
+2025-07-10,1.0
+2025-07-10,1.0
+2025-07-10,1.0
+2025-07-11,1.0
+2025-07-15,1.0
+2025-07-15,1.0
+2025-07-15,1.0
+2025-07-15,1.0
+2025-07-16,1.0
+2025-07-17,1.0
+2025-07-18,0.0
+2025-07-18,1.0
+2025-07-20,1.0
+2025-07-21,1.0
+2025-07-22,1.0
+2025-07-25,1.0
+2025-07-25,1.0
+2025-07-26,0.0
+2025-07-27,0.0
+2025-07-28,1.0
+2025-07-28,1.0
+2025-07-29,0.2
+2025-07-29,1.0
+2025-07-30,1.0
+2025-08-01,1.0
+2025-08-02,1.0
+2025-08-04,1.0
+2025-08-06,1.0
+2025-08-07,1.0
+2025-08-08,1.0
+2025-08-08,0.5
+2025-08-09,0.0
+2025-08-09,0.7000000000000001
+2025-08-10,0.0
+2025-08-10,0.0
+2025-08-10,0.7999999999999999
+2025-08-10,1.0
+2025-08-11,1.0
+2025-08-12,1.0
+2025-08-12,1.0
+2025-08-12,1.0
+2025-08-12,1.0
+2025-08-12,1.0
+2025-08-12,1.0
+2025-08-13,1.0
+2025-08-13,1.0
+2025-08-13,1.0
+2025-08-13,1.0
+2025-08-13,1.0
+2025-08-14,0.2
+2025-08-14,1.0
+2025-08-15,1.0
+2025-08-16,0.0
+2025-08-18,1.0
+2025-08-18,1.0
+2025-08-19,0.5
+2025-08-20,0.7
+2025-08-20,0.0
+2025-08-20,1.0
+2025-08-20,1.0
+2025-08-20,1.0
+2025-08-20,1.0
+2025-08-22,1.0
+2025-08-23,1.0
+2025-08-24,1.0
+2025-08-24,1.0
+2025-08-24,1.0
+2025-08-25,1.0
+2025-08-27,1.0
+2025-08-27,0.5
+2025-08-27,1.0
+2025-08-29,1.0
+2025-08-29,1.0
+2025-08-30,1.0
+2025-08-30,1.0
+2025-08-31,0.7999999999999999
+2025-09-03,1.0
+2025-09-09,1.0
+2025-09-10,0.7999999999999999
+2025-09-12,1.0
+2025-09-13,1.0
+2025-09-15,1.0
+2025-09-15,1.0
+2025-09-18,1.0
+2025-09-18,0.0
+2025-09-18,1.0
+2025-09-19,0.0
+2025-09-19,1.0
+2025-09-19,0.2
+2025-09-20,1.0
+2025-09-21,1.0
+2025-09-21,1.0
+2025-09-21,1.0
+2025-09-22,0.0
+2025-09-23,1.0
+2025-09-23,1.0
+2025-09-23,0.6
+2025-09-23,1.0
+2025-09-23,1.0
+2025-09-24,0.2
+2025-09-24,0.7999999999999999
+2025-09-24,1.0
+2025-09-24,0.0
+2025-09-24,1.0
+2025-09-24,1.0
+2025-09-24,1.0
+2025-09-24,0.6
+2025-09-25,1.0
+2025-09-25,1.0
+2025-09-25,1.0
+2025-09-26,1.0
+2025-09-26,0.7999999999999999
+2025-09-29,1.0
+2025-09-30,1.0
+2025-10-01,0.0
+2025-10-01,1.0
+2025-10-01,1.0
+2025-10-01,1.0
+2025-10-02,0.7999999999999999
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-03,1.0
+2025-10-03,0.0
+2025-10-03,1.0
+2025-10-04,0.2
+2025-10-04,1.0
+2025-10-04,1.0
+2025-10-04,1.0
+2025-10-04,0.6000000000000001
+2025-10-05,1.0
+2025-10-06,1.0
+2025-10-06,1.0
+2025-10-06,1.0
+2025-10-06,0.0
+2025-10-06,0.0
+2025-10-06,0.0
+2025-10-06,1.0
+2025-10-06,1.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-07,0.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-08,1.0
+2025-10-08,0.0
+2025-10-08,1.0
+2025-10-08,1.0
+2025-10-08,1.0
+2025-10-09,0.2
+2025-10-09,1.0
+2025-10-09,0.0
+2025-10-09,1.0
+2025-10-09,0.0
+2025-10-09,1.0
+2025-10-09,0.0
+2025-10-10,1.0
+2025-10-10,1.0
+2025-10-11,0.0
+2025-10-11,1.0
+2025-10-11,1.0
+2025-10-11,1.0
+2025-10-12,0.7999999999999999

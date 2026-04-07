@@ -3,82 +3,100 @@
     "broadcom",
     "broadcom inc",
     "avgo",
-    "nasdaq:avgo"
+    "nasdaq:avgo",
+    "hock tan"
   ],
 
   "products": [
     "custom silicon",
-    "ASIC",
-    "AI chip",
+    "asic",
+    "custom ai accelerator",
+    "ai accelerator",
+    "tpu",
+    "xpu",
     "networking chip",
     "ethernet switch",
+    "tomahawk",
+    "trident",
+    "jericho",
     "data center networking",
     "optical interconnect",
     "wireless connectivity",
     "broadband chipset",
     "storage controller",
-    "VMware",
-    "VMware Cloud Foundation",
+    "vmware",
+    "vmware cloud foundation",
+    "vcf",
+    "tanzu",
     "virtualization software",
     "enterprise software",
-    "private cloud"
-    ,"Bitnami"
-    ,"VeloRAIN"
-    ,"XDSiP"
-    ,"Baltra"
-    ,"custom AI accelerator"
-    ,"AI server chip"
-    ,"Apple AI chip"
-    ,"OpenAI chip"
+    "private cloud",
+    "symantec",
+    "ca technologies",
+    "brocade"
   ],
 
   "direct_keywords": [
     "earnings",
     "revenue",
+    "eps",
+    "margin",
+    "free cash flow",
     "guidance",
     "forecast",
     "outlook",
-    "EPS",
-    "margin",
-    "free cash flow",
     "dividend",
     "buyback",
     "acquisition",
     "merger",
     "integration",
-    "AI accelerator",
-    "custom AI",
-    "hyperscaler",
-    "data center",
-    "VMware pricing",
+    "vmware pricing",
     "subscription model",
     "license change",
-    "CEO",
-    "CFO",
-    "Hock Tan"
-    ,"Apple partnership"
-    ,"OpenAI partnership"
-    ,"AI revenue"
-    ,"AI demand"
-    ,"stock split"
-    ,"trillion dollar club"
-    ,"AI chip forecast"
-    ,"AI opportunity"
+    "ceo",
+    "cfo",
+    "hock tan",
+    "data center orders",
+    "custom silicon contract",
+    "ai accelerator shipment",
+    "hyperscaler contract"
   ],
 
   "indirect_keywords": [
     "semiconductor industry",
-    "AI infrastructure",
+    "ai infrastructure",
     "data center spending",
     "cloud capex",
-    "enterprise IT spending",
+    "enterprise it spending",
     "chip supply",
     "export controls",
-    "China exposure",
-    "regulation",
+    "china exposure",
     "antitrust",
     "competition",
-    "hyperscale customers"
+    "hyperscale customers",
+    "foundry capacity",
+    "marvell",
+    "nvidia networking",
+    "ethernet vs infiniband"
+  ],
+
+  "macro_keywords": [
+    "federal reserve",
+    "fed",
+    "interest rates",
+    "rate hike",
+    "rate cut",
+    "inflation",
+    "cpi",
+    "ppi",
+    "gdp",
+    "macroeconomic",
+    "broad market",
+    "market-wide",
+    "risk sentiment",
+    "equity markets",
+    "global markets",
+    "stock market"
   ],
 
   "low_signal_phrases": [
@@ -88,7 +106,6 @@
     "market roundup",
     "weekly roundup",
     "what to know",
-    "investor sentiment",
     "technical analysis",
     "chart analysis",
     "price prediction",
@@ -97,20 +114,11 @@
     "blog",
     "podcast",
     "newsletter",
-    "ETF",
-    "index fund"
-  ],
-    "positive_keywords": [
-    "beats expectations","eps beats","beats on","beat estimates","beats estimates","raises guidance","raised guidance","in line annual profit","forecast annual profit in line","profit jumps","surpass expectations",
-    "approval","approved","clears","receives ce mark","receives ce-mark","ce mark","ce-mark","authorized","authorization","reimbursed","wins","win","verdict","not liable","not responsible","lawsuit win",
-    "partnership","collaborat","integrat","price target raised","overweight rating","outperform rating","buy rating","upgraded","upgrade","initiates trial","initiated trial","new trial","data shows","positive data","strong growth","margin expansion","expands","expansion","first-in-world",
-    "dividend increase","increases dividend","raised dividend","declares dividend","quarterly dividend","strong demand","launch","launches","invest","investment","investing","host conference call for earnings","guidance met","maintains guidance","maintained guidance","maintains outlook","reaffirms guidance",
-    "first patient procedures","first-of-its-kind","first in the world","wins fda nod","wins fda approval","fda approves","fda cleared","fda clears","health canada","cms coverage","coverage"
-  ],
-  "negative_keywords": [
-    "misses","miss","declines","cuts","cut guidance","guidance cut","downgraded","downgrade","lawsuit","penalty","penalties","probe","investigation","retrial","new trial could be heard","judge ordered a new trial","overturned verdict","recall","halt","block","short seller","pricing pressure","margin declines","inventory issues","restatement","under investigation","tariff","tariffs","costs","hit from china","weaker-than-expected","sinks","plummeted","falls","fell","drops","dropped","declines while market gains","stock sinks","stock drops","profit falls","revenue falls","forecasts below","below expectations","outlook cut","narrows outlook","lowers outlook","lowered outlook","ban","banned"
-  ],
-  "price_move_keywords": [
-    "stock underperforms","stock outperforms","stock rises","stock falls","trading day","marketwatch","roundup","premarket movers","health care roundup","gains and losses today","trending tickers","market minute"
+    "etf",
+    "index fund",
+    "daily movers",
+    "market wrap",
+    "zacks",
+    "motley fool"
   ]
 }

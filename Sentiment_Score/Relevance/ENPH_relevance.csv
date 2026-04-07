@@ -1,703 +1,567 @@
-date,relevance_score,category,rationale,evidence_spans
-2024-10-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy to Post Q3 Earnings: Whats in Store for the Stock?"", ""ENPHs Q3 results are expected to reflect dismal""]"
-2024-10-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy, Inc. (ENPH) the Best High Growth Lithi"", ""In this article, we will look at where Enphase Energy, Inc. (NASDAQ:ENPH) ranks among high gr""]"
-2024-10-19,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Heres Why Enphase Energy (ENPH) Gained But Lagged the Market Tod"", ""Enphase Energy (ENPH) reachead $91.64 at the closing o""]"
-2024-10-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase (ENPH) Q3 Earnings Report Preview: What To Look F"", ""Enphase (NASDAQ:ENPH) will be reporting earnings tomorrow after the bell. Here’s what in""]"
-2024-10-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SMA Solar Technology: Market Overreaction Signals Undervalued Opportunity""]"
-2024-10-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase reports weaker quarter, and this time its U.S. business is not the problem""]"
-2024-10-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tuesdays Earnings Slate""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy: Sell On Weak Near-Term Outlook (Rating Downgrade)"", ""Enphase Energy reports disappointing Q3 results, with weak sales in Europe. Rea""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH) Misses Q3 Earnings and Revenue Estimates"", ""Enphase Energy (ENPH) delivered earnings and revenue surprises of -16.67% and 2.""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (ENPH) Q3 2024 Earnings Call Transcript"", ""Enphase Energy, Inc. (NASDAQ:ENPH) Q3 2024 Earnings Conference Call October 2""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy: Q3 Earnings Snapshot"", ""company said it had profit of 33 cents. Earnings, adjusted for one-time gains and costs,""]"
-2024-10-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy : Q3 2024 Supplemental Data"", ""n October 22, 2024 Enphase Energy, Inc. Q324 Supplemental Information ...""]"
-2024-10-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""McDonalds stock slips, Starbucks dips, and other movers""]"
-2024-10-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Stock Dives After Earnings—and Takes Sunrun, SolarEdge With It""]"
-2024-10-23,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy : Reports Financial Results for the Thi"", ""Enphase Energy Reports Financial Results for the Third""]"
-2024-10-23,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""any and the world’s leading supplier of microinverter-based solar and battery systems, announ""]"
-2024-10-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Q3 Recap: This Time, America Is Not The Problem (Rating Downgrade)""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""eports Sales Below Analyst Estimates In Q3 Earnings, Stock Drops"", ""hase (NASDAQ:ENPH) missed Wall Street’s revenue expectations in Q3 CY2024, with sales f""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH) Q3 2024 Earnings Call Transcript"", ""ENPH earnings call for the period ending September 30""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Inc (ENPH) Q3 2024 Earnings Call Highlights: Strong R"", ""nphase Energy Inc (ENPH) reports robust Q3 2024 performance with $380.9 million in""]"
-2024-10-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Stock Dives After Earnings Miss. Sunrun, SolarEdge Hit as Sector Struggles.""]"
-2024-10-23,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""tocks Mostly Lower Premarket Wednesday; Enphase Energy, McDonalds to Decline"", ""tocks Mostly Lower Premarket Wednesday; Enphase Energy, McDonalds to Decline""]"
-2024-10-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Energys Q3 Earnings Miss Estimates, Revenues Down Y/Y""]"
-2024-10-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge: Core European Market Continues To Deteriorate - Strong Sell (Downgrade)""]"
-2024-10-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Q3 2024 Enphase Energy Inc Earnings Call"", ""Q3 2024 Enphase Energy Inc Earnings Call""]"
-2024-10-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Sales Plunge on Weak European Demand"", ""Enphase Energy was the biggest decliner in the S&P 500""]"
-2024-10-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Wall Street Lunch: Boeing Loses $6 Billion""]"
-2024-10-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Top Stock Movers Now: Enphase Energy, AT&T, Coca-Cola, and More""]"
-2024-10-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energys Q3 results disappointed investors, with co""]"
-2024-10-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""the company reported weak third-quarter earnings results that fell below Wall Streets es""]"
-2024-10-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy posts Q3 miss, disappointing Q4 guidance"", ""rgy (ENPH) flopped on its third quarter earnings, missing on its top and bottom lines wh""]"
-2024-10-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphases Q3 Valuation Contraction Is An Ideal Entry"", ""Despite European revenue decline, Enphases US revenue grew 43% Q""]"
-2024-10-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Third Quarter 2024 Earnings: Misses Expectations"", ""rter 2024 Results Key Financial Results Revenue: US$380.9m (down 31% from 3Q...""]"
-2024-10-24,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Decoding Enphase Energy Inc (ENPH): A Strategic SWOT Insight"", ""Comprehensive Analysis of Enphase Energys Market Position and Future Prospects""]"
-2024-10-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy price target lowered to $110 from $150 at Northland"", ""Northland lowered the firm’s price target on Enphase Energy (ENPH) to $110 from $""]"
-2024-10-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energys Q3 earnings disappointed, facing challenge""]"
-2024-10-26,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase: Light Can Be Seen In The Tunnel""]"
-2024-10-26,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""The Invesco Solar ETF (TAN) is down 28% since the start of 20""]"
-2024-10-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Things Look Grim For Enphase Energy, Inc. (NASDAQ:ENPH) After Todays Downgr"", ""st coverage could presage a bad day for Enphase Energy, Inc. ( NASDAQ:ENPH ), with the analyst""]"
-2024-10-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer on Enphase Energy, Inc. (ENPH): ‘I Don’t Want You To Sell"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2024-10-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar: Solid Growth Amid Election Fears - A Long-Term Buy""]"
-2024-10-29,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy price target lowered to $129 from $144 at Seaport Re"", ""Seaport Research lowered the firm’s price target on Enphase Energy (ENPH) to $129 from $""]"
-2024-10-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solars Q3 Earnings Miss Estimates, 24 Sales View Revised""]"
-2024-10-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Generac Earnings: What To Look For From GNRC""]"
-2024-10-31,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These are the S&P 500’s biggest laggards for October, down by as much as 29%""]"
-2024-11-01,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Worst-Performing Growth S"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2024-11-01,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""anding to new geographies and launching new products. Read more about recent earnings.""]"
-2024-11-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Launches New Home Energy Systems in Romania with IQ Battery 5P and IQ8"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-11-05,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""US Stocks That May Be Priced Below Intrinsic Value In November 2024""]"
-2024-11-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Clean-Energy Stocks Rally as Poll Raises Hope for Harris Win""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sharp drops in solar stocks translate to sizable paper gains for short sellers""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Why Trumps Victory Is So Dangerous for Clean-Energy Companies""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Now Is an Opportune Time To Consider Enphase Stock""]"
-2024-11-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Renewable-energy stocks tank after Trump wins White House""]"
-2024-11-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Premarket movers: DJT, MicroStrategy, Tesla surge while renewable stocks slump""]"
-2024-11-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump win fuels stock rally: Nasdaq up 400 points, gold plunges""]"
-2024-11-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Technologies: Weak Quarter, Disappointing Outlook - Sell""]"
-2024-11-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Earnings Add Injury to Trump Insult. Why the Stock Is Falling Again.""]"
-2024-11-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Technologies Q3 Loss Wider Than Expected, Revenues Decline Y/Y""]"
-2024-11-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sunrun Earnings Reveal 2 Silver Linings for Battered Solar Stocks""]"
-2024-11-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy to lay off 17% of workforce"", ""Enphase will also streamline its operations""]"
-2024-11-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy to Cut About 500 Jobs, Citing Solar Ind"", ""Enphase Energy to Cut About 500 Jobs, Citing Solar Ind""]"
-2024-11-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy to lay off 17% of workforce, take up to"", ""-Enphase Energy will cut its global workforce by about""]"
-2024-11-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase to lay off workers and end some operations in Mexico""]"
-2024-11-10,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims On Behalf of Investors of Enphase Energy, Inc. - ENPH"", ""ating claims on behalf of investors of  Enphase Energy, Inc.  . Such investors are advised to""]"
-2024-11-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2024-11-12,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""y to roll back but not dismantle Bidens clean energy spending"", ""rs, whose districts have benefited from clean energy investments, suggests the law is more l""]"
-2024-11-12,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Unveils AI-Powered DIY Solar Permits"", ""Enphase Energy, Inc. (NASDAQ:ENPH) introduced a new DI""]"
-2024-11-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase introduces DIY permitting feature to Solargraf platform""]"
-2024-11-12,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy, Inc. (ENPH) Best Alternative Energy St"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2024-11-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""with IGS Solar to Expand Deployments of IQ8 Microinverters Produced in the United States"", ""entum Solar, and Ecohouse Solar to earn Domestic Content Bonus CreditFREMONT, Calif., Nov. 13, 2""]"
-2024-11-13,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Solar Leader Enphase Energy Cutting 500 Jobs"", ""California-based Enphase Energy, a company known for its solar power an""]"
-2024-11-15,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""The Trump Trade Is Putting Clean Energy Stocks On Sale"", ""ate additional growth opportunities for clean energy technologies. Click here for a detailed""]"
-2024-11-16,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Trumps Election Caused a Sell-Off in Clean Energy Stocks. But Is It an Opportunity for Th""]"
-2024-11-16,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""tock right now, considering its premium valuation. However, those who own it may continue""]"
-2024-11-16,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Stock Has Plunged Since Trump’s Win."", ""Solar-tech firm Enphase Energy is the second-worst performer in the S&""]"
-2024-11-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tactile Systems and Ares have been highlighted as Zacks Bull and Bear of the Day""]"
-2024-11-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (NASDAQ:ENPH), a microinverter-based solar and battery system supplier""]"
-2024-11-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Begins Shipments for IQ Battery 5Ps Produced in the United States"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-11-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Emerens Q3 Earnings In Line With Estimates, Revenues Fall Y/Y""]"
-2024-11-19,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""w with CNBC on November 9, John Berger, CEO of Sunnova stated that the market is […""]"
-2024-11-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims On Behalf of Investors of Enphase Energy, Inc. - ENPH"", ""ating claims on behalf of investors of  Enphase Energy, Inc.  . Such investors are advised to""]"
-2024-11-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energys Q3 results missed both top and bottom line""]"
-2024-11-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-11-22,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Do Redditors Think That Enphase Energy Inc. (ENPH) Has a Big Upside Potential?"", ""e, we are going to take a look at where Enphase Energy Inc. (NASDAQ:ENPH) stands against the o""]"
-2024-11-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ase Energy (ENPH) Down 19.2% Since Last Earnings Report?"", ""Enphase Energy (ENPH) reported earnings 30 days ago. Whats next for the stock?""]"
-2024-11-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Wall Street Breakfast Podcast: Gold Sinks""]"
-2024-11-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""TAN: A So Bad, Its Good Play, Undervalued, Bullish Technicals Emerge (Rating Upgrade)""]"
-2024-11-28,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""faces profitability challenges and high valuation. Read why ENPH stock is overvalued and""]"
-2024-11-29,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Unveils IQ PowerPack in the United Stat"", ""ENPH unveils its IQ PowerPack 1500, a portab""]"
-2024-11-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""What Moved Markets This Week""]"
-2024-12-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Capital Allocation Trends At Enphase Energy (NASDAQ:ENPH) Arent Ideal""]"
-2024-12-03,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Rises 5.7% In November To Log Best Month Of 2024""]"
-2024-12-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-12-03,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""SolarEdge: Solar Demand May Not Recover This Decade"", ""G stock might offer potential upside if macro headwinds ease.""]"
-2024-12-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Biggest Winners And Losers Since The Election""]"
-2024-12-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims On Behalf of Investors of Enphase Energy, Inc. - ENPH"", ""ating claims on behalf of investors of  Enphase Energy, Inc.  . Such investors are advised to""]"
-2024-12-04,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""CSIQ or ENPH: Which Is the Better Value Stock Right"", ""CSIQ vs. ENPH: Which Stock Is the Better Value Option""]"
-2024-12-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2024-12-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Canadian Solar Q3 Earnings Surpass Estimates, Revenues Fall Y/Y""]"
-2024-12-07,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy (ENPH) Is Among the Best Wind Power and"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2024-12-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Project $1M: End Of A Journey With Mission Accomplished""]"
-2024-12-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tax-Loss Stocks To Sell Before Everyone Else Does""]"
-2024-12-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (NASDAQ:ENPH), a microinverter-based solar and battery system supplier""]"
-2024-12-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2024-12-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500, Nasdaq Retreat From Record Levels""]"
-2024-12-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sector Update: Energy Stocks Advance Late Afternoon""]"
-2024-12-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""g it right now, considering its premium valuation, dismal year-to-date performance and hi""]"
-2024-12-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equities Fall Intraday as Traders Await Official Inflation Data""]"
-2024-12-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ns Shipments of IQ8X and IQ8 Commercial Microinverters with Higher Domestic Content"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-12-12,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Drops Despite Market Gains"", ""The latest trading day saw Enphase Energy (ENPH) settling at $74.23, representing""]"
-2024-12-12,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy (ENPH) the Best Alternative Fuel Stock"", ""article, we are going to look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2024-12-12,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Ubiquiti Is Having Its Tim Cook Moment""]"
-2024-12-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Canadian Solar to Supply 315 MWh Battery Energy Storage in Texas""]"
-2024-12-13,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH, NextEnergy Ink Deal to Boost Solar Sav"", ""ENPH teams up with NextEnergy in the Netherl""]"
-2024-12-14,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ties Fraud Class Action Lawsuit Against Enphase Energy, Inc. and Encourages Investors With Los"", ""ties fraud class action lawsuit against Enphase Energy, Inc. (...""]"
-2024-12-16,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims on Behalf of Investors of Enphase Energy"", ""o Suffered Losses Exceeding $100,000 In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2024-12-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Begins Shipments of IQ Battery 5Ps in India"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2024-12-17,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Stock Jumps After Goldman Double Upgrade. Solar Can Shine Again in 2025.""]"
-2024-12-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase dominates the microinverter segment and benefits from favorable lon""]"
-2024-12-17,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc. for violations of §§10 and 20 of""]"
-2024-12-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Rosen Law Firm Urges Enphase Energy, Inc. (NASDAQ: ENPH) Stockholders with"", ""lf of all purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and...""]"
-2024-12-18,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""This Clean Energy Stock Surges On Upgrade Despite Trump U"", ""This Clean Energy Stock Surges On Upgrade Despite Trump U""]"
-2024-12-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Robbins Geller Rudman & Dowd LLP Announ"", ""nounces that purchasers or acquirers of Enphase Energy, Inc. common stock between April 25, 20""]"
-2024-12-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""the Class Action Lawsuit Filed Against Enphase Energy, Inc."", ""ors who purchased or otherwise acquired Enphase Energy, Inc. securities...""]"
-2024-12-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investor Alert: Kessler Topaz Meltzer &"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all...""]"
-2024-12-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""behalf of purchasers of common stock of Enphase Energy,...""]"
-2024-12-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Is SolarEdge At Its Final Edge?""]"
-2024-12-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ders with Losses on their Investment in Enphase Energy, Inc. of Class Action Lawsuit and Upcom"", ""s action lawsuit has been filed against Enphase Energy, Inc.  . Such investors are advised to""]"
-2024-12-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Bronstein, Gewirtz & Grossman LLC Annou"", ""s action lawsuit has been filed against Enphase Energy, Inc. and certain of...""]"
-2024-12-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2024-12-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH INVESTOR NOTICE: Robbins Geller Rudman"", ""nounces that purchasers or acquirers of Enphase Energy, Inc. common stock between April 25, 20""]"
-2024-12-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): A Bull Case Theory"", ""We came across a bullish thesis on Enphase Energy, Inc. (ENPH) on The Finance Corner’s Su""]"
-2024-12-24,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims on Behalf of Investors of Enphase Energy"", ""o Suffered Losses Exceeding $100,000 In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2024-12-24,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""eaking news in the electric vehicle and clean energy space, as well as which stocks in these""]"
-2024-12-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2024-12-25,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Rises Yet Lags Behind Market: So"", ""Enphase Energy (ENPH) closed at $73.28 in the latest t""]"
-2024-12-25,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy (ENPH) Is One of the Best Solar Energy"", ""article, we are going to look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2024-12-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ders with Losses on their Investment in Enphase Energy, Inc. of Class Action Lawsuit and Upcom"", ""s action lawsuit has been filed against Enphase Energy, Inc.  . Such investors are advised to""]"
-2024-12-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Emeren Divests 2.8 MWdc Solar Project in Maine to Altus Power""]"
-2024-12-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""What Moved Markets This Week""]"
-2024-12-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Emeren & Arpinge Complete 162 MW Battery Storage Project in Italy""]"
-2024-12-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Bronstein, Gewirtz & Grossman LLC Annou""]"
-2024-12-29,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Class Action Announcement for Enphase Energy, Inc. Investors: Kessler Topaz Meltzer"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all...""]"
-2024-12-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase: Top Contrarian Pick With Blood In The Streets""]"
-2024-12-30,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy (ENPH) Among the Best Renewable Energy"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2024-12-30,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Announcement: Kessler Topaz Meltzer & C"", ""ties fraud class action lawsuit against Enphase Energy,...""]"
-2024-12-30,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2024-12-31,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ntir Technologies (PLTR), Tesla (TSLA), Enphase Energy (ENPH), and Super Micro Computer (SMCI)""]"
-2024-12-31,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase: Floor Yet To Be Found - More Uncertainties Ahead (Rating Downgrade)""]"
-2025-01-01,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy (ENPH) Is One of the Best Environmental"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-01-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. Sued for Securities Law Violation"", ""stors of a class action lawsuit against Enphase Energy, Inc. for violations of the federal sec""]"
-2025-01-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ders with Losses on their Investment in Enphase Energy, Inc. of Class Action Lawsuit and Upcom"", ""s action lawsuit has been filed against Enphase Energy, Inc.  . Such investors are advised to""]"
-2025-01-02,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims on Behalf of Investors of Enphase Energy"", ""o Suffered Losses Exceeding $100,000 In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2025-01-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Advances But Underperforms Marke"", ""In the most recent trading session, Enphase Energy (ENPH) closed at $72.15, indicating a +""]"
-2025-01-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump Tariffs Shift? Trump Denies, But Nucor, Enphase, Ford, FCX Lead S&P 500 Rally""]"
-2025-01-06,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""r Topaz Meltzer & Check, LLP Encourages Enphase Energy, Inc. Investors with Losses to Contact"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all persons and...""]"
-2025-01-06,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy IQ8 Microinverters Selected for Belgium Radioactive Waste"", ""Enphase IQ8 Microinverters selected for safer AC system architect""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Zacks Industry Outlook Highlights Enphase Energy, Nextracker a"", ""an Solar are part of the Zacks Industry Outlook article.""]"
-2025-01-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e US solar industry should benefit from IRA-induced investments amid cost competiti""]"
-2025-01-08,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Faruqi & Faruqi Reminds Enphase Energy Investors of the Pending Class Action L"", ""o Suffered Losses Exceeding $100,000 In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2025-01-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Microinverters Picked for Radioactive Waste Facility"", ""ENPHs IQ8 Microinverters are likely to improve the reliability""]"
-2025-01-08,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""A Closer Look At Enphase Energy, Inc.s (NASDAQ:ENPH) Uninspiring ROE""]"
-2025-01-08,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ders with Losses on their Investment in Enphase Energy, Inc. of Class Action Lawsuit and Upcom"", ""s action lawsuit has been filed against Enphase Energy, Inc.  . Such investors are advised to""]"
-2025-01-09,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ROSEN, A LEADING LAW FIRM, Encourages Enphase Energy, Inc. Investors to Secure Counsel Befor"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Expands in Latin America with Launch of IQ8 Microinverters in Colombia, Panama, and Costa Rica"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-01-09,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-11,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer on Enphase Energy, Inc. (ENPH): ‘I Think It’s Amazing Tha"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-01-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""The Challenges Of The Energy Transition And 26 Companies That Might Benefit From It""]"
-2025-01-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Introduces IQ Battery 5P with FlexPhase, Delivering Three-Pha"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-01-13,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2025-01-13,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""raud Class Action Lawsuit Filed Against Enphase Energy, Inc."", ""ties fraud class action lawsuit against Enphase Energy,...""]"
-2025-01-14,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-15,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims on Behalf of Investors of Enphase Energy"", ""o Suffered Losses Exceeding $100,000 In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2025-01-16,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy : Which solar tax credits and incentive""]"
-2025-01-17,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Kirby McInerney LLP Urges Investors in Enphase Energy, Inc. (ENPH) to Inquire About Their Rig""]"
-2025-01-20,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investor Reminder: Kessler Topaz Meltze"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all persons and...""]"
-2025-01-20,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: Challenges Mount As Solar Industry"", ""Enphase operates in a landscape that seems t""]"
-2025-01-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-01-23,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""igates Claims on Behalf of Investors of Enphase Energy"", ""urages Investors Who Suffered Losses In Enphase Energy To Contact Him Directly To Discuss Thei""]"
-2025-01-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Announces U.S.-Produced IQ8 Microinverter Compliance with Build America, Buy Amer"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-01-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. Sued for Securities Law Violation"", ""stors of a class action lawsuit against Enphase Energy, Inc. for violations of the federal sec""]"
-2025-01-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2025-01-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e-energy-efficiency upgrades, including solar panel...""]"
-2025-01-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-01-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", ""stors of a class action lawsuit against Enphase Energy, Inc.  for...""]"
-2025-01-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ders with Losses on their Investment in Enphase Energy, Inc. of Class Action Lawsuit and Upcom"", ""s action lawsuit has been filed against Enphase Energy, Inc.  . Such investors are advised to""]"
-2025-01-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""sler Topaz Meltzer & Check, LLP Reminds Enphase Energy, Inc. Investors of Securities Fraud Cla"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all persons and...""]"
-2025-01-29,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ENPH Investors Have Opportunity to Lead Enph"", "", reminds purchasers of common stock of Enphase Energy, Inc. between April 25, 2023 and Octobe""]"
-2025-01-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Nextracker: Riding The Solar Boom With Industry-Leading Innovation""]"
-2025-01-30,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-02-03,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: Buy When Others Question If Sunny D"", ""Enphase Energys stock price is down 85%, but its funda""]"
-2025-02-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Energy Shares Rise After 4Q Results, 1Q Outlook Beat Estimates"", ""Energy Shares Rise After 4Q Results, 1Q Outlook Beat Estimates""]"
-2025-02-05,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (ENPH) Q4 2024 Earnings Call Transcript"", ""Enphase Energy, Inc. (NASDAQ:ENPH) Q4 2024 Earnings Conference Call February""]"
-2025-02-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase calls for better times ahead, but Europe is still a worry for solar-power company""]"
-2025-02-05,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energys Q4 results exceeded expectations with stro""]"
-2025-02-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Alphabet and AMD shares under pressure, and other movers""]"
-2025-02-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Earnings Are Lifting Solar Stocks. What Wall Street Thinks.""]"
-2025-02-05,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""eadline in Class Action Lawsuit Against Enphase Energy, Inc. (ENPH)"", ""ties fraud class action lawsuit against Enphase Energy, Inc. on behalf of all persons and...""]"
-2025-02-06,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy: Struggles Ahead"", ""Enphase Energy struggles despite strong technology and""]"
-2025-02-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""3 Renewable-Energy Stocks That Could Thrive Under Trump""]"
-2025-02-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","["": While Waiting For A Sale Rebound, The Cash Flow Remains Elevated"", ""Enphase Enegy generated a strong cash flow despite recording a stunning 40% revenu""]"
-2025-02-07,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock outperforms competitors on s"", ""Enphase Energy Inc. stock outperforms competitors on s""]"
-2025-02-13,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock underperforms Wednesday when"", ""Enphase Energy Inc. stock underperforms Wednesday when""]"
-2025-02-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump Anxiety Could Boost Sales at These Renewables Companies""]"
-2025-02-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Spikes 16% As Improved Margins Offset Wider Loss""]"
-2025-02-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Technologies Q4 Loss Wider Than Expected, Revenues Down Y/Y""]"
-2025-02-22,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock outperforms competitors desp"", ""Enphase Energy Inc. stock outperforms competitors desp""]"
-2025-02-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Among the Technology Stoc"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-02-27,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Slides as Market Rises: Fa"", ""The latest trading day saw Enphase Energy (ENPH) settling at $63.71, representing""]"
-2025-02-28,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock underperforms Thursday when"", ""Enphase Energy Inc. stock underperforms Thursday when""]"
-2025-03-01,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Among the Worst Performin"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-03-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy, Inc. (ENPH) Went Down On Friday?"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-03-03,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""reases Deployments of Legacy NEM System Expansion Solution in California"", ""approval process for legacy NEM system expansionsFREMONT, Calif., March 03, 2025 (GLOBE""]"
-2025-03-04,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock underperforms Monday when co"", ""Enphase Energy Inc. stock underperforms Monday when co""]"
-2025-03-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Super Micro, Nvidia Among S&P 500s Biggest Losers Amid Market Rout: Heres Why""]"
-2025-03-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""nst the other cash-rich mid cap stocks. Cash flow is the money moving in and out of a bus""]"
-2025-03-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""The 10 Stocks Hedge Funds Love—and Hate—the Most""]"
-2025-03-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Technology Shares Inch Higher, Defying Selloff -- Tech Roundup""]"
-2025-03-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Fidelity Growth Strategies Fund Q4 2024 Review""]"
-2025-03-06,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Outperforms Broader Market: What"", ""Enphase Energy (ENPH) concluded the recent trading ses""]"
-2025-03-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""y (NasdaqGM:ENPH) Sees 7% Dip As Latest Earnings Report Shows Sales and Income Drop"", ""gacy NEM solar systems and launched the IQ Battery 5P, yet its stock price fell by 7% over""]"
-2025-03-06,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock underperforms Wednesday when"", ""Enphase Energy Inc. stock underperforms Wednesday when""]"
-2025-03-06,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy, Inc. (ENPH) Soared on Tuesday"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-03-07,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): A Bull Case Theory"", ""We came across a bullish thesis on Enphase Energy, Inc. (ENPH) on Substack by Oliver | MM""]"
-2025-03-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""1 Small-Cap Stock with Solid Fundamentals and 2 to Turn Down""]"
-2025-03-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""ClearBridge Sustainability Leaders Strategy Q4 2024 Commentary""]"
-2025-03-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphases microinverters are technologically superior, but Tesl""]"
-2025-03-10,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: Great Disjoint In Execution & Senti"", ""Enphase has already lost most of its value s""]"
-2025-03-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""hase Energy Launches Next-Generation IQ EV Charger across Europe"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-03-11,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Why Clean-Energy Stocks Jumped as the S&P 500 Dropped""]"
-2025-03-12,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Invesco Equally-Weighted S&P 500 Fund Q4 2024 Commentary""]"
-2025-03-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""phase Energy Unveils Next-Generation IQ EV Chargers in Europe"", ""egins the distribution of its latest IQ EV Charger 2 across 14 European nations.""]"
-2025-03-14,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Moves -0.8%: What You Shou"", ""Enphase Energy (ENPH) closed at $58.01 in the latest t""]"
-2025-03-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Gains and Losses Today: Index Ticks Higher Ahead of This Weeks Fed Decision""]"
-2025-03-19,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy ‘applauds’ rapid shutdown standard for"", ""Enphase Energy (ENPH) commended the introduction of Br""]"
-2025-03-20,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Surpasses Market Returns: Some F"", ""In the latest trading session, Enphase Energy (ENPH) closed at $62.31, marking a +1.5""]"
-2025-03-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Canadian Solar to Supply 100 MW Battery Energy Storage in Arizona""]"
-2025-03-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy (ENPH) The Best Alternative Energy Stoc"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-03-25,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock rises Monday, still underper"", ""Enphase Energy Inc. stock rises Monday, still underper""]"
-2025-03-25,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy, Inc. (ENPH) the Most Profitable Lithiu"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-03-25,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ICLN ETF faces challenges despite clean energy trends, with 48.5% losses since 2021.""]"
-2025-03-26,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Key Insights Using the 2 Stage Free Cash Flow to Equity, Enphase Energy fair value es""]"
-2025-03-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Allspring Global Long/Short Equity Fund Q4 2024 Commentary""]"
-2025-03-26,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Rises Higher Than Market: Key Fa"", ""Enphase Energy (ENPH) closed at $62.77 in the latest t""]"
-2025-03-26,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy Inc. (ENPH) the Best Solar Stock to Buy"", ""e, we are going to take a look at where Enphase Energy Inc. (NASDAQ:ENPH) stands against other""]"
-2025-03-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","["". (ENPH): Among Stocks To Trade Without Tariffs And Interest Rate Fears"", ""ed a list of 10 Stocks To Trade Without Tariffs And Interest Rate Fears. In this articl""]"
-2025-03-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Wingstop initiated, CarMax upgraded: Wall Street’s top analyst calls""]"
-2025-03-28,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""requently Asked Questions How much does solar installation cost in Maryland? The cost of solar ins""]"
-2025-03-29,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Rises As Market Takes a Dip: Key"", ""the closing of the recent trading day, Enphase Energy (ENPH) stood at $61.65, denoting a +1.5""]"
-2025-04-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""g installation amid Chinas dominance in solar panel manufacturing. You may buy ENPH, NXT an""]"
-2025-04-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-04-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Zacks Industry Outlook Highlights Enphase Energy, Nextracker a"", ""o Energy are part of the Zacks Industry Outlook article.""]"
-2025-04-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-04-03,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy (ENPH) One of the Best Climate Change S"", ""In this article, we will look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer on Enphase Energy (ENPH) – “No Good News Coming, Sell!”"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""How to Find Strong Oils-Energy Stocks Slated for Positive Earnings Surprises""]"
-2025-04-05,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (NasdaqGM:ENPH) Launches IQ System Cont"", ""Enphase Energy (NasdaqGM:ENPH) launched the IQ System""]"
-2025-04-06,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Transcript : Enphase Energy, Inc. - Special Call"", ""or joining us on todays call to discuss Enphase Energys business. With us today are Mr. Steve""]"
-2025-04-07,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""2 Reasons to Like ENPH and 1 to Stay Skeptical"", ""Enphase has gotten torched over the last six""]"
-2025-04-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-04-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Teslas Energy & Storage Unit is Thriving: Is it the Only Bright Spot?""]"
-2025-04-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Expands in Europe with IQ Battery 5P with FlexPhase, Delivering Three-Pha"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-04-09,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy Inc. (ENPH) Went Down On Tuesday?"", ""e, we are going to take a look at where Enphase Energy Inc. (NASDAQ:ENPH) stands against other""]"
-2025-04-09,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy, Inc. (ENPH) the Best Clean Energy Stoc"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase, ASGN, Workiva, Zscaler, and Toast Shares Plummet, What You Need To Know""]"
-2025-04-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Introduces Its IQ Battery 5P With FlexPhase in Poland"", ""ENPH launches IQ Battery 5P with FlexPhase in Poland, and extend""]"
-2025-04-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH) Earnings Expected to Grow: What to Know Ahead of"", ""of the two key ingredients for a likely earnings beat in its upcoming report. Get prepar""]"
-2025-04-17,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Among the Best Renewable"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-17,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Unpacking Q4 Earnings: Enphase (NASDAQ:ENPH) In The"", ""ooking back on renewable energy stocks’ Q4 earnings, we examine this quarter’s bes""]"
-2025-04-17,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy is Set to Report Q1 Earnings: Whats in Store?"", ""robust top-line performance, driven by new product launches as well as higher shipments of""]"
-2025-04-18,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""and what Trump’s policies will mean for interest rates.""]"
-2025-04-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy (ENPH) Outpaced the Stock Market Today"", ""In the latest trading session, Enphase Energy (ENPH) closed at $52.54, marking a +1.5""]"
-2025-04-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""olar Enphase, Sunrun on policy changes, tariffs""]"
-2025-04-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""How to Boost Your Portfolio with Top Oils-Energy Stocks Set to Beat Earnings""]"
-2025-04-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase (ENPH) Reports Earnings Tomorrow: What To Expect"", ""Enphase (NASDAQ:ENPH) will be reporting earnings tomorrow after market close. Here’s wha""]"
-2025-04-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""What Is Enphase Energy, Inc.s (NASDAQ:ENPH) Share Price Doing?"", ""Enphase Energy, Inc. ( NASDAQ:ENPH ), might not be a l""]"
-2025-04-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tesla kicks off Mag 7 results as earnings season picks up speed""]"
-2025-04-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""rly profit estimates, forecasts weak Q2 revenue"", "".S. demand, and forecast second-quarter revenue below market estimates. Shares dropped""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH) Q1 Earnings and Revenues Miss Estimates"", ""Enphase Energy (ENPH) delivered earnings and revenue surprises of -4.23% and 1.6""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (ENPH) Q1 2025 Earnings Call Transcript"", ""hase Energy, Inc. (NASDAQ:ENPH) Q1 2025 Earnings Conference Call April 22, 2025 4:30 PM""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy: Q1 Earnings Snapshot"", ""t had net income of 22 cents per share. Earnings, adjusted for one-time gains and costs,""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Shares Slip After Earnings Miss"", ""Enphase Energy Shares Slip After Earnings Miss""]"
-2025-04-23,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""any and the world’s leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-04-23,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Stocks to Watch: Tesla, Enphase Energy, Pegasystems"", ""Stocks to Watch: Tesla, Enphase Energy, Pegasystems""]"
-2025-04-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): One of the Best Solar Ene"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase (NASDAQ:ENPH) Misses Q1 Revenue Estimates, Stock Drops 11.8%"", ""hase (NASDAQ:ENPH) missed Wall Street’s revenue expectations in Q1 CY2025, but sales ro""]"
-2025-04-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Nvidia shares back above $100 as traders hope for China/U.S. trade rapprochement, and other early movers""]"
-2025-04-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""b as some solar imports hit with 3,500% tariffs"", ""mping after the US government announced tariffs up to 3,500% on solar panel imports fro""]"
-2025-04-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Futures Rise in Premarket Trading; Pegasystems, Popular Inc. Lead""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Q1 Earnings Miss Estimates, Revenues Rise Y/Y"", ""ENPHs first-quarter revenues and earnings lag estimates. However, b""]"
-2025-04-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks get rating cut by Wall Street amid slowing growth and uncertainty""]"
-2025-04-23,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""China exposure amid tariff and domestic policy uncertainty, executives said Tuesday.""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Q1 2025 Enphase Energy Inc Earnings Call"", ""Q1 2025 Enphase Energy Inc Earnings Call""]"
-2025-04-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Inc (ENPH) Q1 2025 Earnings Call Highlights: Strong Revenue Amid Ta"", ""2025 performance with $356.1 million in revenue, while navigating tariff impacts and ma""]"
-2025-04-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Lockheed upgraded, Oracle downgraded: Wall Streets top analyst calls""]"
-2025-04-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Weaker-Than-Expected Results, Expected Tariffs Hit"", ""tes and it warned of an expected hit to gross margins because of tariffs on China.""]"
-2025-04-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Stock Plunges 15% After Earnings. Why Solar Investors Are Worried.""]"
-2025-04-24,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Julie Hyman and Roundhill Investments CEO Dave Mazza take a closer look at some o""]"
-2025-04-24,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Top Stock Movers Now: Tesla, Boeing, Enphase, and More""]"
-2025-04-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase earnings, bullish Duolingo call, Intuitive Surgi"", ""on Fed Chairman Jerome Powell and China tariffs. Enphase Energy (ENPH) shares sank afte""]"
-2025-04-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""hase Energy (ENPH) reported Q1 non-GAAP earnings and revenue that lagged analysts estima""]"
-2025-04-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These Stocks Are Moving the Most Today: Tesla, Intel, Enphase, Bristol Myers, Boeing, AT&T, and More""]"
-2025-04-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e first quarter, Enphase reported 35.2% revenue growth to $356.1 million, along with ad""]"
-2025-04-24,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Closing Bell Movers: Tesla jumps on Musk plans to pare back his DOGE work""]"
-2025-04-24,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Gains and Losses Today: Tech Stocks Jump as Trump Softens Stance on Fed and Trade""]"
-2025-04-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy, Inc. (ENPH) Lagged Performance on Wedn"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against the""]"
-2025-04-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy price target lowered to $37 from $44 at Jefferies"", ""Jefferies lowered the firm’s price target on Enphase Energy (ENPH) to $37 from $4""]"
-2025-04-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""(NasdaqGM:ENPH) Reports Strong Q1 2025 Earnings With Sales Rising To US$356 Million"", ""ENPH) recently announced strong Q1 2025 earnings, boasting a sales increase to USD 356 m""]"
-2025-04-25,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock rises Thursday, still underp"", ""Enphase Energy Inc. stock rises Thursday, still underp""]"
-2025-04-26,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphases current severe undervaluation amid bearish sentiment may reverse shar""]"
-2025-04-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""The Bottom Fishing Club - Shoals Technologies: American Made Solar Play""]"
-2025-04-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""rimarily proxied by high and consistent revenue growth, have shown sluggish performance""]"
-2025-04-28,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy First Quarter 2025 Earnings: Misses Expectations"", ""rter 2025 Results Key Financial Results Revenue: US$356.1m (up 35% from 1Q...""]"
-2025-04-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""y Enters the Solar Market in Japan with IQ8 Microinverters"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-04-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar (FSLR) Q1 Earnings Report Preview: What To Look For""]"
-2025-04-29,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Among the Oversold Tech S"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-04-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Generac (GNRC) To Report Earnings Tomorrow: Here Is What To Expect""]"
-2025-04-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""qGM:ENPH) announced the shipment of its IQ8 Microinverters in Japan, aiming to leverage the new s""]"
-2025-05-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""gy Announces Expanded Deployments of IQ Microinverters and IQ Batteries Manufactured in the U"", ""e has deployed more than 6.5 million IQ Microinverters and 50 MWh of IQ Batteries manufacture""]"
-2025-05-01,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): Among the Worst Performin"", ""s article, we will take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-05-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Falls 0.8% In April As U.S. Stock Declines Narrow""]"
-2025-05-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer Says You Should Sell Enphase Energy (ENPH) Amid Trump’s Policies – ‘It Mean"", ""e, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against othe""]"
-2025-05-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""nds U.S. Manufacturing With Millions Of Microinverter Shipments"", ""shipping, including over 6.5 million IQ Microinverters and 50 MWh of IQ Batteries shipped fro""]"
-2025-05-05,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Insider Activity Picks Up at Tesla, Enphase, Morgan Stanley and Other Major Firms""]"
-2025-05-05,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""CEO Presentation to follow after Annual Mee""]"
-2025-05-06,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Stock Stands Out on Tariffs as Earnings Surprise Street""]"
-2025-05-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-05-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Announces Easy Expansion of IQ7 Solar Systems with IQ8 Microinve"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-05-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Software to Expand Solar Capacity with IQ8 Microinverters"", ""hat facilitates the integration of IQ8™ Microinverters into existing systems, a move set to e""]"
-2025-05-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Verra Mobility And 2 Other Stocks That May Be Priced Below Their Estimated Value""]"
-2025-05-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-05-12,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. Expands in Europe with the IQ Bal"", ""Enphase Energy, Inc. announced the launch of the Enpha""]"
-2025-05-12,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ENPH Q1 Earnings Call: Tariffs and Product Launches Shap"", ""hase (NASDAQ:ENPH) missed Wall Street’s revenue expectations in Q1 CY2025, but sales ro""]"
-2025-05-13,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""uble-downgraded by Barclays on possible Section 25D repeal"", ""rweight, citing the potential repeal of Section 25D, a key tax credit for homeowners purcha""]"
-2025-05-13,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Premarket Trading; UnitedHealth Group, Enphase Energy Lag"", ""Premarket Trading; UnitedHealth Group, Enphase Energy Lag""]"
-2025-05-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""1 of Wall Street’s Favorite Stock with Exciting Potential and 2 to Think Twice About""]"
-2025-05-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""to Sell, citing the potential repeal of section 25D which had been largely discounted. Sect""]"
-2025-05-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-05-14,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy : 2025 CEO Presentation""]"
-2025-05-14,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Introduces Its IQ Balcony Solar System"", ""ENPH launches the IQ Balcony Solar System in""]"
-2025-05-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase has shifted 85% of global microinverter production to the U.S., reducing exposu""]"
-2025-05-16,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Gains 3.8% After Belgium Launch"", ""Enphase expands in Europe with IQ Balcony So""]"
-2025-05-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Buy/Sell: Wall Street’s top 10 stock calls this week""]"
-2025-05-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ergy Router suite of products to manage home solar, batteries, EV chargers, heat pumps, an""]"
-2025-05-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks slip as conservatives fight to end IRA tax credits sooner""]"
-2025-05-20,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""eaking news in the electric vehicle and clean energy space, as well as which stocks in these""]"
-2025-05-20,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Hold from Buy, citing limited multiple expansion. Solar stocks, including First Solar (F""]"
-2025-05-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): A Bull Case Theory"", ""We came across a bullish thesis on Enphase Energy, Inc. (ENPH) on Substack by OppCost. In""]"
-2025-05-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge: The Worst Should Be Behind The Company (Rating Upgrade)""]"
-2025-05-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""), Canadian Solar (CSIQ), Emeren (SOL), Enphase Energy (ENPH), FTC Solar (FTCI), First Solar (""]"
-2025-05-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump Trade: Conservatives fight to end IRA tax credits sooner""]"
-2025-05-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""phase Energy (ENPH) as President Trumps tariffs and the contents of his tax bill add a""]"
-2025-05-22,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ulatory risks and tariffs challenge the solar industry, but Nextrackers record revenues, asset""]"
-2025-05-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Green Solar Energy: An IPO That Doesnt Promise Much""]"
-2025-05-22,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Futures Rise in Premarket Trading; Urban Outfitters, Snowflake Lead""]"
-2025-05-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Companies Shares Slide After House Passes Trump Tax Bill""]"
-2025-05-22,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""A solar stock is leading the S&P 500 losers after House passes Trumps tax bill""]"
-2025-05-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Discover how tariffs, competition, and market volatility imp""]"
-2025-05-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Wall Street Lunch: Bitcoin Breaches $111,000 Mark On Historic Pizza Day""]"
-2025-05-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump’s Tax Bill Pummels First Solar, Enphase, SunRun Stocks""]"
-2025-05-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""parts retailer reaffirmed its full-year earnings guidance alongside its first quarter be""]"
-2025-05-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""nphase Energy (ENPH) Up 4.9% Since Last Earnings Report: Can It Continue?"", ""Enphase Energy (ENPH) reported earnings 30 days ago. Whats next for the stock?""]"
-2025-05-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Utilities stocks struggle as NextEra energy falls; solar stocks struggle""]"
-2025-05-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase (ENPH) Stock Trades Down, Here Is Wh"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) fell 18.8% in the afte""]"
-2025-05-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ny has shipped approximately 80 million microinverters, and approximately 4.7 million […]""]"
-2025-05-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Rooftop Solar Takes Gut Punch in House Tax Bill""]"
-2025-05-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ed out.  Enphase Energy, which supplies microinverter-based solar and battery systems, sank n""]"
-2025-05-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Top Stock Movers Now: Enphase Energy, Humana, Coinbase, and More""]"
-2025-05-24,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""omberg) -- The troubled, $20 billion US residential solar market’s future rests on whether Senate Republ""]"
-2025-05-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Renewable Energy Stocks Crash as U.S. Advances Bill That Could Decimate the Industry""]"
-2025-05-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""r power. However, despite these product expansions, the share price saw a 24% decline las""]"
-2025-05-25,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: Face The Harsh Reality Of President"", ""Enphase faces major headwinds from policy ri""]"
-2025-05-26,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""f fundamentals, but both face declining EPS estimates and weak stock performance, m""]"
-2025-05-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. stock rises Tuesday, still underpe"", ""Enphase Energy Inc. stock rises Tuesday, still underpe""]"
-2025-05-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar: The Only Profitable Solar Stock Is Undervalued""]"
-2025-05-29,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Here is Why Enphase Energy (ENPH) Crashed This Week"", ""The share price of Enphase Energy, Inc. (NASDAQ:ENPH) fell by 17.99% betw""]"
-2025-05-30,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Rises Higher Than Market: Key Fa"", ""Enphase Energy (ENPH) closed the most recent trading d""]"
-2025-05-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Q1 Earnings Highs And Lows: Enphase (NASDAQ:ENPH) V"", ""Earnings results often indicate what direction a""]"
-2025-06-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Vestas Wind Systems : Between A Rock And A Hard Place""]"
-2025-06-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""2 Industrials Stocks with Exciting Potential and 1 to Brush Off""]"
-2025-06-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar Stock Falls. Wall Street Is Split on Fate of Renewables.""]"
-2025-06-03,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Jumps 6.2% In May To Log Best Month Since 2023""]"
-2025-06-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy IQ8 Commercial Microinverters Made with Domestic Content Selected fo"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-06-05,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Sinks As Market Gains: Her"", ""In the latest trading session, Enphase Energy (ENPH) closed at $43.16, marking a -1.3""]"
-2025-06-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (NasdaqGM:ENPH) Microinverters Power Major US Solar Projects With Tax"", ""ently announced its IQ8P-3P™ Commercial Microinverters selection for major projects, includin""]"
-2025-06-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""s Sell Rating on Enphase (ENPH), Lowers Price Target to $43"", ""nergy, Inc. (NASDAQ:ENPH) but cut their price target to $43 from $47. The price adjustments""]"
-2025-06-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""As tech leads, which stocks have outperformed since April 8 rout?""]"
-2025-06-10,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""faces margin declines & weak growth as solar demand drops. Bearish sentiment suggests downs""]"
-2025-06-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Megacap stocks aren’t all up in 2025. But this chart shows they’ve trounced the S&P 500’s smallest equities.""]"
-2025-06-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump Tax Bill Splits Solar Market. Residential Power Is ‘on the Chopping Block.’""]"
-2025-06-11,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Three Stocks That May Be Trading Below Estimated Value In June 2025""]"
-2025-06-13,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Slides as Market Rises: Fa"", ""In the latest trading session, Enphase Energy (ENPH) closed at $44.82, marking a -1.0""]"
-2025-06-14,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""What Moved Markets This Week""]"
-2025-06-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Rolls Out IQ Battery 5P with FlexPhase, Delivering Three-Pha"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-06-16,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""3 Small-Cap Stocks Walking a Fine Line""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks plunge on Senate proposal to phase out tax credits by 2028""]"
-2025-06-17,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""nd-spending bill.  Solar inverter maker Enphase Energy was among the biggest decliners on the""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks plummet as Republican tax bill looks to remove tax credits for renewables""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These Stocks Are Moving the Most Today: Sunrun, Enphase, Verve Therapeutics, Palantir, Tesla, T-Mobile, Jabil, and More""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks drop after Senate proposal to phase out tax credits by 2028""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks plunge on Senate bill’s tax-credit phaseout, but analysts say investors should be happy""]"
-2025-06-17,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""500 Futures Fall in Premarket Trading; Enphase Energy, First Solar Lag"", ""500 Futures Fall in Premarket Trading; Enphase Energy, First Solar Lag""]"
-2025-06-17,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""inventory and softer demand in the U.S. residential solar market, further strained by high interest rate""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Stocks Dive As Senate Bill Keeps Cuts To Solar, Wind Energy Incentives""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Fed Policy-Setting Meeting Begins as US Equity Futures Decline Pre-Bell""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sunrun, First Solar, Enphase Stocks Dive. Senate Wants to End Wind, Solar Tax Credits.""]"
-2025-06-17,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ublicans released a bill that would end clean energy tax credits earlier than expected, dash""]"
-2025-06-17,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""om Monday when Piper Sandler raised its price target for the company. Solar energy stocks, i""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stocks are extending losses in final hour of trading — and its not just about the Middle East conflict""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Green energy stocks stumble, and other early market movers""]"
-2025-06-17,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""bout 40% in morning trading.  Shares of Enphase Energy, First Solar and Array Technologies fel""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Stocks Sink as Senate Maintains Full Removal of Clean-Energy Tax Credits""]"
-2025-06-17,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Stocks Down After Senate Proposes End to Wind, Solar Tax Credits""]"
-2025-06-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Shares of Enphase Energy (ENPH), SolarEdge Technologies (SEDG),""]"
-2025-06-18,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""nate proposed to put an end to wind and solar incentives years earlier than scheduled.""]"
-2025-06-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""US Equity Indexes Drop, Crude Oil Jumps After Trump Calls for Evacuation of Tehran""]"
-2025-06-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase (ENPH) Shares Are Plunging Today"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) fell 27.5% in the morn""]"
-2025-06-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Top Stock Movers Now: Enphase Energy, T-Mobile US, Jabil, and More""]"
-2025-06-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sector Update: Energy Stocks Climb Late Afternoon""]"
-2025-06-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy Stock Is Crashing Today""]"
-2025-06-18,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase (ENPH), SolarEdge (SEDG), First Sola""]"
-2025-06-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Lower Amid Fifth Day of Israel-Iran Conflict""]"
-2025-06-18,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""What D.C. just proposed could reshape clean energy""]"
-2025-06-18,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Podcast: U.S. Stocks Slip as Israel-Iran Conflict Continues""]"
-2025-06-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equities Drop, Oil Jumps Amid Israel-Iran Conflict""]"
-2025-06-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Stock: A Reluctant Buy"", ""Enphase Energy shares declined 75% in the last nine mo""]"
-2025-06-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""st Sophie Karp downgraded Sunrun (RUN), Enphase Energy (ENPH) and SolarEdge (SEDG) to Underwei""]"
-2025-06-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Roku upgraded, Sarepta downgraded: Wall Street’s top analyst calls""]"
-2025-06-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphases New Battery Storage Penetrates Major European Countries"", ""ENPH launches its most powerful IQ Battery 5P with FlexPhase across key solar mark""]"
-2025-06-18,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase, SolarEdge, Sunrun Face Headwinds Fr"", ""Enphase Energy (ENPH), SolarEdge Technologies (SEDG),""]"
-2025-06-18,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""The residential solar sector looks to fight for its survival, as the""]"
-2025-06-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""announcement of its IQ8P-3P™ Commercial Microinverters being selected for significant solar p""]"
-2025-06-19,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sector Update: Energy""]"
-2025-06-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""vestors have brushed off concerns about tariffs.  Enphase Energy tumbled recently on si""]"
-2025-06-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Fell Hard This Week. Here is Why"", ""The share price of Enphase Energy, Inc. (NASDAQ:ENPH) fell by 22.54% betw""]"
-2025-06-20,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Coinbases stock leads the S&P 500s weekly winners list, Enphases tops the losers""]"
-2025-06-20,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy Stock Was Sputtering This Week"", ""t been kind to solar energy stocks, and Enphase Energy (NASDAQ: ENPH) has been caught in the r""]"
-2025-06-20,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy Stock Underperforming the S&P 500?"", ""Enphase Energy has significantly underperformed the S&""]"
-2025-06-21,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Registers a Bigger Fall Than the"", ""Enphase Energy (ENPH) reached $35.85 at the closing of""]"
-2025-06-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Policy Shift Cannot Stop First Solar’s (FSLR) Near-Term Momenum""]"
-2025-06-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc. (ENPH): A Bull Case Theory"", ""We came across a bullish thesis on Enphase Energy, Inc. on Elliot’s Musings’ Substack by""]"
-2025-06-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""lyst Christopher Dendrinos adjusted the price target on Enphase Energy to $28 from $50, whil""]"
-2025-06-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Nosedives 21.38% W/W on Tax Cred"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is one of the Massi""]"
-2025-06-25,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Senate Rethink on Solar Credits Lifts ENPH, RUN, SEDG""]"
-2025-06-25,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase (ENPH) Grows 11% as Senate Reviews C"", ""e 10 Stocks are Stealing the Spotlight. Enphase Energy, Inc. (NASDAQ:ENPH) is one of the stock""]"
-2025-06-25,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""3 Reasons to Avoid ENPH and 1 Stock to Buy Instead"", ""Shareholders of Enphase would probably like to forget the pa""]"
-2025-06-25,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks surge after Senate Republicans hint at tax credit changes""]"
-2025-06-26,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Top Stock Movers Now: Enphase Energy, McCormick, Equinix, and More""]"
-2025-06-26,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ate is reportedly considering retaining clean energy tax credits in the 2026 budget bill.  E""]"
-2025-06-26,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Alger Russell Innovation Index Updates for Second Quarter 2025""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""lity, strong margins, and an attractive valuation. Click here to read an analysis of ENPH""]"
-2025-06-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase (ENPH) Stock Trades Up, Here Is Why"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) jumped 13% in the afte""]"
-2025-06-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""US Equity Markets End Higher Thursday Amid Expectations of 3 Interest-Rate Cuts by Year-End""]"
-2025-06-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Close Higher as Trump Weighs Early Fed Chair Change""]"
-2025-06-27,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Solar stocks climb, Equinixs weak outlook: Trending Tickers"", ""id on the companys weaker-than-expected revenue forecast. The company also announced co""]"
-2025-06-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e.  Enphase is a market leader in solar microinverters, which convert DC electricity produced""]"
-2025-06-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Jumped This Week. Here is Why."", ""The share price of Enphase Energy, Inc. (NASDAQ:ENPH) surged by 18.2% bet""]"
-2025-06-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P Futures Gain on Trade Optimism, U.S. PCE Inflation Data in Focus""]"
-2025-06-27,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Higher Amid Reports of Early Fed Chair Replacement""]"
-2025-06-27,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Stocks Explode Higher After Surprise Tax Credit Revival Talks""]"
-2025-06-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""S&P 500 Gains and Losses Today: Enphase Energy Stock Surges; Equinix Shares Fall""]"
-2025-06-27,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Leads S&P 500 Gainers on Solar Tax Cred"", ""Enphase Energy was the best-performing stock in the S&""]"
-2025-06-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Rise After US, China Trade Deal Confirmation""]"
-2025-06-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500, Nasdaq Close at Record Highs as US, China Confirm Trade Framework""]"
-2025-06-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""tax credits, including pushing their expiration dates to a later date. This followe""]"
-2025-06-28,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Dips While Market Gains: K"", ""In the most recent trading session, Enphase Energy (ENPH) closed at $40.88, indicating a -""]"
-2025-06-28,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase At Rock Bottom: My Contrarian Bet Of"", ""Enphase Energy offers strong long-term potential amid""]"
-2025-06-28,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Close Higher After US-China Agreement on Trade Framework""]"
-2025-06-30,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy, Inc.(NasdaqGM: ENPH) added to Russell"", ""Enphase Energy, Inc. added to Russell 2500 Growth Inde""]"
-2025-06-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Senate budget plan ’very bearish’ for renewables, says Morgan Stanley""]"
-2025-06-30,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Big Beautiful Bill Weighs On Hospitals, Renewables Before Vote; S&P 500 Futures Rise""]"
-2025-06-30,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""k out Yahoo Finances interview with HPE CEO Antonio Neri here. To watch more expert""]"
-2025-06-30,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer on Enphase: “A Roughed Up Solar Company”"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is one of the top 1""]"
-2025-06-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stocks to Watch: Meta, Tesla, Wells Fargo, Boeing""]"
-2025-06-30,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""These Stocks Are Moving the Most Today: Enphase, Tesla, Juniper Networks, Wells Farg"", ""Clean energy stocks Enphase Energy and Sunrun decline after the Senate’s l""]"
-2025-06-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trump’s Megabill Was Supposed to Kill Solar. Why Sunrun, First Solar Stocks Are Rising.""]"
-2025-06-30,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ables Slide as Senate Bill Takes Aim at Clean Energy"", ""ar power, a worse-than-expected jolt to clean energy while providing aid for fossil fuels.Mo""]"
-2025-06-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Renewable energy shares mixed as U.S. Senate preserves some tax credits in Trump bill""]"
-2025-07-01,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""itive changes for some companies in the solar industry, while GMS jumps after reaching an agre""]"
-2025-07-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-01,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""500 Index, as well as the launch of its IQ Battery 5P targeting several European markets.""]"
-2025-07-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Late tweaks to Trump tax bill create green power winners and losers""]"
-2025-07-02,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""SolarEdge Technologies  rose 9.7%, and  Enphase Energy  was up 7.3%.  Shares of  First Solar""]"
-2025-07-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""s (MGM), surge after Macaus June gaming revenue beats expectations. Ford (F) stock gain""]"
-2025-07-02,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""hares in Sunrun Inc. were up about 11%, Enphase Energy Inc. was up about 4% and So""]"
-2025-07-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""year are Deckers Outdoor (NYSE: DECK), Enphase Energy (NASDAQ: ENPH), and UnitedHealth Group""]"
-2025-07-02,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Rallies 5% In June To Close Month At Record High""]"
-2025-07-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase: Big Beautiful Bill Act Triggers Growth Risks - Bottom Not Found""]"
-2025-07-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""What to Expect From Enphase Q2 2025 Earnings Report""]"
-2025-07-02,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Renewables stocks rally as U.S. Senate drops excise tax""]"
-2025-07-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""hase Energy Launches Next-Generation IQ EV Charger 2 In Australia and New Zealand"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-03,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Obvious Losers, Unexpected Winners As Tax Bill Passes Senate""]"
-2025-07-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""rgy (NasdaqGM:ENPH) Expands With New IQ EV Charger Launch In Australia & New Zealand"", ""ecently announced the launch of its IQ® EV Charger 2 in Australia and New Zealand, which i""]"
-2025-07-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Introduces IQ EV Charger 2 in Australia and New Zealand"", ""ENPH begins shipments of its smart IQ EV Charger 2 in Australia and New Zealand, aiming""]"
-2025-07-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Jim Cramer Says Enphase is Now “Basically Untouchable as the"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is one of the stock""]"
-2025-07-04,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Smart Money Buys the Solar Dip""]"
-2025-07-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Close Higher After Better-Than-Expected Jobs Data""]"
-2025-07-04,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Rise After US Job Gains in June Top Estimates""]"
-2025-07-07,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Greater U.S. policy clarity on clean energy may support risk-taking: JPMorgan"", ""as brought long-awaited clarity to U.S. clean energy policy, which could pave the way for re""]"
-2025-07-07,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Clean-Energy Companies Brace for Whiplash From ‘Big, Beautiful Bill’""]"
-2025-07-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""the effect of new Trump administration tariffs.""]"
-2025-07-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stock Market Today: Dow Jones Index Adds To Losses; S&P 500, Nasdaq Struggle (Live Coverage)""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar Stocks Slump on Trump Executive Order Cutting Federal Support""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These Stocks Are Moving the Most Today: Tesla, Amazon, Exxon, Sunrun, Enphase, SoFi, Datadog, and More""]"
-2025-07-08,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Stocks Tumble as Trump Adds to Gloom in Solar Sector""]"
-2025-07-08,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"["". Solar stocks, including SunRun (RUN), Enphase (ENPH), and First Solar (FSLR), are""]"
-2025-07-08,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""↘️ Sunrun (RUN), Enphase Energy (ENPH), First Solar (FSLR): Solar stock""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""New Trump Order Adds to Pressure on Sunrun and Other Renewable-Energy Stocks""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Circle initiated, CoreWeave downgraded: Wall Streets top analyst calls""]"
-2025-07-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-07-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar Could Be A Winner""]"
-2025-07-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Energy to Hold from Buy and slashed its price target to $45 from $58. The firm expressed con""]"
-2025-07-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Top Midday Decliners""]"
-2025-07-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stock Market Today: Dow Retreats While Nasdaq Pulls Ahead; Gold Names Get Clobbered (Live Coverage)""]"
-2025-07-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sector Update: Energy Stocks Climb Late Afternoon""]"
-2025-07-09,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Solar stocks nosedive following surprise White House move""]"
-2025-07-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""the end of 2025 presents a risk to U.S. residential solar demand starting in 2026, TD Cowen analysts say""]"
-2025-07-09,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Clean Energy Stocks Tumble on Solar, Wind Credit Rep""]"
-2025-07-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""power. Stocks including First Solar and Enphase Energy dropped on Tuesday.""]"
-2025-07-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""the industrial metal. ↘️ Sunrun (RUN), Enphase Energy (ENPH), First Solar (FSLR): Solar stock""]"
-2025-07-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Declines More Than Market: Some"", ""the closing of the recent trading day, Enphase Energy (ENPH) stood at $40.94, denoting a -3.5""]"
-2025-07-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""ClearBridge Sustainability Leaders Strategy Q2 2025 Commentary""]"
-2025-07-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Expands IQ EV Charger 2 in Europe with New Markets, Certifica"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Close Higher as FOMC Minutes Reveal Split Views on Rate Cuts""]"
-2025-07-10,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Equity Markets Higher After FOMC Minutes Show Divided Opinion on Rate Cuts""]"
-2025-07-12,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase Energy (ENPH) Dipped More Than Broader Market"", ""Enphase Energy (ENPH) closed the most recent trading d""]"
-2025-07-14,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""2 Cash-Producing Stocks to Target This Week and 1 to Question""]"
-2025-07-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""DoorDash, Southwest downgraded: Wall Streets top analyst calls""]"
-2025-07-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""JP Morgan downgrades solar stocks amid tax credit shift""]"
-2025-07-15,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Reports Next Week: Wall Street Expects Earnings Growth"", ""of the two key ingredients for a likely earnings beat in its upcoming report. Get prepar""]"
-2025-07-15,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Wall Street Lunch: June CPI Shows Tariff Impact On Prices""]"
-2025-07-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e Energy Ups Presence in Europe With IQ EV Charger 2 Expansion"", ""ENPH expands IQ EV Charger 2 shipments across Europe, boosting its""]"
-2025-07-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Begins Shipments of IQ Battery 5P with Higher Domestic Content to Meet"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy is Set to Report Q2 Earnings: Whats in Store?"", ""it from global product rollouts, though tariffs could weigh on margins.""]"
-2025-07-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Earnings live: Second quarter earnings season off to strong start with Tesla, Google on deck""]"
-2025-07-19,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why the Market Dipped But Enphase Energy (ENPH) Gained Today"", ""In the most recent trading session, Enphase Energy (ENPH) closed at $39.58, indicating a +""]"
-2025-07-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""JPMorgan Downgrades Enphase Energy (ENPH) Stock to Neutral"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is one of the Best""]"
-2025-07-19,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""AQ:ENPH) dips a further 5.4% this week, earnings continue to decline""]"
-2025-07-20,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tesla, Alphabet highlight earnings rush as market hovers near record highs: What to know this week""]"
-2025-07-21,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""GEV or ENPH: Which Stock Leads the Green Energy Fut"", ""shines on momentum and contracts, while Enphase offers value and capital efficiency""]"
-2025-07-21,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Earnings live: Verizon, Dominos kick off busy week for second quarter earnings""]"
-2025-07-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Earnings To Watch: Enphase (ENPH) Reports Q2 Res""]"
-2025-07-22,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""urns Bearish on Enphase (ENPH), Slashes Price Target to $32"", ""demand for its solar solutions, falling operating margins, and the […]""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy: Q2 Earnings Snapshot"", ""id it had profit of 28 cents per share. Earnings, adjusted for one-time gains and costs,""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase’s (NASDAQ:ENPH) Q2: Beats On Revenue But Stock Drops"", ""company Enphase (NASDAQ:ENPH) reported revenue ahead of Wall Street’s expectations in""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH) Surpasses Q2 Earnings and Revenue Estimates"", ""Enphase Energy (ENPH) delivered earnings and revenue surprises of +11.29% and +1""]"
-2025-07-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Sees 20% Drop in US Home Solar Market on Tax Credit Loss""]"
-2025-07-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy forecasts third-quarter revenue below estimates, shares fall"", ""rade officials in April finalized steep tariffs on most solar cells imported from South""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy, Inc. (ENPH) Q2 2025 Earnings Call Transcript"", ""hase Energy, Inc. (NASDAQ:ENPH) Q2 2025 Earnings Conference Call July 22, 2025 4:30 PM E""]"
-2025-07-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""k in demand from upcoming tax credit expirations in the United States. Read more on""]"
-2025-07-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Q2: The Worst Appears To Be Over (Upgrade)""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Inc (ENPH) Q2 2025 Earnings Call Highlights: Strong Revenue and Str""]"
-2025-07-23,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""any and the world’s leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Q2 Earnings Beat Estimates, Revenues Rise Y/Y"", ""ENPH tops Q2 estimates with 60.5% EPS growth and 19.7% revenue gain, fueled b""]"
-2025-07-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Slides on Weak Guidance, Tariffs""]"
-2025-07-23,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ENPH: Enphase Energy Shares Sink After Q3 Guidance Falls Short"", ""Enphase Warns on Revenue, Flags Tariff Risks -- Stock Nosedives""]"
-2025-07-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These Stocks Are Moving the Most Today: Tesla, Alphabet, Texas Instruments, AT&T, SAP, Enphase, GE Vernova, Cal-Maine, and More""]"
-2025-07-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase: No Recharge in Sight""]"
-2025-07-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick""]"
-2025-07-23,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Stock Plummets. An Earnings Beat Couldn’t Dispel the Solar Gloom.""]"
-2025-07-23,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ter estimates and raising its full-year outlook. Thermo Fisher Scientific (TMO) topped""]"
-2025-07-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""company provided a weaker-than-expected revenue forecast for the third quarter.""]"
-2025-07-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Top Midday Decliners""]"
-2025-07-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Why Enphase Stock Crashed Today""]"
-2025-07-24,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""CEO Badri Kothandaraman said the company ex""]"
-2025-07-24,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""amb Weston Stock Soars as Volumes Grow; Enphase Energy Falters""]"
-2025-07-24,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ng Product Offering in Europe with IQ8P Microinverter Launch in Italy and Switzerland"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-24,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""ESG Roundup: Market Talk""]"
-2025-07-25,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Did You Already Make This Years Top 6 Stock Mistakes?""]"
-2025-07-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase (ENPH) Tumbles 14% on Weak Q3 Revenue Outlook"", ""vestor sentiment was dampened by a weak revenue outlook for the third quarter of the ye""]"
-2025-07-25,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Results: Enphase Energy, Inc. Beat Earnings Expectations And Analysts Now Have New""]"
-2025-07-28,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""2 Cash-Heavy Stocks on Our Buy List and 1 We Find Risky""]"
-2025-07-28,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Wells Fargo Raises PT on Enphase Energy, Inc. (ENPH) from $42 to $45"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is included in our""]"
-2025-07-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-07-29,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""The 5 Most Interesting Analyst Questions From Enphase’s Q2 Earnings Call""]"
-2025-07-29,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Energy Sector Drags as Oil Prices Weigh on Profits""]"
-2025-07-30,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""nk Enphase Energys (NASDAQ:ENPH) Robust Earnings Are Conservative"", ""rgy, Inc. ( NASDAQ:ENPH ) posted strong earnings, investors appeared to be underwhelmed.""]"
-2025-08-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""First Solar Beats Q2 Earnings Estimates, Raises 25 Sales Guidance""]"
-2025-08-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Could Enphase Energy And SolarEdge Technologies Become The N"", ""Enphase and SolarEdge face short-term headwi""]"
-2025-08-04,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-04,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Stock Outlook: Is Wall Street Bullish or Bearish?"", ""ain hesitant about its long-term growth outlook amid ongoing market and regulatory head""]"
-2025-08-05,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Residential Solar Industry Looks to Cut Costs as End to Tax Credit"", ""d to solar tax credits, the residential solar industry is now looking to lower prices, particu""]"
-2025-08-05,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""re Enphase Energys solid balance sheet, earnings strength, and potential catalysts.""]"
-2025-08-05,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Will Paramount Stay in the S&P 500? Here’s an Update On the Situation.""]"
-2025-08-06,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Japan Gets a Trade Deal; Earnings Season Ramps Up"", ""announced a big trade deal that lowers tariffs to just 15% on imports, and the team di""]"
-2025-08-07,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Sunrun Stock Surges 32%. The Solar Sector Suddenly Looks Brighter.""]"
-2025-08-08,0.92,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ternoon session after its President and CEO, Badrinarayanan Kothandaraman, disclose""]"
-2025-08-10,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e Energy, Inc. (NASDAQ:ENPH), without a price target. Stine showed continued support for the""]"
-2025-08-11,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""hase Energy Continues Global Rollout of IQ Battery 5P with FlexPhase in Australia"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""This Strategy Turned $1,000 Into $90 Million… Here Are 3 Stocks It Now Recommends""]"
-2025-08-13,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Falls 28.2% in Past 3 Months: How to Pl"", ""ENPH shares slump 28.2% in three months amid""]"
-2025-08-13,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""SolarEdge Technologies Q2 Earnings Beat, Revenues Increase Y/Y""]"
-2025-08-13,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (NASDAQ:ENPH) Is Reinvesting At Lower R""]"
-2025-08-14,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Strengthens Battery Storage Footprint Globally"", ""ENPH boosts global reach with IQ Battery expansion, new product launches and str""]"
-2025-08-15,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Introduces Its IQ Battery 5P With FlexPhase in Australia"", ""ENPH launches its IQ Battery 5P with FlexPhase in Australia, aiming""]"
-2025-08-15,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Lennar, D.R. Horton, LGI Homes, Enphase, and EVgo Shares Plummet, What You Need To Know""]"
-2025-08-15,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Clean Energy Stocks Have Jumped. Next Week Could Tes""]"
-2025-08-16,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ar stocks surge after Treasury tightens clean energy tax credit rules"", ""rtment and IRS released new guidance on clean energy project construction requirements for t""]"
-2025-08-16,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""n 0.7%, the sector’s top standouts were Enphase Energy and First Solar.""]"
-2025-08-16,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""company announced the launch of its new IQ Battery 5P with FlexPhase for customers in Aust""]"
-2025-08-18,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Tug Of War: Bulls Vs. Fear""]"
-2025-08-18,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""the US Treasury Department and Internal Revenue Service (IRS) released favorable guidan""]"
-2025-08-19,0.44,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""ance on projects that could qualify for clean energy tax credits that was less restrictive t""]"
-2025-08-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Launches New IQ Battery 5P in Australia, Aligns with Government"", ""hase Energy announced the launch of its IQ Battery 5P with FlexPhase in Australia. This is""]"
-2025-08-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""phase Energy Secures $50 Million In New Revenue From Solar Financing Partnership"", ""pected to bring in about $50 million in revenue. The deal strengthens Enphases role in""]"
-2025-08-19,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-20,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Micro-inverter Industry Set to Achieve $14.5 Billion Market Value by 2029""]"
-2025-08-20,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pected to generate about $50 million in revenue""]"
-2025-08-20,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Clean Energy ETFs Hit a 52-Week High: Heres Why"", ""Clean energy ETFs like ICLN and CTEX surged to 52-we""]"
-2025-08-21,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""hase Energy (ENPH) Down 2.2% Since Last Earnings Report: Can It Rebound?"", ""Enphase Energy (ENPH) reported earnings 30 days ago. Whats next for the stock?""]"
-2025-08-21,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""CoreWeave upgraded, Instacart downgraded: Wall Streets top analyst calls""]"
-2025-08-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-21,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""What To Do With Nine Of The Bottom Performing S&P 500 Stocks""]"
-2025-08-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Renewable energy stocks fall as Trump vows to block wind, solar""]"
-2025-08-22,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase (ENPH) Stock Is Falling Today"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) fell 4.2% in the after""]"
-2025-08-22,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Top Stock Movers Now: Enphase Energy, Zoom, Intuit, and More""]"
-2025-08-22,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Canadian Solar Q2 Earnings Miss Estimates, Revenues Rise Y/Y""]"
-2025-08-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""With valuation no longer excessive and weak growth, fo""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Why Sunrun (RUN) Stock Is Trading Up Today""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Dow Hits Record Highs, Small Caps Soar On Powells Shift: Whats Moving Markets Friday?""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Sector Update: Energy Stocks Rise Friday Afternoon""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""US Equity Indexes Jump as Powells Jackson Hole Speech Sends September Rate-Cut Bets Sharply Higher""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""S&P 500 Set to End Losing Streak, Dow Soars 800 Points After Powell Boosts September Rate-Cut Bets""]"
-2025-08-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase (ENPH) Stock Is Up Today"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) jumped 10.8% in the af""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""US Equity Markets Rise After Powell Hints at Interest Rate Cut in September""]"
-2025-08-23,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Fed Chair Powells Boost for September Rate-Cut Triggers Rally in US Equity Indexes""]"
-2025-08-23,0.36,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""d the central bank could begin trimming interest rates as soon as next month.""]"
-2025-08-23,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""y After 10% Price Jump and Management’s Outlook Update""]"
-2025-08-25,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""securing approximately US$50 million in revenue and broadening its role in the third-pa""]"
-2025-08-26,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""o Hold from Underperform and raised its price target to $36 from $28.""]"
-2025-08-26,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""e Energy and SolarEdge showcase growth, new products and challenges as investors weigh oppo""]"
-2025-08-27,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Ships IQ Battery 10C with U.S. Domestic Content, Deliver"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-08-28,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ftware to Expand IQ7 Solar Systems with IQ8 Microinverters in More Global Markets"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-09-02,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Introduces Next-Generation Battery Syst"", ""Enphase Energy Inc. (NASDAQ:ENPH) is among the 11 Best""]"
-2025-09-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Quarterly earnings results are a good time to check in on""]"
-2025-09-03,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""rofit-taking and renewed concerns about tariffs.""]"
-2025-09-04,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: I Was Wrong, Updating My Bullish Th"", ""Enphase looks set for many quarters of strug""]"
-2025-09-04,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy is one of the worst stocks to own in Se""]"
-2025-09-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""AppLovin, Robinhood Markets and Emcor Group Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400 and S&P SmallCap 600""]"
-2025-09-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood, AppLovin Additions Lead S&P 500 Index Changes""]"
-2025-09-06,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""AppLovin, Robinhood To Join S&P 500. The Stocks Are Jumping.""]"
-2025-09-07,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood and AppLovin to join the S&P 500, sending shares soaring""]"
-2025-09-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pens U.S. Pre-Orders for IQ9 Commercial Microinverters with GaN, Built for 480 V Three-Phase"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-09-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Uber to Replace Charter Communications in S&P 100; AppLovin, Robinhood, Emcor to Join S&P 500""]"
-2025-09-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood, AppLovin, and Emcor Stocks Trade Higher on News of S&P 500 Inclusion""]"
-2025-09-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Trending tickers: Robinhood, Tesla, Alibaba, BP and Marks & Spencer""]"
-2025-09-08,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood stock rallies, hits record with company set to join S&P 500""]"
-2025-09-08,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood, AppLovin Stocks Surge. This Is Driving Them Higher.""]"
-2025-09-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Robinhood (HOOD) Stock Trades Up, Here Is Why""]"
-2025-09-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Starts US Pre-Orders for IQ9 Commercial Microinverters With GaN"", "". pre-orders for its IQ9N-3P Commercial Microinverter to boost efficiency and cut installatio""]"
-2025-09-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ase Energy Unveils New IQ Bidirectional EV Charger Architecture for Home Backup and Grid S"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-09-09,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Drops Despite Market Gains"", ""In the latest trading session, Enphase Energy (ENPH) closed at $38.81, marking a -2.1""]"
-2025-09-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""These Stocks Moved the Most Today: AppLovin, Robinhood, Broadcom, Tesla, EchoStar, Planet Labs, QuantumScape, and More""]"
-2025-09-09,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why Enphase (ENPH) Shares Are Trading Lower Toda"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) fell 4.3% in the after""]"
-2025-09-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""unch of a new, technologically advanced microinverter for the commercial solar market.""]"
-2025-09-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Why Is AppLovin (APP) Stock Rocketing Higher Today""]"
-2025-09-09,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Top Midday Stories: PNC Acquires FirstBank for $4.10 Billion; EchoStar Sells Spectrum Licenses to SpaceX for $17 Billion""]"
-2025-09-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Hillman and Enphase Shares Plummet, What You Need To Know""]"
-2025-09-10,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stock Picks From Seeking Alphas August 2025 New Analysts""]"
-2025-09-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Energy Introduces New IQ Bidirectional EV Charger Model"", ""ENPH launches its IQ Bidirectional EV Charger, blending home backup, grid support and""]"
-2025-09-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Opens Pre-Orders for Next-Generation IQ EV Charger 2 in the United States"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-09-12,0.06,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Dear AppLovin Stock Fans, Mark Your Calendars for September 22""]"
-2025-09-12,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ompany opened pre-orders for its new IQ EV Charger 2 and unveiled its IQ Bidirectional EV""]"
-2025-09-16,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""AQR Capital Expands Enphase Energy, Inc. (ENPH) Holdings to 0.53%"", ""Enphase Energy, Inc. (NASDAQ:ENPH) is among the most u""]"
-2025-09-17,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ase Energy (ENPH) stocks profitability, valuation, and future demand insights. Learn if E""]"
-2025-09-17,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Gains As Market Dips: What You S"", ""the closing of the recent trading day, Enphase Energy (ENPH) stood at $38.99, denoting a +2.6""]"
-2025-09-18,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-09-19,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""3 Reasons to Sell ENPH and 1 Stock to Buy Instead"", ""Shareholders of Enphase would probably like to forget the pa""]"
-2025-09-19,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Enphase Expands Solargraf Platform With Financing, AI, and Japan Launch""]"
-2025-09-19,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Is Enphase Energy Stock Underperforming the Nasdaq?"", ""Enphase Energy has significantly underperformed the Na""]"
-2025-09-21,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Assessing Enphase Energy (ENPH) Valuation After Recent Momentum Catches Investor"", ""hat to do next, the conversation around valuation and market expectations grows louder. T""]"
-2025-09-22,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""s Pre-Orders for Its Next-Generation IQ EV Charger 2"", ""d pre-orders for its next-generation IQ EV Charger 2. Shipments, meanwhile, are expected t""]"
-2025-09-23,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase (ENPH) Shares Skyrocket, What You Ne"", ""hares of home energy technology company Enphase (NASDAQ:ENPH) jumped 5.4% in the aft""]"
-2025-09-24,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Sees a More Significant Dip Than"", ""In the latest trading session, Enphase Energy (ENPH) closed at $37.36, marking a -7.7""]"
-2025-09-24,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ng on the stock, even while raising the price target. The analyst, Gordon Johnson, held firm""]"
-2025-09-25,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Gains As Market Dips: What You S"", ""Enphase Energy (ENPH) reached $37.99 at the closing of""]"
-2025-09-29,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""inancing integrations and international expansion. Independent validation from the Nation""]"
-2025-09-30,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""1 Cash-Producing Stock Worth Your Attention and 2 We Brush Off""]"
-2025-10-01,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Stock Drops Despite Market Gains"", ""The latest trading day saw Enphase Energy (ENPH) settling at $35.39, representing""]"
-2025-10-01,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""1 Profitable Stock with Exciting Potential and 2 We Find Risky""]"
-2025-10-02,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Jefferies Raises Its Price Target for Enphase Energy Inc. (ENPH) to $41.0"", ""eptember 29, 2025, Jefferies raised its price target for Enphase Energy Inc. (NASDAQ:ENPH) f""]"
-2025-10-02,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-10-03,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Ready for a Turnaround After Q1 Earnings and Recent Stock Rebound?""]"
-2025-10-03,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy (ENPH) Rises Higher Than Market: Key Fa"", ""Enphase Energy (ENPH) reached $37.73 at the closing of""]"
-2025-10-06,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy Launches IQ Battery 5P with FlexPhase in India, Enabling Si"", ""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-10-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, announ""]"
-2025-10-07,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: More Pain In 2026 - Structural Risk"", ""ENPH faces significant headwinds from U.S. p""]"
-2025-10-07,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Launches New IQ Battery 5P With FlexPhase for Indian Market"", ""Enphase Energy has launched its IQ Battery 5P with FlexPhase in India, enabling bo""]"
-2025-10-07,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase: Risk Growing As Tesla May Control T"", ""Enphase faces challenges from rising rates,""]"
-2025-10-08,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""Enphase Energy (ENPH): Evaluating Valuation After FlexPhase Storage Launch Targets"", ""nphase Energy (ENPH) is rolling out its IQ Battery 5P with FlexPhase in India, targeting t""]"
-2025-10-08,0.34,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Energy Inc. (ENPH): Analyst Says Prospects for"", ""Enphase Energy Inc. (NASDAQ:ENPH) is included among th""]"
-2025-10-09,0.86,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""ct From Enphase Energy’s Next Quarterly Earnings Report"", ""all geared to release its third-quarter earnings later this month, and analysts expect i""]"
-2025-10-09,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""pany and the worlds leading supplier of microinverter-based solar and battery systems, today""]"
-2025-10-10,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Enphase Expands Smart Energy Management to W"", ""Enphase Energy extends its IQ® Energy Management platf""]"
-2025-10-10,0.48,Indirectly Related,Mentions enphase energy or sector/peer factors with plausible but weaker near-term impact on enphase energy.,"[""Why the Market Dipped But Enphase Energy (ENPH) Gained Today"", ""The latest trading day saw Enphase Energy (ENPH) settling at $36.71, representing""]"
-2025-10-10,0.75,Directly Related,"Article contains company-specific, near-term catalyst (earnings/regulatory/transaction) likely to move enphase energy next week.","[""tric water heaters, enhancing AI-driven smart home energy use across Europe.""]"
-2025-10-11,0.12,Unrelated,General market or unrelated content with no expected near-term effect on enphase energy.,"[""Stanley Black & Decker, Enphase, and EVgo Shares Are Falling, What You Need To Know""]"
+date,relevance
+2024-10-18,1.0
+2024-10-18,1.0
+2024-10-19,1.0
+2024-10-21,1.0
+2024-10-22,0.2
+2024-10-22,1.0
+2024-10-22,0.5
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,0.0
+2024-10-23,1.0
+2024-10-23,0.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,0.8
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,1.0
+2024-10-23,0.0
+2024-10-24,1.0
+2024-10-24,0.7
+2024-10-24,1.0
+2024-10-25,1.0
+2024-10-26,1.0
+2024-10-26,0.0
+2024-10-27,1.0
+2024-10-27,1.0
+2024-10-28,0.0
+2024-10-29,1.0
+2024-10-30,0.5
+2024-10-30,0.5
+2024-10-31,0.0
+2024-11-01,1.0
+2024-11-01,1.0
+2024-11-04,1.0
+2024-11-05,0.0
+2024-11-05,0.0
+2024-11-06,0.0
+2024-11-06,0.0
+2024-11-06,0.0
+2024-11-06,0.0
+2024-11-06,0.8
+2024-11-07,0.0
+2024-11-07,0.5
+2024-11-07,0.5
+2024-11-07,0.5
+2024-11-08,0.5
+2024-11-09,1.0
+2024-11-09,1.0
+2024-11-09,1.0
+2024-11-09,1.0
+2024-11-10,1.0
+2024-11-11,1.0
+2024-11-12,1.0
+2024-11-12,0.7999999999999999
+2024-11-12,0.0
+2024-11-13,1.0
+2024-11-13,1.0
+2024-11-15,0.0
+2024-11-16,0.0
+2024-11-16,1.0
+2024-11-16,1.0
+2024-11-18,1.0
+2024-11-18,0.0
+2024-11-19,1.0
+2024-11-19,0.5
+2024-11-20,1.0
+2024-11-21,1.0
+2024-11-22,1.0
+2024-11-22,1.0
+2024-11-26,0.0
+2024-11-27,0.0
+2024-11-28,1.0
+2024-11-29,1.0
+2024-11-30,0.0
+2024-12-02,1.0
+2024-12-03,1.0
+2024-12-03,0.0
+2024-12-03,0.0
+2024-12-04,0.0
+2024-12-04,1.0
+2024-12-05,1.0
+2024-12-06,0.5
+2024-12-07,1.0
+2024-12-08,0.0
+2024-12-09,1.0
+2024-12-09,0.0
+2024-12-10,0.0
+2024-12-10,0.0
+2024-12-10,0.0
+2024-12-10,1.0
+2024-12-11,1.0
+2024-12-12,0.0
+2024-12-12,1.0
+2024-12-12,0.7999999999999999
+2024-12-13,0.4
+2024-12-13,1.0
+2024-12-14,1.0
+2024-12-16,1.0
+2024-12-17,1.0
+2024-12-17,0.0
+2024-12-17,1.0
+2024-12-17,1.0
+2024-12-18,1.0
+2024-12-18,1.0
+2024-12-18,1.0
+2024-12-18,0.0
+2024-12-19,1.0
+2024-12-21,0.0
+2024-12-21,1.0
+2024-12-21,1.0
+2024-12-23,1.0
+2024-12-24,0.0
+2024-12-25,1.0
+2024-12-25,0.9999999999999999
+2024-12-27,0.0
+2024-12-28,0.4
+2024-12-29,1.0
+2024-12-29,1.0
+2024-12-30,1.0
+2024-12-30,0.7999999999999999
+2024-12-31,0.19999999999999996
+2024-12-31,0.8
+2025-01-02,1.0
+2025-01-04,1.0
+2025-01-06,1.0
+2025-01-06,1.0
+2025-01-07,1.0
+2025-01-07,0.4
+2025-01-07,1.0
+2025-01-08,1.0
+2025-01-09,1.0
+2025-01-11,1.0
+2025-01-13,1.0
+2025-01-13,1.0
+2025-01-13,0.0
+2025-01-16,1.0
+2025-01-17,1.0
+2025-01-20,1.0
+2025-01-21,1.0
+2025-01-23,1.0
+2025-01-24,1.0
+2025-01-27,1.0
+2025-01-30,0.5
+2025-01-30,1.0
+2025-02-03,1.0
+2025-02-05,1.0
+2025-02-05,1.0
+2025-02-05,1.0
+2025-02-05,1.0
+2025-02-05,0.0
+2025-02-05,1.0
+2025-02-06,1.0
+2025-02-07,0.0
+2025-02-07,1.0
+2025-02-07,1.0
+2025-02-13,1.0
+2025-02-14,0.0
+2025-02-20,0.5
+2025-02-21,0.5
+2025-02-22,1.0
+2025-02-24,1.0
+2025-02-26,1.0
+2025-02-27,1.0
+2025-03-01,0.7999999999999999
+2025-03-02,1.0
+2025-03-03,1.0
+2025-03-04,1.0
+2025-03-04,0.0
+2025-03-04,1.0
+2025-03-04,0.0
+2025-03-05,0.0
+2025-03-06,1.0
+2025-03-06,0.0
+2025-03-06,1.0
+2025-03-06,1.0
+2025-03-07,0.0
+2025-03-07,0.5
+2025-03-09,1.0
+2025-03-10,1.0
+2025-03-11,1.0
+2025-03-11,0.0
+2025-03-12,0.0
+2025-03-14,1.0
+2025-03-18,0.0
+2025-03-18,1.0
+2025-03-20,1.0
+2025-03-21,0.0
+2025-03-23,0.7999999999999999
+2025-03-25,1.0
+2025-03-25,1.0
+2025-03-25,0.0
+2025-03-26,1.0
+2025-03-26,0.7999999999999999
+2025-03-26,1.0
+2025-03-26,0.0
+2025-03-27,1.0
+2025-03-27,0.0
+2025-03-28,0.0
+2025-04-01,1.0
+2025-04-01,0.2
+2025-04-02,1.0
+2025-04-03,0.7999999999999999
+2025-04-03,1.0
+2025-04-04,1.0
+2025-04-04,0.5
+2025-04-05,0.7999999999999999
+2025-04-06,1.0
+2025-04-07,1.0
+2025-04-08,0.5
+2025-04-08,1.0
+2025-04-08,1.0
+2025-04-09,1.0
+2025-04-09,0.7999999999999999
+2025-04-11,0.8
+2025-04-15,1.0
+2025-04-17,1.0
+2025-04-17,1.0
+2025-04-17,0.7999999999999999
+2025-04-18,1.0
+2025-04-18,1.0
+2025-04-18,1.0
+2025-04-21,1.0
+2025-04-21,0.7999999999999999
+2025-04-21,0.5
+2025-04-22,0.5
+2025-04-23,1.0
+2025-04-23,0.0
+2025-04-23,1.0
+2025-04-23,0.0
+2025-04-23,0.8
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-23,0.0
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-23,0.7999999999999999
+2025-04-23,0.0
+2025-04-23,1.0
+2025-04-23,1.0
+2025-04-23,0.0
+2025-04-24,1.0
+2025-04-24,0.8
+2025-04-24,1.0
+2025-04-24,0.0
+2025-04-24,0.0
+2025-04-24,0.4
+2025-04-24,1.0
+2025-04-24,1.0
+2025-04-24,1.0
+2025-04-25,1.0
+2025-04-26,1.0
+2025-04-28,1.0
+2025-04-28,0.4
+2025-04-28,0.5
+2025-04-28,1.0
+2025-04-28,1.0
+2025-04-29,0.5
+2025-05-01,1.0
+2025-05-02,0.0
+2025-05-02,1.0
+2025-05-05,1.0
+2025-05-05,0.8
+2025-05-06,0.0
+2025-05-07,1.0
+2025-05-08,1.0
+2025-05-10,0.0
+2025-05-12,1.0
+2025-05-12,1.0
+2025-05-13,1.0
+2025-05-13,0.0
+2025-05-13,1.0
+2025-05-14,1.0
+2025-05-14,1.0
+2025-05-14,1.0
+2025-05-15,1.0
+2025-05-18,0.5
+2025-05-19,1.0
+2025-05-20,0.0
+2025-05-20,0.4
+2025-05-21,0.0
+2025-05-21,0.8
+2025-05-21,0.0
+2025-05-21,0.6
+2025-05-22,0.0
+2025-05-22,1.0
+2025-05-22,0.8
+2025-05-22,0.0
+2025-05-22,1.0
+2025-05-22,0.0
+2025-05-22,0.0
+2025-05-22,0.0
+2025-05-22,0.0
+2025-05-22,0.0
+2025-05-23,1.0
+2025-05-23,0.0
+2025-05-23,0.8
+2025-05-23,1.0
+2025-05-24,0.0
+2025-05-24,0.2
+2025-05-25,1.0
+2025-05-26,1.0
+2025-05-28,0.0
+2025-05-28,1.0
+2025-05-29,1.0
+2025-05-30,1.0
+2025-06-02,0.0
+2025-06-02,0.0
+2025-06-02,0.0
+2025-06-03,0.0
+2025-06-04,1.0
+2025-06-05,1.0
+2025-06-06,1.0
+2025-06-09,0.0
+2025-06-10,0.0
+2025-06-10,1.0
+2025-06-11,0.0
+2025-06-11,0.0
+2025-06-16,0.0
+2025-06-16,1.0
+2025-06-17,0.4
+2025-06-17,0.8
+2025-06-17,0.0
+2025-06-17,0.5
+2025-06-17,0.0
+2025-06-17,1.0
+2025-06-17,0.0
+2025-06-17,0.0
+2025-06-17,0.0
+2025-06-17,1.0
+2025-06-17,0.0
+2025-06-17,0.0
+2025-06-17,1.0
+2025-06-18,1.0
+2025-06-18,0.0
+2025-06-18,1.0
+2025-06-18,1.0
+2025-06-18,0.0
+2025-06-18,0.6
+2025-06-18,0.0
+2025-06-18,1.0
+2025-06-18,0.0
+2025-06-18,0.0
+2025-06-18,0.0
+2025-06-18,0.0
+2025-06-18,0.0
+2025-06-18,0.4
+2025-06-18,1.0
+2025-06-19,0.4
+2025-06-19,0.0
+2025-06-19,1.0
+2025-06-20,1.0
+2025-06-20,0.0
+2025-06-21,1.0
+2025-06-22,0.5
+2025-06-24,1.0
+2025-06-24,1.0
+2025-06-25,0.0
+2025-06-25,0.2
+2025-06-25,1.0
+2025-06-26,1.0
+2025-06-26,1.0
+2025-06-26,0.0
+2025-06-27,1.0
+2025-06-27,0.0
+2025-06-27,1.0
+2025-06-27,0.0
+2025-06-27,1.0
+2025-06-27,0.0
+2025-06-27,0.9
+2025-06-28,0.0
+2025-06-28,1.0
+2025-06-28,0.0
+2025-06-30,0.7999999999999999
+2025-06-30,0.0
+2025-06-30,0.0
+2025-06-30,1.0
+2025-06-30,0.0
+2025-06-30,0.0
+2025-06-30,0.4
+2025-06-30,0.0
+2025-06-30,1.0
+2025-06-30,0.0
+2025-07-01,0.0
+2025-07-01,0.2
+2025-07-01,1.0
+2025-07-02,1.0
+2025-07-02,1.0
+2025-07-02,0.0
+2025-07-02,0.8
+2025-07-02,0.4
+2025-07-02,0.19999999999999996
+2025-07-02,0.0
+2025-07-02,0.4
+2025-07-02,0.9
+2025-07-03,0.4
+2025-07-04,0.0
+2025-07-04,0.0
+2025-07-04,1.0
+2025-07-04,0.0
+2025-07-07,0.0
+2025-07-07,0.0
+2025-07-08,1.0
+2025-07-08,0.0
+2025-07-08,0.0
+2025-07-08,0.6
+2025-07-08,0.4
+2025-07-08,0.0
+2025-07-08,0.8
+2025-07-08,0.0
+2025-07-08,0.0
+2025-07-08,1.0
+2025-07-08,1.0
+2025-07-09,0.0
+2025-07-09,1.0
+2025-07-09,0.2
+2025-07-09,0.4
+2025-07-09,0.8
+2025-07-09,0.6
+2025-07-09,0.0
+2025-07-10,1.0
+2025-07-10,0.0
+2025-07-10,0.0
+2025-07-14,0.5
+2025-07-15,0.2
+2025-07-15,1.0
+2025-07-15,0.0
+2025-07-15,0.0
+2025-07-16,1.0
+2025-07-17,1.0
+2025-07-18,1.0
+2025-07-19,1.0
+2025-07-19,0.5
+2025-07-19,1.0
+2025-07-19,0.9999999999999999
+2025-07-20,0.5
+2025-07-21,0.5
+2025-07-21,1.0
+2025-07-21,1.0
+2025-07-22,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,0.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,0.8
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-23,1.0
+2025-07-24,1.0
+2025-07-24,0.8
+2025-07-24,1.0
+2025-07-24,1.0
+2025-07-24,1.0
+2025-07-25,0.0
+2025-07-28,0.7999999999999999
+2025-07-28,0.0
+2025-07-29,0.5
+2025-07-29,1.0
+2025-07-29,1.0
+2025-07-30,1.0
+2025-08-01,0.5
+2025-08-04,1.0
+2025-08-04,1.0
+2025-08-04,0.7999999999999999
+2025-08-05,1.0
+2025-08-05,0.2
+2025-08-05,1.0
+2025-08-06,0.9
+2025-08-06,0.0
+2025-08-07,0.7
+2025-08-08,1.0
+2025-08-10,0.9999999999999999
+2025-08-11,1.0
+2025-08-11,0.0
+2025-08-13,0.5
+2025-08-13,1.0
+2025-08-13,1.0
+2025-08-14,1.0
+2025-08-15,0.4
+2025-08-15,0.0
+2025-08-16,0.4
+2025-08-16,0.5
+2025-08-18,0.9
+2025-08-18,0.0
+2025-08-19,0.5
+2025-08-19,1.0
+2025-08-19,1.0
+2025-08-20,0.0
+2025-08-20,0.09999999999999998
+2025-08-21,0.0
+2025-08-21,1.0
+2025-08-21,0.0
+2025-08-22,1.0
+2025-08-22,0.5
+2025-08-22,1.0
+2025-08-22,0.0
+2025-08-22,1.0
+2025-08-23,1.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-23,0.0
+2025-08-25,1.0
+2025-08-26,1.0
+2025-08-27,1.0
+2025-08-28,1.0
+2025-09-02,0.7999999999999999
+2025-09-03,1.0
+2025-09-04,1.0
+2025-09-04,0.4
+2025-09-06,0.0
+2025-09-06,0.0
+2025-09-07,0.0
+2025-09-08,0.0
+2025-09-08,0.0
+2025-09-08,1.0
+2025-09-08,0.0
+2025-09-08,0.0
+2025-09-08,0.0
+2025-09-08,0.0
+2025-09-09,0.7999999999999999
+2025-09-09,1.0
+2025-09-09,1.0
+2025-09-09,0.0
+2025-09-09,0.0
+2025-09-09,0.0
+2025-09-10,0.8
+2025-09-10,0.0
+2025-09-12,0.0
+2025-09-16,0.7999999999999999
+2025-09-17,1.0
+2025-09-17,1.0
+2025-09-18,1.0
+2025-09-19,1.0
+2025-09-19,1.0
+2025-09-19,1.0
+2025-09-21,1.0
+2025-09-22,1.0
+2025-09-24,1.0
+2025-09-29,0.7999999999999999
+2025-09-30,0.0
+2025-10-01,0.0
+2025-10-02,1.0
+2025-10-02,1.0
+2025-10-03,1.0
+2025-10-06,1.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-07,1.0
+2025-10-08,1.0
+2025-10-09,1.0
+2025-10-09,1.0
+2025-10-11,0.8

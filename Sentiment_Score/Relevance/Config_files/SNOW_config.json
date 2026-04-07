@@ -3,30 +3,28 @@
     "snowflake",
     "snowflake inc",
     "snow",
-    "snow stock",
-    "snowflake nyse",
-    "ai data cloud",
-    "data cloud company"
+    "nyse:snow",
+    "sridhar ramaswamy",
+    "frank slootman",
+    "berkshire hathaway"
   ],
 
   "products": [
-    "data cloud",
-    "ai data cloud",
-    "snowflake marketplace",
+    "snowflake data cloud",
     "snowpark",
     "snowflake cortex",
-    "snowflake intelligence",
+    "snowflake arctic",
+    "document ai",
+    "polaris catalog",
+    "horizon",
     "dynamic tables",
     "hybrid tables",
-    "unistore",
-    "openflow",
-    "zero copy integration",
     "iceberg tables",
-    "anthropic partnership",
-    "claude models",
-    "power platform connector",
-    "datavolo acquisition",
-    "open data integration platform"
+    "unistore",
+    "snowflake marketplace",
+    "zero copy integration",
+    "native apps",
+    "streamlit"
   ],
 
   "direct_keywords": [
@@ -43,41 +41,23 @@
     "guidance",
     "outlook",
     "forecast",
-    "quarter",
     "full year",
-
     "ai monetization",
-    "genai",
     "ai workloads",
-    "ai agents",
-    "cortex ai",
-    "ai platform",
-
-    "product launch",
     "platform update",
-    "investor day",
-    "conference call",
-
+    "product launch",
     "acquisition",
     "merger",
     "partnership",
     "strategic collaboration",
-
-    "ceo",
-    "cfo",
-    "management commentary",
-
+    "investor day",
+    "conference call",
+    "earnings call",
     "guidance raise",
-    "revenue beat",
-    "q3 earnings",
-    "build conference",
-    "claude 3.5",
-    "cross-cloud collaboration",
-    "data sharing",
-    "ai-driven insights",
-    "private preview",
-    "bronze layer",
-    "multimodal data pipelines"
+    "guidance update",
+    "quarterly report",
+    "ceo",
+    "cfo"
   ],
 
   "indirect_keywords": [
@@ -85,46 +65,45 @@
     "data infrastructure",
     "enterprise software",
     "analytics platform",
+    "data warehouse",
+    "data lakehouse",
     "machine learning",
+    "enterprise ai",
     "ai applications",
-
+    "generative ai",
+    "cloud spending",
+    "enterprise it budgets",
     "hyperscaler",
     "aws",
     "microsoft azure",
     "google cloud",
-
     "databricks",
     "oracle",
-    "palantir",
     "mongodb",
-
+    "palantir",
     "open source",
     "apache iceberg",
-    "lakehouse",
-
-    "enterprise spending",
-    "it budgets",
-
-    "sustainability",
-    "esg",
-
-    "generative ai",
     "ai adoption",
-    "ai product initiatives",
-    "data mesh",
-    "data lakehouse",
-    "data warehouse",
-    "predictive analytics",
-    "enterprise ai",
-    "sovereign ai",
-    "ai safety",
-    "ai models",
     "ai ecosystem",
-    "ai conference",
-    "ai news",
-    "ai headlines",
-    "ai-driven growth",
-    "ai-driven business solutions"
+    "ai competition"
+  ],
+
+  "macro_keywords": [
+    "interest rates",
+    "rate hike",
+    "rate cut",
+    "inflation",
+    "cpi",
+    "ppi",
+    "gdp",
+    "macroeconomic",
+    "it spending slowdown",
+    "enterprise spending slowdown",
+    "market-wide",
+    "broad market",
+    "risk sentiment",
+    "equity markets",
+    "global economy"
   ],
 
   "low_signal_phrases": [
@@ -132,40 +111,20 @@
     "morning brief",
     "top stocks",
     "stocks to buy",
+    "best stocks",
     "week ahead",
     "price target",
     "analyst rating",
-    "stock pops",
-    "shares surge",
-    "wall street",
-    "earnings preview",
-    "investor conference",
-    "market action",
-    "buy/sell/hold",
-    "q3 call",
-    "transcript",
-    "presentation",
-    "results",
-    "financial results",
     "technical analysis",
     "chart pattern",
-    "price action only",
-    "opinion only",
-    "blog post",
-    "podcast episode",
-    "social media buzz"
-  ],
-    "positive_keywords": [
-    "beats expectations","eps beats","beats on","beat estimates","beats estimates","raises guidance","raised guidance","in line annual profit","forecast annual profit in line","profit jumps","surpass expectations",
-    "approval","approved","clears","receives ce mark","receives ce-mark","ce mark","ce-mark","authorized","authorization","reimbursed","wins","win","verdict","not liable","not responsible","lawsuit win",
-    "partnership","collaborat","integrat","price target raised","overweight rating","outperform rating","buy rating","upgraded","upgrade","initiates trial","initiated trial","new trial","data shows","positive data","strong growth","margin expansion","expands","expansion","first-in-world",
-    "dividend increase","increases dividend","raised dividend","declares dividend","quarterly dividend","strong demand","launch","launches","invest","investment","investing","host conference call for earnings","guidance met","maintains guidance","maintained guidance","maintains outlook","reaffirms guidance",
-    "first patient procedures","first-of-its-kind","first in the world","wins fda nod","wins fda approval","fda approves","fda cleared","fda clears","health canada","cms coverage","coverage"
-  ],
-  "negative_keywords": [
-    "misses","miss","declines","cuts","cut guidance","guidance cut","downgraded","downgrade","lawsuit","penalty","penalties","probe","investigation","retrial","new trial could be heard","judge ordered a new trial","overturned verdict","recall","halt","block","short seller","pricing pressure","margin declines","inventory issues","restatement","under investigation","tariff","tariffs","costs","hit from china","weaker-than-expected","sinks","plummeted","falls","fell","drops","dropped","declines while market gains","stock sinks","stock drops","profit falls","revenue falls","forecasts below","below expectations","outlook cut","narrows outlook","lowers outlook","lowered outlook","ban","banned"
-  ],
-  "price_move_keywords": [
-    "stock underperforms","stock outperforms","stock rises","stock falls","trading day","marketwatch","roundup","premarket movers","health care roundup","gains and losses today","trending tickers","market minute"
+    "stock forecast",
+    "wall street",
+    "opinion",
+    "commentary",
+    "blog",
+    "podcast",
+    "investor presentation",
+    "conference presentation",
+    "earnings preview"
   ]
 }
