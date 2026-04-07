@@ -15,7 +15,7 @@ def sample_stratified(input_path, output_path, n_total, random_seed=42):
     df['date'] = pd.to_datetime(df['date'])
     df['temp_month'] = df['date'].dt.to_period('M')
 
-    # ✅ Handle small dataset case
+    # Handle small dataset case
     if n_total >= len(df):
         print(f"Requested {n_total}, but dataset has only {len(df)} rows.")
         df.drop(columns=['temp_month']).to_csv(output_path, index=False)
@@ -89,7 +89,7 @@ def main():
         ("LLY", 1000),
         ("META", 1000),
         ("NEE", 1000),
-        ("NVO", 1000),
+        ("NVO", 1200),
         ("PLUG", 1000),
         ("SNOW", 1000),
         ("TSLA", 1000)

@@ -71,12 +71,7 @@ def build_model(train_csv_path: str):
     # =========================
     # Label mapping (-1,0,1 → 0,1,2)
     # =========================
-    label_map = {
-        -1: 0,
-         0: 1,
-         1: 2
-    }
-
+    label_map = {-1: 0, 0: 1, 1: 2}
     df["labels"] = df["directional_sentiment"].map(label_map)
 
     if df["labels"].isna().any():
@@ -84,6 +79,9 @@ def build_model(train_csv_path: str):
 
     df["labels"] = df["labels"].astype(int)
 
+    # =========================
+    # Create Dataset (ONCE)
+    # =========================
     dataset = Dataset.from_pandas(df[["text", "labels"]])
 
     # =========================
@@ -110,15 +108,14 @@ def build_model(train_csv_path: str):
 
     dataset = dataset.map(tokenize_function, batched=True)
 
-    # remove raw text column (important for Trainer stability)
+    # =========================
+    # Remove raw text & set format
+    # =========================
     dataset = dataset.remove_columns(["text"])
-    dataset = dataset.train_test_split(test_size=0.1)
-
-    dataset["train"].set_format("torch")
-    dataset["test"].set_format("torch")
+    dataset.set_format("torch")
 
     # =========================
-    # Data collator (important for padding)
+    # Data collator
     # =========================
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
@@ -129,7 +126,6 @@ def build_model(train_csv_path: str):
         output_dir="./finbert_model",
         per_device_train_batch_size=8,
         num_train_epochs=3,
-        logging_dir="./logs",
         save_strategy="no",
         report_to="none"
     )
@@ -140,8 +136,7 @@ def build_model(train_csv_path: str):
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=dataset["train"],
-        eval_dataset=dataset["test"],
+        train_dataset=dataset,
         tokenizer=tokenizer,
         data_collator=data_collator,
     )
@@ -235,7 +230,7 @@ def run_single_ticker(processed_dir, outputs_dir, train_dir, ticker):
 
     print(f"Predicting for {ticker}...")
 
-    # ✅ DIRECT DATAFRAME (no CSV write/read)
+    #  DIRECT DATAFRAME (no CSV write/read)
     result_df = predict_for_file(
         model,
         tokenizer,

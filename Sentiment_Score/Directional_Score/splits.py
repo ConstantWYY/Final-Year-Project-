@@ -1,7 +1,7 @@
 """
 Usage:
 Default: python Sentiment_Score/Directional_Score/splits.py
-Custom: python Sentiment_Score/Directional_Score/splits.py --ticker ABT --chunk_size 50
+Custom: python Sentiment_Score/Directional_Score/splits.py --ticker ABT --chunk_size 100
 """
 
 import argparse
@@ -14,30 +14,30 @@ def split_csv(input_csv, chunk_size=100):
     ticker = base.split('_')[0]
 
     df = pd.read_csv(input_csv)
-    # Remove 'date' and 'source' columns if they exist
-    for col in ['date', 'source']:
-        if col in df.columns:
-            df = df.drop(columns=[col])
-    # Combine 'headline' and 'summary' into a new 'text' column
-    if 'headline' in df.columns and 'summary' in df.columns:
-        df['text'] = df['headline'].astype(str) + ' ' + df['summary'].astype(str)
-        df = df.drop(columns=['headline', 'summary'])
-    total_rows = len(df)
+    # Ensure 'date', 'headline', 'summary' columns exist
+    if not all(col in df.columns for col in ['date', 'headline', 'summary']):
+        raise ValueError("Input CSV must contain 'date', 'headline', and 'summary' columns.")
+
+    # Use row number as 'index' (starting from 1)
+    out_df = pd.DataFrame({
+        'index': range(1, len(df) + 1),
+        'date': df['date'],
+        'headline+summary': df['headline'].astype(str) + ' ' + df['summary'].astype(str)
+    })
+
+    total_rows = len(out_df)
     num_chunks = (total_rows + chunk_size - 1) // chunk_size
 
     output_dir = os.path.join(os.path.dirname(__file__), "Directional_Sample_Split")
     os.makedirs(output_dir, exist_ok=True)
 
-    current_number = 1
     for i in range(num_chunks):
         start = i * chunk_size
         end = min(start + chunk_size, total_rows)
-        chunk = df.iloc[start:end].copy()
-        chunk.insert(0, 'number', range(current_number, current_number + len(chunk)))
+        chunk = out_df.iloc[start:end].copy()
         out_name = os.path.join(output_dir, f"{ticker}_sample_{i+1}.csv")
         chunk.to_csv(out_name, index=False, header=False)
         print(f"Saved {out_name} with {len(chunk)} rows.")
-        current_number += len(chunk)
 
 def main():
     parser = argparse.ArgumentParser(description="Split a CSV file into multiple files of N rows each for a ticker, or use a preset array.")
