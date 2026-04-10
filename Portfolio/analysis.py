@@ -117,7 +117,7 @@ class FactorSentimentStudy:
 
 
     # ======================================================
-    # PART 1: SENTIMENT PREDICTIVE POWER
+    # PART I: SENTIMENT PREDICTIVE POWER
     # ======================================================
 
     def sentiment_predictive(self):
