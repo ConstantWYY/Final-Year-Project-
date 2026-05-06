@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 ====================== CONFIGURATION ======================
-start_date = '2025-10-01'          # Change if you want earlier data
+start_date = '2025-10-01'          
 end_date   = datetime.now().strftime('%Y-%m-%d')
 
 tickers = ['SPY', 'IWM', 'IWD', 'IWF', 'IRX']
@@ -36,6 +36,5 @@ print("\nFull date range:")
 print(f"From {proxies.index.min().date()} to {proxies.index.max().date()}")
 print(f"Total trading days: {len(proxies)}")
 
-Save to CSV for your model
 proxies.to_csv('FF3_proxies_Oct_Nov_2025.csv')
 print("\nSaved to 'FF3_proxies_Oct_Nov_2025.csv'")
