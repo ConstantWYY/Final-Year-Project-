@@ -1,8 +1,9 @@
+# ====================== CONFIGURATION ======================
 import yfinance as yf
 import pandas as pd
 from datetime import datetime
 
-====================== CONFIGURATION ======================
+# Configuration
 start_date = '2025-10-01'          
 end_date   = datetime.now().strftime('%Y-%m-%d')
 
@@ -11,24 +12,24 @@ tickers = ['SPY', 'IWM', 'IWD', 'IWF', 'IRX']
 print("Fetching data from Yahoo Finance...")
 data = yf.download(tickers, start=start_date, end=end_date, progress=False)['Adj Close']
 
-====================== COMPUTE PROXIES ======================
+# ====================== COMPUTE PROXIES ======================
 proxies = pd.DataFrame(index=data.index)
 
-Mkt-RF: SPY daily return minus daily RF
+# Mkt-RF: SPY daily return minus daily RF
 proxies['Mkt-RF'] = data['SPY'].pct_change() * 100 - (data['IRX'] / 365)
 
-SMB: IWM - SPY daily return
+# SMB: IWM - SPY daily return
 proxies['SMB'] = (data['IWM'] - data['SPY']).pct_change() * 100
 
-HML: IWD - IWF daily return
+# HML: IWD - IWF daily return
 proxies['HML'] = (data['IWD'] - data['IWF']).pct_change() * 100
 
-RF: daily approximation
+# RF: daily approximation
 proxies['RF'] = data['IRX'] / 365
 
 proxies = proxies.dropna()   # Remove first row (NaN)
 
-====================== OUTPUT ======================
+# ====================== OUTPUT ======================
 print("\n=== FF3 PROXIES (last 15 trading days) ===")
 print(proxies.tail(15).round(4))
 
