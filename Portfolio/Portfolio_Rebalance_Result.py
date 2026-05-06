@@ -15,7 +15,7 @@ import datetime
 # ==========================================
 # CONFIGURATION
 # ==========================================
-# 1. Define your portfolio tickers
+# 1. Define portfolio tickers
 TICKERS = ["ABT", "AMZN", "AVGO", "BEP", "DHR", "ENPH", "FSLR",
            "ISRG", "LLY", "META", "NEE", "NVO", "PLUG", "SNOW", "TSLA"]
 
@@ -220,7 +220,7 @@ class PortfolioStrategy:
 
             n = len(group)
 
-            # 🔴 FIX: avoid empty groups
+            # FIX: avoid empty groups
             cutoff_low = max(1, int(n * bottom_q))
             cutoff_high = min(n - 1, int(n * (1 - top_q)))
 
@@ -242,7 +242,7 @@ class PortfolioStrategy:
 
         self.factors_df = self.factors_df.join(sent_factor_df, how='inner')
 
-        # 🔴 CRITICAL: LAG FACTOR (avoid look-ahead)
+      
         self.factors_df['SENT_FACTOR'] = self.factors_df['SENT_FACTOR'].shift(1)
 
         print("Sentiment factor constructed successfully.")
@@ -260,7 +260,6 @@ class PortfolioStrategy:
 
             df = df.copy()
 
-            # 🔴 Ensure full alignment
             df = df.join(
                 self.factors_df[['SENT_FACTOR']],
                 how='inner'
@@ -276,7 +275,6 @@ class PortfolioStrategy:
             rres = rols.fit()
             params = rres.params
 
-            # 🔴 FIX: remove rolling mean of factors
             pred = (
                 params['const'] +
                 params['Mkt-RF'] * df['Mkt-RF'] +
@@ -301,7 +299,7 @@ class PortfolioStrategy:
         # Attach RF
         self.forecasts['RF'] = self.factors_df['RF']
 
-        # 🔴 Drop empty rows
+        # Drop empty rows
         self.forecasts = self.forecasts.dropna(how='all')
 
     def rebalance_portfolio(self):
@@ -505,7 +503,6 @@ if __name__ == "__main__":
     bot.load_common_factors()
     bot.get_stock_data()
 
-    # 🔴 NEW STEP (VERY IMPORTANT)
     bot.construct_sentiment_factor()
 
     bot.run_rolling_model()
