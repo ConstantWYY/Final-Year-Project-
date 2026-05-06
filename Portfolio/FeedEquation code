@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # =============================================================================
-# YOUR FINAL PROJECT PARAMETERS
+# FINAL PROJECT PARAMETERS
 # =============================================================================
 TICKERS = ["ABT", "AMZN", "AVGO", "BEP", "DHR", "ENPH", "FSLR", "ISRG", "LLY", "META", "NEE", "NVO", "PLUG", "SNOW", "TSLA"]
 forecast_dates = pd.date_range('2025-10-13', '2025-11-13', freq='D')  # 32 days
@@ -91,7 +91,7 @@ stock_totals = final_predictions.sum()
 print(stock_totals.sort_values(ascending=False).head().round(3))
 
 # =============================================================================
-# 5. FIXED 4-PANEL CHARTS (No dtype errors!)
+# 5. FIXED 4-PANEL CHARTS
 # =============================================================================
 fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(20, 12))
 
